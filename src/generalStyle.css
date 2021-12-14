@@ -226,7 +226,7 @@ br {
   height: 60%;
   width: 82%;
   right: 8%;
-  top: 17%;
+  top: 13%;
   color: rgb(28, 63, 85);
   font-size: 4.3vmin;
   overflow-y: scroll;
@@ -237,7 +237,7 @@ br {
   height: 60%;
   width: 82%;
   right: 8%;
-  top: 17%;
+  top: 13%;
   color: rgb(28, 63, 85);
   font-size: 4.2vmin;
   overflow-y: scroll;
@@ -456,11 +456,10 @@ br {
 .img-questions {
   width: 70px;
   max-height: 47px;
-  position: absolute;
-  top: -48px;
-  left: 50%;
+  top: 17px;
+  display: block;
+  margin: auto;
   border-radius: 0.5em;
-  transform: translate(-50%,0);
 }
 
 
