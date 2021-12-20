@@ -1,1 +1,2522 @@
-const _0x3b1933=_0x676a;(function(_0x3f88c3,_0x24b295){const _0x3fb987=_0x676a,_0x3577f1=_0x3f88c3();while(!![]){try{const _0x2725fe=parseInt(_0x3fb987(0x58c))/0x1+-parseInt(_0x3fb987(0x644))/0x2*(parseInt(_0x3fb987(0x60c))/0x3)+parseInt(_0x3fb987(0x259))/0x4*(parseInt(_0x3fb987(0x4da))/0x5)+parseInt(_0x3fb987(0x4b4))/0x6+-parseInt(_0x3fb987(0x2e1))/0x7*(-parseInt(_0x3fb987(0x51d))/0x8)+parseInt(_0x3fb987(0x26a))/0x9*(parseInt(_0x3fb987(0x540))/0xa)+-parseInt(_0x3fb987(0x3a3))/0xb;if(_0x2725fe===_0x24b295)break;else _0x3577f1['push'](_0x3577f1['shift']());}catch(_0x673cc7){_0x3577f1['push'](_0x3577f1['shift']());}}}(_0x33d0,0x40a41));var _0x1b7458;const _0x5b4b38=0x1e;var _0xda27a0=_0x3b1933(0x35d),_0x53deb1=[],_0x3595f7,_0x591621;const _0x148de3=[_0x3b1933(0x693),_0x3b1933(0x2c8),_0x3b1933(0x5ef)],_0x4daad8=0x3c;var _0xc09706=0x0,_0x8fb7ae=0x0,_0x48e1ce=_0x4daad8,_0x2f16ba=0x0,_0x7a8b3f,_0x446351=![],_0x1636bf=0x0,_0x25f91a=0x0,_0x488987=![],_0x383cf8=[],_0x2d51e5,_0x1bc3f5,_0x4a2e0e,_0x243a52=0x0,_0x1834f5,_0x527f12,_0x53039b,_0x477f47,_0x932f43=0x0,_0x236eaf=0x0,_0x182224=-0x1,_0x23cad9;const _0xa53db6=0x1a0a;function _0x676a(_0x11a1c7,_0x20e221){const _0x33d0da=_0x33d0();return _0x676a=function(_0x676ab9,_0x880f34){_0x676ab9=_0x676ab9-0x1ed;let _0x16146e=_0x33d0da[_0x676ab9];return _0x16146e;},_0x676a(_0x11a1c7,_0x20e221);}var _0x50a400=[];window['addEventListener'](_0x3b1933(0x38b),function(){const _0x1dace9=_0x3b1933,_0x4afb1d={'_0x28d0c3':_0x1dace9(0x5ec),'_0x4385f3':_0x1dace9(0x3cb),'_0x201ef4':_0x1dace9(0x28d),'_0x53a018':_0x1dace9(0x486),'_0xd4b831':_0x1dace9(0x28e),'_0x59aeab':_0x1dace9(0x304),'_0x4f737a':function(_0x49cc5c,_0x1d018b){return _0x49cc5c===_0x1d018b;},'_0x12de53':_0x1dace9(0x697),'_0x14f6a8':function(_0x3ecc6a){return _0x3ecc6a();},'_0x46ffae':function(_0x13d0d5,_0x3caf7b,_0x2fdcd1){return _0x13d0d5(_0x3caf7b,_0x2fdcd1);},'_0x4738eb':_0x1dace9(0x572),'_0x35256f':_0x1dace9(0x3df),'_0x401e2d':_0x1dace9(0x448),'_0x391736':_0x1dace9(0x22e),'_0x599baf':function(_0x4acb55,_0x1ce57c,_0xeb8a51,_0x3481a3){return _0x4acb55(_0x1ce57c,_0xeb8a51,_0x3481a3);},'_0x4b5ca5':_0x1dace9(0x2ee),'_0x4eecf9':function(_0xce740a,_0x303dee,_0x4ec7de,_0x4103f5,_0x5ebc3d,_0x41f652){return _0xce740a(_0x303dee,_0x4ec7de,_0x4103f5,_0x5ebc3d,_0x41f652);},'_0x45b53e':_0x1dace9(0x65e),'_0x355c70':_0x1dace9(0x3bd),'_0x585ad8':_0x1dace9(0x694),'_0x19ecea':_0x1dace9(0x45c),'_0x314973':_0x1dace9(0x384),'_0x14eb65':_0x1dace9(0x2a7),'_0x17c383':_0x1dace9(0x5bd),'_0x2884e1':_0x1dace9(0x349),'_0x6923a8':_0x1dace9(0x51c),'_0xf6d41e':_0x1dace9(0x5a3),'_0x259c6e':_0x1dace9(0x4c9)};_0x1b7458=Object[_0x1dace9(0x59c)](DATA),_0x4afb1d[_0x1dace9(0x4c2)](_0x1df1e5);function _0x1df1e5(){const _0x4570ca=_0x1dace9;document[_0x4570ca(0x5c7)](_0x4afb1d[_0x4570ca(0x4fc)])[_0x4570ca(0x3f7)]=TITLE,document[_0x4570ca(0x5c7)](_0x4afb1d[_0x4570ca(0x4a7)])[_0x4570ca(0x3f7)]=TITLE;}let _0xd1e35d=_0x4afb1d['_0x46ffae'](El,_0x4afb1d[_0x1dace9(0x517)],{'_0x64ec79':_0x4afb1d[_0x1dace9(0x521)]});document[_0x1dace9(0x5c7)](_0x4afb1d[_0x1dace9(0x59b)])[_0x1dace9(0x2e7)](_0xd1e35d),_0xd1e35d[_0x1dace9(0x3fd)](_0x4afb1d[_0x1dace9(0x54c)],_0x17b2c0);let _0x2a2a14=_0x4afb1d[_0x1dace9(0x6ba)](El,_0x4afb1d[_0x1dace9(0x517)],{'_0x64ec79':_0x4afb1d[_0x1dace9(0x670)]},_0x4afb1d[_0x1dace9(0x496)](El,_0x4afb1d['_0x4738eb'],{'_0x64ec79':_0x4afb1d[_0x1dace9(0x32c)]},El(_0x4afb1d[_0x1dace9(0x517)],{'_0x64ec79':_0x4afb1d['_0x355c70']},_0x4afb1d[_0x1dace9(0x2d2)]),_0x4afb1d[_0x1dace9(0x439)](El,_0x4afb1d[_0x1dace9(0x695)],{'attributes':{'_0x5f83e8':_0x4afb1d[_0x1dace9(0x6a3)],'type':_0x1dace9(0x663)}}),El(_0x4afb1d[_0x1dace9(0x517)],{'attributes':{'_0x5f83e8':_0x4afb1d[_0x1dace9(0x5b0)]},'_0x1c39b5':{'click':()=>{const _0x1b8e7a=_0x1dace9;let _0x3c1f88=document[_0x1b8e7a(0x5c7)](_0x1b8e7a(0x28e))['value'];_0x4afb1d[_0x1b8e7a(0x452)](Number(_0x3c1f88),_0xa53db6)?(document[_0x1b8e7a(0x5c7)](_0x4afb1d[_0x1b8e7a(0x61b)])[_0x1b8e7a(0x393)][_0x1b8e7a(0x5ab)](_0x4afb1d[_0x1b8e7a(0x2ad)]),document['querySelector'](_0x1b8e7a(0x3fb))[_0x1b8e7a(0x66a)][_0x1b8e7a(0x570)]='1',this[_0x1b8e7a(0x6b6)](()=>{const _0x1a7b5e=_0x1b8e7a;document[_0x1a7b5e(0x5c7)](_0x4afb1d[_0x1a7b5e(0x6b0)])[_0x1a7b5e(0x607)](),document[_0x1a7b5e(0x5c7)](_0x4afb1d['_0x53a018'])[_0x1a7b5e(0x66a)]['visibility']=_0x1a7b5e(0x520);},0x3e8)):(document['querySelector'](_0x1b8e7a(0x28e))[_0x1b8e7a(0x393)][_0x1b8e7a(0x5ab)](_0x4afb1d[_0x1b8e7a(0x502)]),this[_0x1b8e7a(0x6b6)](()=>{const _0x359118=_0x1b8e7a;document[_0x359118(0x5c7)](_0x4afb1d[_0x359118(0x61b)])[_0x359118(0x522)]='',document[_0x359118(0x5c7)](_0x4afb1d['_0xd4b831'])[_0x359118(0x393)][_0x359118(0x607)](_0x4afb1d[_0x359118(0x502)]);},0x3e8));}}},'בדיקה')));document[_0x1dace9(0x5c7)](_0x4afb1d[_0x1dace9(0x3ef)])[_0x1dace9(0x2e7)](_0x2a2a14);let _0x47894d=El(_0x4afb1d[_0x1dace9(0x699)],{'attributes':{'_0x5f83e8':_0x4afb1d['_0x6923a8'],'src':_0x1dace9(0x34b)}});document[_0x1dace9(0x5c7)](_0x4afb1d[_0x1dace9(0x561)])[_0x1dace9(0x39b)](_0x47894d),document[_0x1dace9(0x5c7)](_0x1dace9(0x226))[_0x1dace9(0x66a)][_0x1dace9(0x46b)]=_0x4afb1d[_0x1dace9(0x3ec)];});function _0x17b2c0(_0x494041){const _0x1483c6=_0x3b1933,_0x1f39c1={'_0x2ea503':_0x1483c6(0x3af),'_0x2b6e74':_0x1483c6(0x5bd),'_0x2cb5dc':function(_0x279dc1){return _0x279dc1();},'_0x13e517':'.page.home','_0x4188f8':_0x1483c6(0x448),'_0xd7c27c':_0x1483c6(0x4d2),'_0x561bcd':_0x1483c6(0x22e),'_0x4c9106':_0x1483c6(0x25b),'_0x26469b':'scroll','_0x5f46e7':'hidden','_0x274fdb':_0x1483c6(0x421),'_0x44809b':_0x1483c6(0x559),'_0x2a85eb':_0x1483c6(0x6a6),'_0x32de14':_0x1483c6(0x40c),'_0x117690':_0x1483c6(0x572),'_0x33aa13':function(_0x74e42,_0x1bc61a,_0x5f2b7d){return _0x74e42(_0x1bc61a,_0x5f2b7d);}};document[_0x1483c6(0x5c7)](_0x1f39c1['_0x13e517'])[_0x1483c6(0x393)][_0x1483c6(0x5ab)](_0x1f39c1[_0x1483c6(0x32e)]),document[_0x1483c6(0x5c7)](_0x1f39c1[_0x1483c6(0x323)])[_0x1483c6(0x607)](),document['querySelector'](_0x1f39c1[_0x1483c6(0x3dd)])[_0x1483c6(0x5a0)](_0x1f39c1[_0x1483c6(0x21c)],_0x17b2c0,![]),document[_0x1483c6(0x5c7)](_0x1483c6(0x25b))[_0x1483c6(0x66a)]['overflow']=_0x1f39c1['_0x5f46e7'],document[_0x1483c6(0x5c7)](_0x1483c6(0x48a))[_0x1483c6(0x66a)][_0x1483c6(0x2c5)]=_0x1f39c1[_0x1483c6(0x2d1)],document[_0x1483c6(0x5c7)](_0x1f39c1[_0x1483c6(0x4d5)])[_0x1483c6(0x66a)][_0x1483c6(0x2c5)]=_0x1483c6(0x421),document[_0x1483c6(0x5c7)](_0x1f39c1['_0x4188f8'])[_0x1483c6(0x393)][_0x1483c6(0x5ab)](_0x1f39c1[_0x1483c6(0x2bf)]),document['querySelector'](_0x1f39c1[_0x1483c6(0x5a5)])[_0x1483c6(0x66a)][_0x1483c6(0x2c5)]=_0x1483c6(0x421),document[_0x1483c6(0x5c7)](_0x1f39c1[_0x1483c6(0x5a5)])[_0x1483c6(0x3fd)]('click',_0x1a4003);let _0x13d5e3=El(_0x1f39c1['_0x117690'],{'_0x64ec79':_0x1483c6(0x3df)});document[_0x1483c6(0x5c7)](_0x1483c6(0x448))[_0x1483c6(0x2e7)](_0x13d5e3),_0x1f39c1[_0x1483c6(0x4b9)](setTimeout,function(){const _0x367713=_0x1483c6;document[_0x367713(0x5c7)](_0x1f39c1[_0x367713(0x323)])[_0x367713(0x3fd)](_0x1f39c1['_0x561bcd'],()=>{const _0x57af7=_0x367713,_0x172c8a=_0x1f39c1[_0x57af7(0x383)][_0x57af7(0x655)]('|');let _0x10ddbc=0x0;while(!![]){switch(_0x172c8a[_0x10ddbc++]){case'0':document[_0x57af7(0x5c7)](_0x1f39c1[_0x57af7(0x323)])[_0x57af7(0x607)]();continue;case'1':_0x1f39c1[_0x57af7(0x31c)](_0xaa9a81);continue;case'2':document['querySelector'](_0x1f39c1[_0x57af7(0x52e)])[_0x57af7(0x393)][_0x57af7(0x607)](_0x57af7(0x4d2));continue;case'3':document[_0x57af7(0x5c7)](_0x1f39c1[_0x57af7(0x4e7)])[_0x57af7(0x393)][_0x57af7(0x607)](_0x1f39c1[_0x57af7(0x32e)]);continue;case'4':document['querySelector'](_0x57af7(0x293))['classList'][_0x57af7(0x5ab)](_0x57af7(0x4d2));continue;}break;}});},0x3e8);}function _0x1a4003(_0x5abd0a){const _0x17f652=_0x3b1933,_0x123d32={'_0x4c7ed2':_0x17f652(0x5bd),'_0x434b25':_0x17f652(0x520),'_0x17a7b2':_0x17f652(0x4d2),'_0x190975':_0x17f652(0x379),'_0x19be31':_0x17f652(0x448),'_0x1432a8':_0x17f652(0x287)};document[_0x17f652(0x5c7)](_0x123d32['_0x4c7ed2'])[_0x17f652(0x66a)][_0x17f652(0x2a9)]=_0x17f652(0x4e0),document[_0x17f652(0x5c7)](_0x123d32[_0x17f652(0x322)])[_0x17f652(0x393)][_0x17f652(0x607)](_0x123d32[_0x17f652(0x231)]),document['querySelector'](_0x123d32[_0x17f652(0x460)])[_0x17f652(0x393)][_0x17f652(0x607)](_0x123d32[_0x17f652(0x231)]),document[_0x17f652(0x5c7)](_0x123d32[_0x17f652(0x4e3)])[_0x17f652(0x393)]['add'](_0x123d32[_0x17f652(0x231)]),document[_0x17f652(0x5c7)]('.page.about\x20.back-btn')['addEventListener'](_0x17f652(0x22e),()=>{const _0x1e803e=_0x17f652;document[_0x1e803e(0x5c7)](_0x123d32[_0x1e803e(0x41d)])[_0x1e803e(0x66a)][_0x1e803e(0x2a9)]=_0x123d32[_0x1e803e(0x3cf)],document[_0x1e803e(0x5c7)](_0x1e803e(0x448))[_0x1e803e(0x393)]['add'](_0x123d32[_0x1e803e(0x231)]),document[_0x1e803e(0x5c7)](_0x123d32[_0x1e803e(0x460)])[_0x1e803e(0x393)][_0x1e803e(0x5ab)](_0x123d32[_0x1e803e(0x231)]),document[_0x1e803e(0x5c7)]('.page.about')[_0x1e803e(0x393)][_0x1e803e(0x607)](_0x123d32[_0x1e803e(0x231)]);});}function _0xaa9a81(){const _0x68e35a=_0x3b1933,_0xc90517={'_0xe9ca8a':_0x68e35a(0x448),'_0x1e428a':_0x68e35a(0x4d2),'_0xce457c':_0x68e35a(0x379),'_0x4408e7':function(_0xa5717c){return _0xa5717c();},'_0x10d7db':_0x68e35a(0x2a6),'_0x51b02c':function(_0x43006e,_0x2518d9,_0x1ab02c){return _0x43006e(_0x2518d9,_0x1ab02c);},'_0x3f0501':_0x68e35a(0x572),'_0x48b416':'full-screen','_0x332fbc':_0x68e35a(0x5bd),'_0x555986':_0x68e35a(0x293),'_0x2d2a2a':function(_0x2e70d7,_0x3819e7,_0xda064d){return _0x2e70d7(_0x3819e7,_0xda064d);},'_0x58cbd0':_0x68e35a(0x349),'_0x1fbe24':function(_0x1e7071,_0x54aab8){return _0x1e7071(_0x54aab8);},'_0x577cc7':_0x68e35a(0x48d),'_0x490d62':_0x68e35a(0x22e),'_0x4ddf2b':_0x68e35a(0x598)};document[_0x68e35a(0x5c7)]('.page.opening')[_0x68e35a(0x393)][_0x68e35a(0x607)](_0xc90517[_0x68e35a(0x299)]),document[_0x68e35a(0x5c7)](_0x68e35a(0x379))[_0x68e35a(0x393)]['remove'](_0xc90517['_0x1e428a']),document[_0x68e35a(0x5c7)](_0xc90517[_0x68e35a(0x4ef)])[_0x68e35a(0x393)][_0x68e35a(0x5ab)](_0xc90517[_0x68e35a(0x299)]);let _0x5e7416=_0xc90517['_0x2d2a2a'](El,_0xc90517[_0x68e35a(0x37e)],{'attributes':{'_0x5f83e8':'back-btn','src':'../assets/images/general/back_btn.svg'},'_0x1c39b5':{'click':function(){const _0x18d02a=_0x68e35a,_0x11889c={'_0x5c4ae2':_0x18d02a(0x23d),'_0x2d9cf9':_0xc90517['_0xe9ca8a'],'_0x4d7469':_0xc90517[_0x18d02a(0x299)],'_0x53d1ed':_0xc90517[_0x18d02a(0x41b)],'_0x629225':function(_0x1a1e52){return _0xc90517['_0x4408e7'](_0x1a1e52);}};document[_0x18d02a(0x5c7)](_0xc90517[_0x18d02a(0x64b)])['innerHTML']='',document['querySelector'](_0x18d02a(0x293))[_0x18d02a(0x393)][_0x18d02a(0x607)](_0xc90517['_0x1e428a']),document['querySelector']('.page.learning.subjects\x20.back-btn')[_0x18d02a(0x607)](),document[_0x18d02a(0x5c7)](_0xc90517[_0x18d02a(0x3c4)])[_0x18d02a(0x393)][_0x18d02a(0x5ab)]('active'),document[_0x18d02a(0x5c7)](_0xc90517[_0x18d02a(0x41b)])[_0x18d02a(0x393)][_0x18d02a(0x5ab)](_0xc90517[_0x18d02a(0x299)]);let _0x2cbe7c=_0xc90517[_0x18d02a(0x62b)](El,_0xc90517[_0x18d02a(0x440)],{'_0x64ec79':_0xc90517['_0x48b416']});document[_0x18d02a(0x5c7)]('.page.opening')[_0x18d02a(0x2e7)](_0x2cbe7c),document[_0x18d02a(0x5c7)](_0xc90517[_0x18d02a(0x44e)])[_0x18d02a(0x3fd)]('click',()=>{const _0x58bd12=_0x18d02a,_0x4cc663=_0x11889c[_0x58bd12(0x601)][_0x58bd12(0x655)]('|');let _0x2ec648=0x0;while(!![]){switch(_0x4cc663[_0x2ec648++]){case'0':document[_0x58bd12(0x5c7)](_0x11889c[_0x58bd12(0x295)])['classList'][_0x58bd12(0x607)](_0x11889c['_0x4d7469']);continue;case'1':document[_0x58bd12(0x5c7)](_0x11889c['_0x53d1ed'])[_0x58bd12(0x393)][_0x58bd12(0x607)](_0x11889c[_0x58bd12(0x351)]);continue;case'2':document['querySelector'](_0x58bd12(0x293))[_0x58bd12(0x393)][_0x58bd12(0x5ab)](_0x58bd12(0x4d2));continue;case'3':document[_0x58bd12(0x5c7)](_0x58bd12(0x5bd))['remove']();continue;case'4':_0x11889c[_0x58bd12(0x618)](_0xaa9a81);continue;}break;}});}}});document['querySelector'](_0x68e35a(0x293))[_0x68e35a(0x39b)](_0x5e7416);for(let _0x52ef00 of _0x1b7458){_0xc90517['_0x1fbe24'](_0x4dae13,_0x52ef00);}document[_0x68e35a(0x5c7)](_0xc90517[_0x68e35a(0x6a8)])['addEventListener'](_0xc90517[_0x68e35a(0x1ff)],_0x161a78),document[_0x68e35a(0x5c7)](_0xc90517[_0x68e35a(0x685)])[_0x68e35a(0x3fd)](_0xc90517[_0x68e35a(0x1ff)],_0x340644);}function _0x4dae13(_0x1e19cd){const _0x540dff=_0x3b1933,_0x228264={'_0x4537a1':_0x540dff(0x321),'_0x48d8ea':'active','_0x28caa6':_0x540dff(0x279),'_0x268d85':_0x540dff(0x293),'_0x4ab525':function(_0x1f0cfb,_0x2e7af6,_0x2f8911,_0x5605c6,_0x3ad368){return _0x1f0cfb(_0x2e7af6,_0x2f8911,_0x5605c6,_0x3ad368);},'_0x1bb3e7':_0x540dff(0x3f8),'_0x5afd32':_0x540dff(0x1f3),'_0xf87aac':function(_0x5067e7,_0x250ec3,_0x3b5e84,_0x4fa426){return _0x5067e7(_0x250ec3,_0x3b5e84,_0x4fa426);},'_0x2fe396':_0x540dff(0x572),'_0x43ee48':_0x540dff(0x22e)};let _0x39da65=_0x228264[_0x540dff(0x4ed)](El,_0x540dff(0x572),{'_0x64ec79':_0x228264['_0x1bb3e7']},El(_0x540dff(0x349),{'attributes':{'src':DATA[_0x1e19cd][_0x540dff(0x1f3)],'_0x5f83e8':_0x228264[_0x540dff(0x210)]}}),_0x228264[_0x540dff(0x643)](El,_0x228264[_0x540dff(0x250)],{'_0x64ec79':_0x540dff(0x62a)},_0x1e19cd));document[_0x540dff(0x5c7)](_0x228264[_0x540dff(0x3d5)])[_0x540dff(0x39b)](_0x39da65),_0x39da65[_0x540dff(0x3fd)](_0x228264[_0x540dff(0x668)],()=>{const _0xfca247=_0x540dff,_0x2ae11e=_0xfca247(0x228)[_0xfca247(0x655)]('|');let _0x88735=0x0;while(!![]){switch(_0x2ae11e[_0x88735++]){case'0':document[_0xfca247(0x5c7)](_0x228264[_0xfca247(0x3d2)])[_0xfca247(0x607)]();continue;case'1':lessonsPage(_0x1e19cd);continue;case'2':document[_0xfca247(0x5c7)]('.page.learning.lessons')[_0xfca247(0x393)]['add'](_0x228264[_0xfca247(0x616)]);continue;case'3':document[_0xfca247(0x5c7)](_0x228264['_0x28caa6'])[_0xfca247(0x3f7)]='';continue;case'4':document[_0xfca247(0x5c7)](_0x228264[_0xfca247(0x254)])[_0xfca247(0x393)][_0xfca247(0x607)](_0x228264[_0xfca247(0x616)]);continue;}break;}});}function _0x161a78(){const _0x21f8eb=_0x3b1933,_0x166031={'_0x5c6287':_0x21f8eb(0x349),'_0x42914e':_0x21f8eb(0x243),'_0x2d6cc8':'checked-subjects','_0x37211b':'../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg','_0x4da3df':_0x21f8eb(0x473),'_0x221398':function(_0x29edfa,_0x347a28){return _0x29edfa<_0x347a28;},'_0x854152':function(_0x1a3da1,_0x4b2814){return _0x1a3da1<_0x4b2814;},'_0xd918e4':'.page.learning.subjects\x20.practiceBTN-popup','_0xdef7c8':_0x21f8eb(0x42b),'_0x19ff60':_0x21f8eb(0x30f),'_0x4a1411':_0x21f8eb(0x42f),'_0x454274':_0x21f8eb(0x681),'_0x98c72':'unset','_0x177ddf':_0x21f8eb(0x279),'_0x2a2c53':_0x21f8eb(0x35b),'_0x3cb3cd':'.page.learning.subjects\x20.dark','_0x2b2774':_0x21f8eb(0x321),'_0x250707':_0x21f8eb(0x20d),'_0x5c7663':_0x21f8eb(0x574),'_0x58bb9d':_0x21f8eb(0x293),'_0x580689':_0x21f8eb(0x23b),'_0x9ca495':'active','_0xc00707':function(_0xdd02c2,_0x40e590,_0x2ee02f,_0x3392b4){return _0xdd02c2(_0x40e590,_0x2ee02f,_0x3392b4);},'_0x1271a5':_0x21f8eb(0x572),'_0x2e2802':'beforePractice-popup','_0x54d1a3':function(_0x2f5c30,_0x5ab85c,_0x3399ea){return _0x2f5c30(_0x5ab85c,_0x3399ea);},'_0xad7d95':_0x21f8eb(0x6be),'_0x581717':'close-btn','_0x42c912':_0x21f8eb(0x4d8),'_0x3dad9f':'בחר\x20נושאי\x20תרגול','_0x2f547e':function(_0x323e7f,_0x5265ef,_0x504975,_0x51e65d,_0x19d3b3){return _0x323e7f(_0x5265ef,_0x504975,_0x51e65d,_0x19d3b3);},'_0x5a5b48':function(_0x3a253f,_0x4c1813,_0x1ae6c8){return _0x3a253f(_0x4c1813,_0x1ae6c8);},'_0x17014a':'checkPlace-big','_0x4026c4':_0x21f8eb(0x207),'_0x2596f8':function(_0x22e056,_0x3bb3fc,_0x246c9a){return _0x22e056(_0x3bb3fc,_0x246c9a);},'_0x3c06b2':_0x21f8eb(0x2ca),'_0x2107a2':_0x21f8eb(0x5a6),'_0x3c11b8':function(_0x56baa7,_0x353856,_0x568724){return _0x56baa7(_0x353856,_0x568724);},'_0x4cccdf':'icon2','_0xab5671':'../assets/images/practice/beforePractice_popup/timer_icon.svg','_0x4153b1':function(_0x5f4a2f,_0xd7f33b,_0x4dc956,_0x2f03bd,_0x501ddd,_0x2221c9){return _0x5f4a2f(_0xd7f33b,_0x4dc956,_0x2f03bd,_0x501ddd,_0x2221c9);},'_0x14c6f8':_0x21f8eb(0x3bd),'_0x426ef3':'דקה','_0x5b98e1':function(_0x3a4b9d,_0x24a52d,_0x55e6a0){return _0x3a4b9d(_0x24a52d,_0x55e6a0);},'_0x1b3b42':_0x21f8eb(0x40a),'_0x5242da':function(_0x2a3013,_0x396195,_0x40f323,_0x29e1c5,_0x12298f){return _0x2a3013(_0x396195,_0x40f323,_0x29e1c5,_0x12298f);},'_0x1e8f7f':function(_0x1a6691,_0x4b2b2b,_0x117826){return _0x1a6691(_0x4b2b2b,_0x117826);},'_0x16c661':_0x21f8eb(0x54d),'_0x2806e8':_0x21f8eb(0x31b),'_0x34d200':function(_0x4656ba,_0x215f5c,_0x1c88f2,_0xba05db){return _0x4656ba(_0x215f5c,_0x1c88f2,_0xba05db);},'_0x22fe42':_0x21f8eb(0x24c),'_0x53e476':'לחצו\x20עליה','_0x1186b8':function(_0xcc63d6,_0x57f675,_0xef0858){return _0xcc63d6(_0x57f675,_0xef0858);},'_0x452b12':_0x21f8eb(0x5e2),'_0x57b112':function(_0x209c32,_0x19a06c,_0x39b360,_0x399363,_0x56f941,_0x4d8e8c){return _0x209c32(_0x19a06c,_0x39b360,_0x399363,_0x56f941,_0x4d8e8c);},'_0x2991fd':'תנשמו','_0x105e07':_0x21f8eb(0x330),'_0x266fb9':'../assets/images/learning/choosePractice_popup/choosePractice_btn.svg','_0x354625':_0x21f8eb(0x650),'_0xc8b6ac':_0x21f8eb(0x22e),'_0x50f8c7':function(_0x1982ee,_0x5b36b2){return _0x1982ee<_0x5b36b2;},'_0x4db23c':function(_0x159a52,_0x3b664c,_0x1f5c6c,_0x15908a,_0x20c8ba){return _0x159a52(_0x3b664c,_0x1f5c6c,_0x15908a,_0x20c8ba);},'_0x2338c7':_0x21f8eb(0x22c),'_0x5b6f65':_0x21f8eb(0x2ec),'_0x13734a':function(_0x49cab9,_0x4a7aa1,_0x4ff27d,_0x276995){return _0x49cab9(_0x4a7aa1,_0x4ff27d,_0x276995);},'_0x41cdd3':_0x21f8eb(0x506),'_0x272093':_0x21f8eb(0x671),'_0x3aee0c':_0x21f8eb(0x4ee)};document['querySelector'](_0x166031[_0x21f8eb(0x28c)])[_0x21f8eb(0x66a)][_0x21f8eb(0x5da)]=_0x21f8eb(0x423)+_0xda27a0+')',document[_0x21f8eb(0x5c7)](_0x166031['_0x2a2c53'])[_0x21f8eb(0x66a)][_0x21f8eb(0x5da)]='blur('+_0xda27a0+')',document['querySelector'](_0x166031[_0x21f8eb(0x539)])[_0x21f8eb(0x66a)][_0x21f8eb(0x5da)]=_0x21f8eb(0x423)+_0xda27a0+')',document[_0x21f8eb(0x5c7)](_0x21f8eb(0x321))[_0x21f8eb(0x66a)][_0x21f8eb(0x5da)]=_0x21f8eb(0x423)+_0xda27a0+')',document[_0x21f8eb(0x5c7)](_0x166031[_0x21f8eb(0x36a)])[_0x21f8eb(0x66a)][_0x21f8eb(0x5da)]=_0x21f8eb(0x423)+_0xda27a0+')';let _0x4e4191=_0x166031['_0xc00707'](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x21f8eb(0x2ef)},El(_0x21f8eb(0x572),{'_0x64ec79':_0x166031[_0x21f8eb(0x414)]},_0x166031[_0x21f8eb(0x40d)](El,_0x166031[_0x21f8eb(0x632)],{'attributes':{'src':_0x166031[_0x21f8eb(0x60a)],'_0x5f83e8':_0x166031[_0x21f8eb(0x5de)]}}),_0x166031[_0x21f8eb(0x66e)](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031[_0x21f8eb(0x386)]},_0x166031[_0x21f8eb(0x355)]),_0x166031['_0x2f547e'](El,_0x21f8eb(0x572),{'_0x64ec79':_0x21f8eb(0x4d0)},_0x166031['_0x5a5b48'](El,_0x166031['_0x5c6287'],{'attributes':{'_0x5f83e8':_0x166031['_0x17014a'],'src':_0x21f8eb(0x270)}}),El(_0x166031['_0x1271a5'],{'_0x64ec79':''},_0x21f8eb(0x399))),El(_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031['_0x4026c4']},_0x166031[_0x21f8eb(0x314)](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031[_0x21f8eb(0x60f)]}),_0x166031['_0x2596f8'](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x21f8eb(0x415)})),El(_0x166031['_0x1271a5'],{'_0x64ec79':_0x166031[_0x21f8eb(0x274)]},_0x166031[_0x21f8eb(0x313)](El,_0x21f8eb(0x572),{},_0x166031['_0x3c11b8'](El,_0x166031[_0x21f8eb(0x632)],{'attributes':{'_0x5f83e8':_0x166031[_0x21f8eb(0x2c4)],'src':_0x166031[_0x21f8eb(0x667)]}}),_0x166031['_0x4153b1'](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031['_0x14c6f8']},_0x166031[_0x21f8eb(0x66e)](El,'b',{},_0x166031[_0x21f8eb(0x6bd)]),_0x166031[_0x21f8eb(0x2b3)](El,'br',{}),_0x166031[_0x21f8eb(0x3a4)])),_0x166031[_0x21f8eb(0x1f6)](El,_0x166031['_0x1271a5'],{},_0x166031[_0x21f8eb(0x378)](El,_0x166031[_0x21f8eb(0x632)],{'attributes':{'_0x5f83e8':_0x166031[_0x21f8eb(0x584)],'src':_0x166031[_0x21f8eb(0x318)]}}),_0x166031[_0x21f8eb(0x5dd)](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':'text'},_0x166031[_0x21f8eb(0x471)](El,'b',{'_0x64ec79':''},_0x166031[_0x21f8eb(0x4ae)]),El('br',{}),_0x166031[_0x21f8eb(0x3b7)])),_0x166031[_0x21f8eb(0x1f6)](El,_0x166031['_0x1271a5'],{},_0x166031[_0x21f8eb(0x37a)](El,_0x21f8eb(0x349),{'attributes':{'_0x5f83e8':_0x166031[_0x21f8eb(0x584)],'src':_0x166031[_0x21f8eb(0x637)]}}),_0x166031[_0x21f8eb(0x58a)](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031['_0x14c6f8']},El('b',{},_0x21f8eb(0x64c)),_0x166031[_0x21f8eb(0x37a)](El,'br',{}),_0x166031[_0x21f8eb(0x33e)]))),El(_0x166031[_0x21f8eb(0x632)],{'attributes':{'_0x5f83e8':_0x166031[_0x21f8eb(0x4cc)],'src':_0x166031['_0x266fb9']}})));document[_0x21f8eb(0x5c7)](_0x166031['_0x58bb9d'])[_0x21f8eb(0x39b)](_0x4e4191),_0x53deb1=[];for(let _0x29a065=0x0;_0x166031[_0x21f8eb(0x629)](_0x29a065,_0x1b7458[_0x21f8eb(0x2bb)]);_0x29a065++){_0x53deb1[_0x29a065]=![];}let _0x245db6=document['querySelector'](_0x166031[_0x21f8eb(0x5be)]);_0x245db6['addEventListener'](_0x166031[_0x21f8eb(0x38a)],_0x592c3e=>{const _0x1f1fbe=_0x21f8eb,_0x27c3fb={'_0x5f47b3':_0x166031[_0x1f1fbe(0x26c)]};if(_0x245db6[_0x1f1fbe(0x393)][_0x1f1fbe(0x515)]('checked')){document[_0x1f1fbe(0x2d5)](_0x1f1fbe(0x4ad))[_0x1f1fbe(0x53b)]((_0x147dc6,_0xb0e12a)=>{const _0x3757b6=_0x1f1fbe;_0x147dc6[_0x3757b6(0x5c7)](_0x3757b6(0x349))[_0x3757b6(0x5c5)]=_0x27c3fb[_0x3757b6(0x497)],_0x147dc6[_0x3757b6(0x393)][_0x3757b6(0x607)](_0x3757b6(0x665));}),_0x245db6[_0x1f1fbe(0x393)]['remove'](_0x166031[_0x1f1fbe(0x256)]);for(let _0x57d8da=0x0;_0x166031[_0x1f1fbe(0x590)](_0x57d8da,_0x1b7458[_0x1f1fbe(0x2bb)]);_0x57d8da++){_0x53deb1[_0x57d8da]=![];}}else{document[_0x1f1fbe(0x2d5)](_0x1f1fbe(0x4ad))['forEach']((_0x733d17,_0x2fc673)=>{const _0x2a4314=_0x1f1fbe;_0x733d17[_0x2a4314(0x5c7)](_0x166031[_0x2a4314(0x632)])['src']=_0x166031[_0x2a4314(0x5e9)],_0x733d17[_0x2a4314(0x393)][_0x2a4314(0x5ab)](_0x166031[_0x2a4314(0x603)]);}),_0x245db6[_0x1f1fbe(0x393)][_0x1f1fbe(0x5ab)](_0x166031['_0x4da3df']);for(let _0x201a31=0x0;_0x166031['_0x854152'](_0x201a31,_0x1b7458['length']);_0x201a31++){_0x53deb1[_0x201a31]=!![];}}let _0x310eff=document[_0x1f1fbe(0x5c7)](_0x1f1fbe(0x42f));document['querySelector'](_0x166031[_0x1f1fbe(0x1fc)])[_0x1f1fbe(0x393)]['toggle'](_0x166031[_0x1f1fbe(0x3d0)],_0x310eff);});for(let _0x407ce7=0x0;_0x166031['_0x50f8c7'](_0x407ce7,_0x1b7458[_0x21f8eb(0x2bb)]);_0x407ce7++){let _0x1d76b6=_0x166031[_0x21f8eb(0x5ac)](El,_0x166031[_0x21f8eb(0x43b)],{'_0x64ec79':_0x166031[_0x21f8eb(0x62e)]},_0x166031[_0x21f8eb(0x37a)](El,_0x21f8eb(0x349),{'attributes':{'_0x5f83e8':_0x166031['_0x5b6f65'],'src':_0x166031[_0x21f8eb(0x26c)]}}),_0x166031[_0x21f8eb(0x5db)](El,_0x166031['_0x1271a5'],{'attributes':{}},_0x1b7458[_0x407ce7]));document[_0x21f8eb(0x5c7)](_0x166031['_0x41cdd3'])[_0x21f8eb(0x39b)](_0x1d76b6),_0x1d76b6[_0x21f8eb(0x3fd)](_0x166031[_0x21f8eb(0x38a)],()=>{const _0x15141c=_0x21f8eb;if(_0x1d76b6[_0x15141c(0x393)][_0x15141c(0x515)](_0x15141c(0x665)))_0x1d76b6[_0x15141c(0x5c7)](_0x15141c(0x349))[_0x15141c(0x5c5)]=_0x166031[_0x15141c(0x26c)],_0x1d76b6[_0x15141c(0x393)][_0x15141c(0x607)](_0x166031[_0x15141c(0x603)]),_0x53deb1[_0x407ce7]=![],_0x245db6['querySelector'](_0x166031[_0x15141c(0x632)])[_0x15141c(0x5c5)]=_0x15141c(0x270),_0x245db6[_0x15141c(0x393)][_0x15141c(0x607)](_0x166031[_0x15141c(0x603)]),_0x245db6[_0x15141c(0x393)][_0x15141c(0x607)](_0x166031[_0x15141c(0x256)]);else{_0x53deb1[_0x407ce7]=!![],_0x1d76b6[_0x15141c(0x5c7)](_0x166031[_0x15141c(0x632)])[_0x15141c(0x5c5)]=_0x166031[_0x15141c(0x5e9)],_0x1d76b6['classList'][_0x15141c(0x5ab)](_0x166031[_0x15141c(0x603)]);let _0x9c95b6=document[_0x15141c(0x5c7)](_0x166031[_0x15141c(0x324)]);_0x245db6[_0x15141c(0x393)][_0x15141c(0x54b)](_0x166031[_0x15141c(0x603)],!_0x9c95b6),_0x245db6[_0x15141c(0x393)][_0x15141c(0x54b)](_0x166031[_0x15141c(0x256)],!_0x9c95b6);if(!_0x9c95b6)_0x245db6['querySelector'](_0x15141c(0x349))[_0x15141c(0x5c5)]=_0x166031['_0x42914e'];}let _0x163a0d=document[_0x15141c(0x5c7)](_0x166031[_0x15141c(0x2ed)]);document[_0x15141c(0x5c7)](_0x166031[_0x15141c(0x1fc)])[_0x15141c(0x393)][_0x15141c(0x54b)](_0x166031[_0x15141c(0x3d0)],_0x163a0d);});}document[_0x21f8eb(0x5c7)](_0x166031[_0x21f8eb(0x29f)])[_0x21f8eb(0x3fd)](_0x166031[_0x21f8eb(0x38a)],()=>{const _0x21bfb0=_0x21f8eb,_0x2915b2=_0x166031[_0x21bfb0(0x441)][_0x21bfb0(0x655)]('|');let _0x4d7ad1=0x0;while(!![]){switch(_0x2915b2[_0x4d7ad1++]){case'0':document[_0x21bfb0(0x5c7)](_0x21bfb0(0x20d))[_0x21bfb0(0x66a)][_0x21bfb0(0x5da)]='unset';continue;case'1':document['querySelector'](_0x21bfb0(0x574))[_0x21bfb0(0x66a)][_0x21bfb0(0x5da)]=_0x166031['_0x98c72'];continue;case'2':document[_0x21bfb0(0x5c7)](_0x166031[_0x21bfb0(0x539)])[_0x21bfb0(0x66a)][_0x21bfb0(0x5da)]=_0x166031[_0x21bfb0(0x221)];continue;case'3':document[_0x21bfb0(0x5c7)](_0x166031['_0x2a2c53'])['style']['filter']=_0x21bfb0(0x43c);continue;case'4':document[_0x21bfb0(0x5c7)](_0x166031[_0x21bfb0(0x2a0)])[_0x21bfb0(0x607)]();continue;case'5':document[_0x21bfb0(0x5c7)](_0x166031[_0x21bfb0(0x4fd)])[_0x21bfb0(0x66a)][_0x21bfb0(0x5da)]=_0x21bfb0(0x43c);continue;}break;}}),document[_0x21f8eb(0x5c7)](_0x166031['_0x3aee0c'])[_0x21f8eb(0x3fd)]('click',()=>{const _0x637fca=_0x21f8eb;document['querySelector'](_0x166031['_0x250707'])[_0x637fca(0x66a)]['filter']=_0x166031[_0x637fca(0x221)],document[_0x637fca(0x5c7)](_0x166031[_0x637fca(0x309)])[_0x637fca(0x66a)][_0x637fca(0x5da)]=_0x166031['_0x98c72'],document[_0x637fca(0x5c7)](_0x166031[_0x637fca(0x539)])[_0x637fca(0x66a)][_0x637fca(0x5da)]=_0x166031[_0x637fca(0x221)],document[_0x637fca(0x5c7)](_0x637fca(0x321))[_0x637fca(0x66a)]['filter']=_0x166031[_0x637fca(0x221)],document[_0x637fca(0x5c7)](_0x166031[_0x637fca(0x36a)])[_0x637fca(0x66a)]['filter']=_0x166031[_0x637fca(0x221)],document[_0x637fca(0x5c7)](_0x166031['_0x177ddf'])[_0x637fca(0x3f7)]='',document[_0x637fca(0x5c7)](_0x166031[_0x637fca(0x2a0)])['remove'](),document[_0x637fca(0x5c7)](_0x166031['_0x58bb9d'])[_0x637fca(0x393)]['remove']('active'),document[_0x637fca(0x5c7)](_0x166031[_0x637fca(0x290)])['classList'][_0x637fca(0x5ab)](_0x166031[_0x637fca(0x34c)]),_0x48d026();});}function _0xb8d521(){const _0xe06f7d=_0x3b1933,_0x9f32ad={'_0x1f9bc0':function(_0xf52417,_0x4b42bc){return _0xf52417/_0x4b42bc;},'_0x5530ca':function(_0x5c160b,_0x17f127){return _0x5c160b===_0x17f127;}};let _0x473e87=[],_0x1015a6=_0x1b7458[_0xe06f7d(0x5da)]((_0x4529bd,_0x5432f5)=>_0x53deb1[_0x5432f5]),_0x31611f=_0x9f32ad[_0xe06f7d(0x6ab)](_0x5b4b38,_0x1015a6[_0xe06f7d(0x2bb)]);for(let _0x3e1721 of _0x1015a6){let _0x208147=DATA[_0x3e1721],_0x5c53f7=_0x208147[_0xe06f7d(0x4a1)][_0xe06f7d(0x2bb)],_0x11416f=Math['min'](_0x5c53f7,Math[_0xe06f7d(0x327)](Math['floor'](_0x31611f),0x1)),_0x413e39=_0x56c290(_0x208147[_0xe06f7d(0x4a1)][_0xe06f7d(0x653)]());_0x473e87[_0xe06f7d(0x624)](..._0x413e39[_0xe06f7d(0x653)](0x0,_0x11416f));if(_0x9f32ad['_0x5530ca'](_0x473e87['length'],_0x5b4b38))break;}return _0x473e87;}function _0x48d026(_0x50c4b2){const _0x541c7a=_0x3b1933,_0x4b6413={'_0xe48010':_0x541c7a(0x23b),'_0x33f40a':_0x541c7a(0x4d2),'_0xe6a6dc':function(_0xe7acc1){return _0xe7acc1();},'_0x1da4b1':function(_0x1ff1e6){return _0x1ff1e6();},'_0x234a82':function(_0x592b6e,_0x34b13e){return _0x592b6e(_0x34b13e);},'_0x1c8e39':'.page.practice\x20.right-answers\x20>\x20.points','_0x1e934d':_0x541c7a(0x462),'_0x289358':function(_0x56318b,_0x563513){return _0x56318b<_0x563513;},'_0x3f0777':function(_0x3698f2,_0x119e42){return _0x3698f2===_0x119e42;},'_0x1cf817':_0x541c7a(0x50f),'_0x4d416b':_0x541c7a(0x22e),'_0x4fee79':_0x541c7a(0x397),'_0x517e05':function(_0x2e4cb4,_0x13ae2f){return _0x2e4cb4===_0x13ae2f;},'_0x54f40d':'.page.practice\x20.first-question\x20.answer-container','_0x1b0ea4':function(_0x119532,_0x1811f8,_0x46a6bf){return _0x119532(_0x1811f8,_0x46a6bf);},'_0x5346ce':'.page.practice\x20.half-half','_0x44a182':function(_0x59ab9a){return _0x59ab9a();},'_0x2ece17':_0x541c7a(0x61a),'_0x2b9059':function(_0x207e12,_0x43401f,_0x1bf156){return _0x207e12(_0x43401f,_0x1bf156);},'_0x9d50af':_0x541c7a(0x349),'_0x54d74b':_0x541c7a(0x46a),'_0x3653dd':'../assets/images/general/back_btn.svg'};_0x383cf8=_0x4b6413[_0x541c7a(0x5ff)](_0xb8d521),_0x4b6413[_0x541c7a(0x54e)](_0x56c290,_0x383cf8),_0x8fb7ae=0x0,_0x2d51e5=0x1,_0x2f16ba=0x0,document[_0x541c7a(0x5c7)](_0x4b6413[_0x541c7a(0x4cb)])[_0x541c7a(0x3f7)]=0x0,document[_0x541c7a(0x5c7)](_0x4b6413[_0x541c7a(0x62f)])[_0x541c7a(0x3f7)]=_0x383cf8[_0x541c7a(0x2bb)];for(let _0x54a3c8=0x0;_0x4b6413[_0x541c7a(0x490)](_0x54a3c8,0x2);_0x54a3c8++){if(_0x4b6413[_0x541c7a(0x31a)](_0x383cf8[_0x54a3c8][_0x541c7a(0x4d9)],_0x541c7a(0x52d)))_0x33fa40(_0x54a3c8),_0x4b6413[_0x541c7a(0x31a)](_0x54a3c8,0x0)&&(document[_0x541c7a(0x5c7)](_0x4b6413[_0x541c7a(0x673)])[_0x541c7a(0x3fd)](_0x4b6413[_0x541c7a(0x69e)],_0x60a56e=>_0x435518(_0x541c7a(0x2b9),_0x60a56e)),document[_0x541c7a(0x5c7)](_0x4b6413['_0x4fee79'])[_0x541c7a(0x3fd)](_0x541c7a(0x22e),_0x94246a=>_0x435518(_0x541c7a(0x5bf),_0x94246a)));else{_0x4b6413[_0x541c7a(0x54e)](_0x51eb74,_0x54a3c8);if(_0x4b6413[_0x541c7a(0x246)](_0x54a3c8,0x0)){let _0x5cdaa5=document['querySelectorAll'](_0x4b6413[_0x541c7a(0x44a)]);for(let _0x58e171=0x0;_0x58e171<0x4;_0x58e171++){_0x5cdaa5[_0x58e171][_0x541c7a(0x3fd)](_0x541c7a(0x22e),_0x3be44d);}}}}document[_0x541c7a(0x5c7)](_0x541c7a(0x4c3))[_0x541c7a(0x3f7)]=_0x2d51e5,_0x7a8b3f=_0x4b6413[_0x541c7a(0x4cf)](setInterval,_0x456c92,0x3e8),document[_0x541c7a(0x5c7)](_0x4b6413[_0x541c7a(0x2e2)])['addEventListener'](_0x4b6413[_0x541c7a(0x69e)],_0xfcf497),_0x4b6413[_0x541c7a(0x649)](_0x30a56d),document['querySelector'](_0x4b6413[_0x541c7a(0x593)])[_0x541c7a(0x3fd)](_0x4b6413[_0x541c7a(0x69e)],_0x2daebf);let _0x2a1843=_0x4b6413[_0x541c7a(0x335)](El,_0x4b6413[_0x541c7a(0x4ff)],{'attributes':{'_0x5f83e8':_0x4b6413[_0x541c7a(0x4c7)],'src':_0x4b6413[_0x541c7a(0x4f9)]},'_0x1c39b5':{'click':function(){const _0x249716=_0x541c7a;document[_0x249716(0x5c7)](_0x4b6413[_0x249716(0x541)])['classList']['remove'](_0x4b6413[_0x249716(0x218)]),document['querySelector'](_0x249716(0x293))[_0x249716(0x393)]['add'](_0x249716(0x4d2)),_0x4b6413[_0x249716(0x5f2)](_0x528547),_0x4b6413[_0x249716(0x5ff)](_0x5231ff);}}});document[_0x541c7a(0x5c7)](_0x541c7a(0x23b))[_0x541c7a(0x39b)](_0x2a1843);}function _0x30a56d(){const _0x94f936=_0x3b1933,_0x5b59b8={'_0x29a404':function(_0x184272,_0x191d5f){return _0x184272>=_0x191d5f;},'_0x2e3a9f':_0x94f936(0x52d),'_0x224971':_0x94f936(0x642),'_0x51d1b3':_0x94f936(0x2f5),'_0x2bb0f1':'none'};if(_0x5b59b8[_0x94f936(0x2d7)](_0x8fb7ae,_0x383cf8[_0x94f936(0x2bb)]))return;_0x383cf8[_0x8fb7ae][_0x94f936(0x4d9)]===_0x5b59b8[_0x94f936(0x296)]?(document['querySelector'](_0x5b59b8['_0x224971'])[_0x94f936(0x66a)][_0x94f936(0x3a5)]=_0x5b59b8['_0x51d1b3'],document[_0x94f936(0x5c7)](_0x5b59b8[_0x94f936(0x463)])[_0x94f936(0x66a)][_0x94f936(0x3e7)]=_0x5b59b8[_0x94f936(0x4b0)]):(document[_0x94f936(0x5c7)](_0x5b59b8[_0x94f936(0x463)])[_0x94f936(0x66a)][_0x94f936(0x3e7)]=_0x94f936(0x469),document['querySelector'](_0x94f936(0x642))[_0x94f936(0x66a)][_0x94f936(0x3a5)]='1',_0x488987=![]);}function _0x51eb74(_0x542e08=0x2){const _0xaea871=_0x3b1933,_0x2bac9d={'_0x4068c9':_0xaea871(0x570),'_0x31ceff':_0xaea871(0x385),'_0x534c0a':_0xaea871(0x20e),'_0x3f3771':_0xaea871(0x487),'_0x2b10ae':function(_0x251852,_0x5da85d){return _0x251852+_0x5da85d;},'_0x399c5b':function(_0x3b63bc,_0x301d80,_0x86baff){return _0x3b63bc(_0x301d80,_0x86baff);},'_0x137f40':'img','_0x46e991':function(_0x57e208,_0x4c86a4){return _0x57e208===_0x4c86a4;},'_0xed6bd6':_0xaea871(0x456),'_0x4e9fcb':_0xaea871(0x546),'_0x53cbe1':_0xaea871(0x68b),'_0x361dca':function(_0x2653ff,_0x3f2da7,_0x138ca1,_0x3da0f4){return _0x2653ff(_0x3f2da7,_0x138ca1,_0x3da0f4);},'_0x5e87de':_0xaea871(0x564),'_0x321e4c':function(_0x269354,_0x642d5d,_0x5e7dcb){return _0x269354(_0x642d5d,_0x5e7dcb);},'_0x2e4b7c':'.page.practice','_0x115a7d':_0xaea871(0x572),'_0x3b3bea':_0xaea871(0x4bc),'_0x44819b':_0xaea871(0x5d2),'_0x302735':_0xaea871(0x38c),'_0x242bc4':_0xaea871(0x484),'_0x347806':_0xaea871(0x6b2),'_0x15a629':_0xaea871(0x280),'_0x3a40eb':_0xaea871(0x33a),'_0x3defdb':function(_0x3910b1,_0x3bf70b,_0x572a07,_0x2a2640,_0x4ba740){return _0x3910b1(_0x3bf70b,_0x572a07,_0x2a2640,_0x4ba740);},'_0x15d07c':_0xaea871(0x390),'_0x1ab04e':function(_0x35ef63,_0x5d7997,_0x31b2f4){return _0x35ef63(_0x5d7997,_0x31b2f4);},'_0xe38b77':_0xaea871(0x56a),'_0x1094d7':_0xaea871(0x4a6),'_0x715027':function(_0x462063,_0x57c9cd,_0x3f8d71,_0x3c497f,_0x841159){return _0x462063(_0x57c9cd,_0x3f8d71,_0x3c497f,_0x841159);},'_0xe8e3d4':'ans2','_0x311d8e':function(_0x46c2d6,_0x2dd4ed,_0x200124,_0x54f872){return _0x46c2d6(_0x2dd4ed,_0x200124,_0x54f872);},'_0x17df77':function(_0x52bd1d,_0x58608d,_0x264442,_0x3f8b76,_0x52baf5){return _0x52bd1d(_0x58608d,_0x264442,_0x3f8b76,_0x52baf5);},'_0x39b214':_0xaea871(0x5ce),'_0x16336e':function(_0x4e9f7f,_0x1a94e1,_0x2f7a44){return _0x4e9f7f(_0x1a94e1,_0x2f7a44);},'_0x380a93':function(_0x4ecb90,_0x3236ab){return _0x4ecb90+_0x3236ab;},'_0x1d0bb1':function(_0x138346,_0x2f359d,_0x31e68c,_0x13fc14,_0x2c3053){return _0x138346(_0x2f359d,_0x31e68c,_0x13fc14,_0x2c3053);},'_0x2f28af':'ans4','_0x1bc99b':function(_0x5d6ec8,_0x1e4345,_0x4c2a88){return _0x5d6ec8(_0x1e4345,_0x4c2a88);},'_0x18bed3':function(_0x3d7f55,_0x5b2568,_0x9f60a0,_0x38adc6,_0x1e17b8){return _0x3d7f55(_0x5b2568,_0x9f60a0,_0x38adc6,_0x1e17b8);},'_0x281b55':_0xaea871(0x422),'_0x5a3905':function(_0x194973,_0x10df08,_0x586ef3){return _0x194973(_0x10df08,_0x586ef3);},'_0x4f7670':function(_0x2ff35f,_0x157750,_0x23db0f,_0x20ec44,_0x58908a,_0x53cc64){return _0x2ff35f(_0x157750,_0x23db0f,_0x20ec44,_0x58908a,_0x53cc64);},'_0x394ddc':_0xaea871(0x316),'_0x5c1e78':function(_0x36709c,_0xa9ff5c,_0x393fed,_0x2ba824){return _0x36709c(_0xa9ff5c,_0x393fed,_0x2ba824);},'_0xde185':_0xaea871(0x29d)};let _0x5f37b2=El(_0x2bac9d[_0xaea871(0x3a6)],{'_0x23bb77':[_0x148de3[_0x542e08]+_0xaea871(0x212),_0x2bac9d['_0x3b3bea'],_0x2bac9d[_0xaea871(0x24d)]]},El(_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d['_0x302735']},El(_0xaea871(0x572),{'_0x64ec79':_0xaea871(0x3f9)},_0x2bac9d[_0xaea871(0x3b0)])),_0x2bac9d[_0xaea871(0x332)](El,_0xaea871(0x349),{'attributes':{'src':_0x2bac9d[_0xaea871(0x380)]}}),El(_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x464)]},_0x2bac9d[_0xaea871(0x406)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x367)]},_0x383cf8[_0x2bac9d[_0xaea871(0x36e)](_0x8fb7ae,_0x542e08)][_0xaea871(0x33a)]),_0x2bac9d['_0x3defdb'](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x23bb77':[_0x2bac9d[_0xaea871(0x488)],_0xaea871(0x2b5)]},_0x2bac9d[_0xaea871(0x425)](El,_0x2bac9d[_0xaea871(0x38e)],{'attributes':{'src':_0x2bac9d['_0xe38b77']}}),_0x2bac9d[_0xaea871(0x406)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x3e4)]},_0x383cf8[_0x2bac9d[_0xaea871(0x36e)](_0x8fb7ae,_0x542e08)][_0xaea871(0x2b5)])),_0x2bac9d[_0xaea871(0x27c)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x23bb77':[_0xaea871(0x390),_0x2bac9d[_0xaea871(0x526)]]},El(_0x2bac9d[_0xaea871(0x38e)],{'attributes':{'src':_0x2bac9d[_0xaea871(0x533)]}}),_0x2bac9d[_0xaea871(0x631)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0xaea871(0x4a6)},_0x383cf8[_0x8fb7ae+_0x542e08][_0xaea871(0x4e4)])),_0x2bac9d[_0xaea871(0x328)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x23bb77':[_0x2bac9d['_0x15d07c'],_0x2bac9d[_0xaea871(0x66d)]]},_0x2bac9d[_0xaea871(0x2ac)](El,_0xaea871(0x349),{'attributes':{'src':_0xaea871(0x56a)}}),_0x2bac9d[_0xaea871(0x631)](El,_0xaea871(0x572),{'_0x64ec79':_0x2bac9d[_0xaea871(0x3e4)]},_0x383cf8[_0x2bac9d[_0xaea871(0x2b8)](_0x8fb7ae,_0x542e08)][_0xaea871(0x5ce)])),_0x2bac9d[_0xaea871(0x39d)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x23bb77':[_0x2bac9d['_0x15d07c'],_0x2bac9d[_0xaea871(0x45a)]]},_0x2bac9d['_0x1bc99b'](El,_0x2bac9d[_0xaea871(0x38e)],{'attributes':{'src':_0x2bac9d[_0xaea871(0x533)]}}),El(_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x3e4)]},_0x383cf8[_0x2bac9d[_0xaea871(0x2b8)](_0x8fb7ae,_0x542e08)]['ans4']))),_0x2bac9d[_0xaea871(0x282)](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x2fd)]},_0x2bac9d[_0xaea871(0x5e6)](El,_0x2bac9d[_0xaea871(0x38e)],{'attributes':{'src':_0xaea871(0x696)}}),_0x2bac9d['_0x4f7670'](El,_0x2bac9d['_0x115a7d'],{'_0x64ec79':'curr-question'},_0x2bac9d['_0x5a3905'](El,_0x2bac9d[_0xaea871(0x3a6)],{'_0x64ec79':_0x2bac9d[_0xaea871(0x3b3)]}),'/',_0x2bac9d[_0xaea871(0x640)](El,_0x2bac9d[_0xaea871(0x3a6)],{},_0x383cf8[_0xaea871(0x2bb)]))));document[_0xaea871(0x5c7)](_0x2bac9d[_0xaea871(0x6af)])[_0xaea871(0x39b)](_0x5f37b2),_0x2a016c();function _0x2a016c(){const _0x55216f=_0xaea871;if(_0x383cf8[_0x2bac9d[_0x55216f(0x36e)](_0x8fb7ae,_0x542e08)]['img']!==undefined){let _0x288ec2=_0x383cf8[_0x8fb7ae+_0x542e08][_0x55216f(0x349)],_0xfadbf1=_0x2bac9d[_0x55216f(0x276)](El,_0x2bac9d[_0x55216f(0x38e)],{'attributes':{'_0x5f83e8':_0x55216f(0x445),'src':_0x288ec2},'_0x1c39b5':{'click':function(){const _0x4a9db8=_0x55216f;document[_0x4a9db8(0x5c7)](_0x4a9db8(0x20e))['style']['display']=_0x2bac9d[_0x4a9db8(0x2c1)],document[_0x4a9db8(0x372)](_0x2bac9d[_0x4a9db8(0x426)])[_0x4a9db8(0x5c5)]=_0x288ec2;}}});if(_0x2bac9d[_0x55216f(0x5ed)](_0x542e08,0x0))document['querySelector'](_0x2bac9d[_0x55216f(0x622)])['prepend'](_0xfadbf1);else{if(_0x2bac9d[_0x55216f(0x5ed)](_0x542e08,0x1))document['querySelector'](_0x2bac9d[_0x55216f(0x3f2)])[_0x55216f(0x333)](_0xfadbf1);else document[_0x55216f(0x5c7)](_0x2bac9d[_0x55216f(0x2e5)])[_0x55216f(0x333)](_0xfadbf1);}}let _0x1931b2=_0x2bac9d[_0x55216f(0x406)](El,'div',{'attributes':{'_0x5f83e8':_0x2bac9d['_0x5e87de']},'_0x1c39b5':{'click':function(){const _0x4920e2=_0x55216f;document[_0x4920e2(0x5c7)](_0x2bac9d[_0x4920e2(0x1fb)])[_0x4920e2(0x66a)][_0x4920e2(0x2c5)]=_0x2bac9d[_0x4920e2(0x620)];}}},_0x2bac9d[_0x55216f(0x332)](El,_0x2bac9d[_0x55216f(0x38e)],{'attributes':{'id':_0x2bac9d[_0x55216f(0x426)],'_0x5f83e8':_0x2bac9d[_0x55216f(0x426)]},'_0x1c39b5':{'click':function(){const _0x45bed7=_0x55216f;document['querySelector'](_0x2bac9d[_0x45bed7(0x1fb)])[_0x45bed7(0x66a)][_0x45bed7(0x2c5)]=_0x45bed7(0x487);}}}));document[_0x55216f(0x5c7)](_0x2bac9d[_0x55216f(0x260)])[_0x55216f(0x39b)](_0x1931b2);}}function _0x33fa40(_0x1c735f=0x2){const _0x53b6c2=_0x3b1933,_0x26447d={'_0x22de71':function(_0x4f9f24,_0x59c96a,_0x555c60,_0x43adde,_0x2978da,_0x15f672,_0xeeb819){return _0x4f9f24(_0x59c96a,_0x555c60,_0x43adde,_0x2978da,_0x15f672,_0xeeb819);},'_0xc25fb4':_0x53b6c2(0x572),'_0x5251c6':_0x53b6c2(0x4bc),'_0x47e0ba':_0x53b6c2(0x52d),'_0x1686dd':function(_0x49beb5,_0x3fffd8,_0x4275f5,_0x331787){return _0x49beb5(_0x3fffd8,_0x4275f5,_0x331787);},'_0xed0c20':_0x53b6c2(0x38c),'_0x550a81':_0x53b6c2(0x349),'_0x429f2a':_0x53b6c2(0x280),'_0x462d6b':_0x53b6c2(0x33a),'_0x3f556e':function(_0x56cfda,_0x34d449,_0x55f209,_0x3f41a6,_0xbe8d02){return _0x56cfda(_0x34d449,_0x55f209,_0x3f41a6,_0xbe8d02);},'_0x114f0d':_0x53b6c2(0x2d3),'_0x164b27':_0x53b6c2(0x485),'_0x4899ec':_0x53b6c2(0x454),'_0x3b0bb9':_0x53b6c2(0x273),'_0x564ba1':function(_0x49e5db,_0xc787c3,_0x3875d0,_0x52d4f7,_0x26b748){return _0x49e5db(_0xc787c3,_0x3875d0,_0x52d4f7,_0x26b748);},'_0x3a1912':_0x53b6c2(0x422),'_0x1d1631':_0x53b6c2(0x696),'_0x21c33f':function(_0x23f0b9,_0x54a885,_0x45c138,_0x11cf57,_0xfe481d,_0x4f8da7){return _0x23f0b9(_0x54a885,_0x45c138,_0x11cf57,_0xfe481d,_0x4f8da7);},'_0x4048ed':_0x53b6c2(0x316),'_0x3132e0':function(_0x1c5430,_0x1545d5,_0x4201db,_0x263e59){return _0x1c5430(_0x1545d5,_0x4201db,_0x263e59);}};let _0x13fe1d=_0x26447d[_0x53b6c2(0x507)](El,_0x26447d[_0x53b6c2(0x492)],{'_0x23bb77':[_0x148de3[_0x1c735f]+_0x53b6c2(0x212),_0x26447d[_0x53b6c2(0x547)],_0x26447d['_0x47e0ba']]},_0x26447d[_0x53b6c2(0x53c)](El,_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x26447d['_0xed0c20']},_0x26447d[_0x53b6c2(0x53c)](El,_0x53b6c2(0x572),{'_0x64ec79':_0x53b6c2(0x3f9)},_0x53b6c2(0x484))),El(_0x26447d[_0x53b6c2(0x4df)],{'attributes':{'src':_0x53b6c2(0x6b2)}}),El(_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x26447d[_0x53b6c2(0x4b8)]},El(_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x26447d[_0x53b6c2(0x374)]},_0x383cf8[_0x8fb7ae+_0x1c735f][_0x53b6c2(0x455)]),_0x26447d[_0x53b6c2(0x3f3)](El,_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x53b6c2(0x580)},El(_0x26447d['_0x550a81'],{'attributes':{'src':_0x26447d['_0x114f0d']},'_0x64ec79':_0x26447d[_0x53b6c2(0x657)]}),El(_0x26447d[_0x53b6c2(0x4df)],{'attributes':{'src':_0x26447d[_0x53b6c2(0x65c)]},'_0x64ec79':_0x26447d[_0x53b6c2(0x661)]}))),_0x26447d[_0x53b6c2(0x2b2)](El,_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x26447d[_0x53b6c2(0x612)]},El(_0x26447d[_0x53b6c2(0x4df)],{'attributes':{'src':_0x26447d[_0x53b6c2(0x664)]}}),_0x26447d[_0x53b6c2(0x537)](El,_0x26447d['_0xc25fb4'],{'_0x64ec79':_0x53b6c2(0x531)},El(_0x26447d[_0x53b6c2(0x492)],{'_0x64ec79':_0x26447d[_0x53b6c2(0x499)]}),'/',_0x26447d[_0x53b6c2(0x37c)](El,_0x26447d[_0x53b6c2(0x492)],{},_0x383cf8[_0x53b6c2(0x2bb)]))));document[_0x53b6c2(0x5c7)]('.container-questions')[_0x53b6c2(0x39b)](_0x13fe1d);}function _0x456c92(){const _0x595a4e=_0x3b1933,_0x11cac7={'_0x47a1f1':'.page.practice\x20.first-question\x20.timeLeft','_0x30849d':function(_0x38f551,_0x188175){return _0x38f551>_0x188175;},'_0x5ec9be':function(_0x94b677,_0xb9e6fb){return _0x94b677(_0xb9e6fb);},'_0x110e13':function(_0x5550f9,_0x11cf28){return _0x5550f9(_0x11cf28);},'_0xbdcce2':_0x595a4e(0x329)};_0x48e1ce<_0x4daad8&&(document[_0x595a4e(0x5c7)](_0x11cac7['_0x47a1f1'])[_0x595a4e(0x3f7)]=_0x48e1ce),_0x11cac7['_0x30849d'](_0x48e1ce,0x0)?_0x48e1ce--:(_0x11cac7[_0x595a4e(0x558)](clearInterval,_0x456c92),_0x11cac7[_0x595a4e(0x370)](_0x50a277,_0x11cac7[_0x595a4e(0x26d)]));}function _0x3be44d(_0x532a31){const _0x37a521=_0x3b1933,_0x28277={'_0x1cd241':_0x37a521(0x262),'_0x30dd3e':function(_0x180060,_0x17d5b6){return _0x180060(_0x17d5b6);},'_0x517a53':_0x37a521(0x349),'_0x470463':_0x37a521(0x271),'_0x440eeb':function(_0x5f05e5,_0x30608a){return _0x5f05e5+_0x30608a;},'_0x1bc90f':'.page.practice\x20.answer-container.','_0x2d3369':_0x37a521(0x6a9),'_0x437729':function(_0x50a00a,_0x5b38b6){return _0x50a00a+_0x5b38b6;},'_0x4cad46':function(_0x57cf41,_0xd7867f){return _0x57cf41+_0xd7867f;},'_0xd42170':_0x37a521(0x467),'_0x391304':'.ans','_0x37d34f':_0x37a521(0x3d8)};if(_0x446351)return;document[_0x37a521(0x5c7)](_0x28277[_0x37a521(0x220)])[_0x37a521(0x3fd)]('click',_0x39ffc9),document['querySelector'](_0x28277[_0x37a521(0x220)])['style'][_0x37a521(0x3a5)]='1',_0x28277[_0x37a521(0x6b4)](clearInterval,_0x7a8b3f),_0x532a31[_0x37a521(0x244)][_0x37a521(0x5c7)](_0x28277['_0x517a53'])[_0x37a521(0x5c5)]=_0x28277['_0x470463'];let _0x3d026e=_0x383cf8[_0x8fb7ae]['_0x1405d4'];_0x532a31[_0x37a521(0x244)]['classList'][_0x37a521(0x515)](''+_0x3d026e)?(document[_0x37a521(0x5c7)](_0x28277[_0x37a521(0x4e1)](_0x28277[_0x37a521(0x46e)],_0x3d026e)+_0x28277[_0x37a521(0x64f)])[_0x37a521(0x66a)]['borderBottom']=_0x37a521(0x467),document[_0x37a521(0x5c7)](_0x28277['_0x437729'](_0x28277[_0x37a521(0x528)](_0x28277[_0x37a521(0x46e)],_0x3d026e),_0x28277[_0x37a521(0x64f)]))[_0x37a521(0x66a)][_0x37a521(0x45d)]='2%',_0x2f16ba++,document[_0x37a521(0x5c7)](_0x37a521(0x457))[_0x37a521(0x3f7)]=_0x2f16ba):(document[_0x37a521(0x5c7)](_0x28277[_0x37a521(0x528)](_0x28277[_0x37a521(0x528)](_0x28277[_0x37a521(0x46e)],_0x3d026e),_0x37a521(0x6a9)))[_0x37a521(0x66a)]['borderBottom']=_0x28277[_0x37a521(0x360)],document[_0x37a521(0x5c7)](_0x28277[_0x37a521(0x528)](_0x28277[_0x37a521(0x528)](_0x28277[_0x37a521(0x46e)],_0x3d026e),'>\x20.ans'))[_0x37a521(0x66a)][_0x37a521(0x45d)]='2%',_0x532a31[_0x37a521(0x244)][_0x37a521(0x5c7)](_0x28277['_0x391304'])[_0x37a521(0x66a)][_0x37a521(0x420)]=_0x28277[_0x37a521(0x495)],_0x532a31[_0x37a521(0x244)][_0x37a521(0x5c7)](_0x28277[_0x37a521(0x20a)])[_0x37a521(0x66a)][_0x37a521(0x45d)]='2%'),_0x446351=!![];}function _0x33d0(){const _0x594d10=['_0x5ac549','_0x22b722','_0x452b12','_0x26a7ea','_0x5a991c','_0x243d44','_0x4b194c','_0x1f8c6c','_0xa10983','_0x14ba0f','_0x46e67e','_0x5c1e78','.page.exam\x20.next','.page.practice\x20.half-half','_0xf87aac','2Tfhiol','_0x2422c1','_0x486d28','4|3|0|2|1','.page.learning.subjects\x20.start-btn','_0x44a182','_0x4d5050','_0x10d7db','תרגעו','_0x3e4b1d','_0x1ea1e1','_0x2d3369','.page.learning.subjects\x20.select-everything','.page.exam','_0x3434fe','slice','_0x5a1315','split','_0x1d2bab','_0x164b27','_0x20f638','.page.exam\x20.card:not(.transition)\x20.right-ans','_0x52aa17','_0x94bd8f','_0x4899ec','_0x55c85d','popup-password','.page.practice\x20.progress-bar-time','_0x351f65','_0x3b0bb9','.page.learning.subjects\x20.exam-popup','password','_0x1d1631','checked-subjects','_0xcb7a48','_0xab5671','_0x43ee48','_0x5d2568','style','../assets/images/exam/backToExam_btn.svg','_0x5f3cbd','_0x39b214','_0xc00707','_0x2e2efa','_0x4b5ca5','.page\x20.beforePractice-popup\x20.close-btn','_0x531e27','_0x1cf817','_0x49f16d','_0x48000b','_0x2a8d49','_0x154484','_0x1d297a','_0x4fdbcf','_0x2172fc','sub-sub-topic','_0x2a4a08','_0x2ead72','instruction','arrow','_0x24e678','0|3|2|5|1|4','_0x4ad4e2','_0x2b2ae6','#num','_0x4ddf2b','ממוצע\x20לשאלה','_0x5aed6b','_0x17bdec','_0x538683','translateX(108vw)','.third-question\x20.question-text','_0x25db1b','_0x1405d4','_0x1f80da','_0x5e25e4','../assets/images/exam/beforeExam_popup/slide_icon.svg','_0x4361d0','_0x52ca61','first','הכניסו\x20סיסמה','_0x19ecea','../assets/images/practice/nextQuestion_btn.svg','correct-animation','_0x71144e','_0x2884e1','_0x353ca1','_0x532197','_0x5a9bee','_0x42a15e','_0x4d416b','_0x55c34f','.page.exam\x20.questionNumber-text','textContent','../assets/images/exam/beforeExam_popup/cellular_icon.svg','_0x314973','_0x1418b9','substr','scrolled','scrollLeft','_0x577cc7','>\x20.ans','_0x47a22a','_0x1f9bc0','_0x48a87b','_0x4be9e5','_0x2ef61','_0xde185','_0x201ef4','transform\x200.7s\x20ease','../assets/images/exam/exam2.svg','.page.practice\x20.title','_0x30dd3e','line','setTimeout','min','_0xefd190','_0x417f1d','_0x599baf','_0x18d23a','_0x458cc2','_0x426ef3','../assets/images/general/close_btn.svg','_0x31fc8e','_0x45fa71','_0x23ebc1','_0xa2df65','.page.exam\x20.back-btn','_0x3499ad','.page.exam\x20.first-card\x20.back','_0x596d32','number-container','getMonth','icon','next','_0x35ffee','_0x5242da','_0x5ad389','.page.exam\x20.back','_0x4b3e77','progress-bar-container','_0x534c0a','_0xd918e4','_0x2cbe9c','_0x19a95e','_0x490d62','prev','_0x26f7c9','_0x564f81','_0x541967','_0x3f10b9','_0x5e125a','_0x5d2de1','subjects-container','_0x55ded6','_0x10d4c5','_0x391304','5|4|2|1|0|3','buttons-exit-popup','.page.learning.subjects\x20.title','.container-full-img','_0x11a683','_0x5afd32','sub-topics-container','-question','0|3|4|2|1','_0x29ba45','_0x233f42','מתוך\x20','circle','_0x33f40a','\x20.score','_0x46ffa5','_0x32ab6b','_0x26469b','_0x3d82ee','_0x172649','_0x1365c0','_0x1cd241','_0x98c72','אוי...\x20לא\x20נורא','_0x43fade','_0x56d21f','_0x16b994','.page.opening\x20\x20.expand','_0x2fd4b9','4|3|2|0|1','_0x5abc65','empty-card','_0x442800','subject-popup','.page.learning.content','click','.page\x20.instructions\x20:nth-child(2)','_0x1d69fe','_0x17a7b2','_0x101956','_0x4a46c1','_0x198d1f','_0x49fd08','_0x419345','_0x32c507','_0x9273e2','log','titleAndIcon-container','.page.practice','_0x15f187','3|0|1|2|4','_0xf742e9','_0x5db3f8','\x20שניות','_0x552631','toFixed','../assets/images/learning/choosePractice_popup/selectedSMALL.svg','target','done','_0x517e05','_0x22070e','_0x57b9c2','_0x390fc5','_0x2b1c97','_0x5f4e39','\x20להגדלת\x20התמונה','_0x44819b','עברת\x20את\x20התרגול\x20בהצלחה','_0x3cfbfc','_0x2fe396','_0x12c97f','_0x5cffab','.page.exam\x20.number-container.active','_0x268d85','_0x10150a','_0x4da3df','_0xe9d1b9','_0x132ac7','13236jUSqXA','last','.main','_0x142d8d','_0x2745c1','_0x5b65e0','_0x5a88fe','_0x2e4b7c','_0x31a043','.page.practice\x20.first-question\x20.next-btn\x20>\x20img','_0x4eb56f','_0x3f38a0','_0x55e0c7','_0x4126dc','text-fill-name','../assets/images/general/wrongSelected_btn.svg','_0x181dc2','9kQJknh','\x20שאלות','_0x37211b','_0xbdcce2','_0x28e307','_0x106553','../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg','../assets/images/general/choosenQuestion.svg','_0x5d5d2c','right-ans','_0x2107a2','_0x597d2e','_0x399c5b','_0x3260dd','ישראלי','.page.learning.subjects\x20.cards-container','_0x2d2c6e','\x20תרגלו\x20עוד','_0x715027','_0x420dce','_0x133f1c','_0x2bee1d','question-text','_0x1d150b','_0x18bed3','_0x57b5fa','_0x43389b','_0x526250','../assets/images/exam/beforeExam_popup/practice_icon.svg','.page.about','.card.next','_0x3c68fe','icon2','.page.learning.content\x20.card-group.block','_0x250707','.full-screen-password','.input-password','_0x273016','_0x580689','_0x273308','לא\x20תרצו\x20להמשיך\x20לנסות?','.page.learning.subjects','_0x329f21','_0x2d9cf9','_0x2e3a9f','_0x2ff613','_0x38cf07','_0x1e428a','_0x524055','_0x55c623','_0x4e6325','.container-questions','_0x5b633a','_0x272093','_0x3cb3cd','_0x2432ee','_0x3c144f','_0x474558','_0x1af4f7','ans4','.page.learning.subjects\x20\x20.cards-container','check-password-btn','_0xcd7cd','visibility','.question','_0x2de988','_0x16336e','_0x12de53','\x20לדלג\x20על\x20שאלה','_0x3882af','_0x205d82','_0x495b82','_0x564ba1','_0x5b98e1','_0x4bfc95','ans1','_0x12540a','_0x54a65d','_0x380a93','right','\x20.questions-number','length','start-btn','_0x15495e','_0xbedd89','_0x2a85eb','justifyContent','_0x4068c9','.page.learning.subjects\x20.instructions','../assets/images/general/rightSelected_btn.svg','_0x4cccdf','display','ישראל','_0x20a3b0','second','_0x1e706c','group-line','_0x2b0086','.page.exam\x20.dark','.title','_0xce773d','.page.learning.content\x20.templates\x20>\x20.','.page.practice\x20.score','_0x274fdb','_0x585ad8','../assets/images/general/wrong_btn.svg','icon5','querySelectorAll','_0x223886','_0x29a404','_0x56a7d8','../assets/images/general/toTheExam.svg','progress-bar-time','_0xefd7d6','.page.exam\x20.sub-titles','_0x57a9ab','_0x1bd144','_0x3f84e2','_0xec4de9','119UcEpDV','_0x5346ce','_0x3e190','arrows','_0x53cbe1','_0xc896c8','before','_0x193907','_0x5d98d2','.page.learning.content\x20.card-group.sub-','בטוח\x20שתרצו\x20להגיש?','checkPlace','_0x4a1411','full-screen-password','dark','.page.exam\x20.first-card\x20.wrong-ans','_0x4bf999','_0x1b904b','num','_0x4f6ae4','0.5','_0x361d72','_0x127262','_0x55fa5a','transform','_0x4e945f','random','_0x1bcdf8','_0x281b55','done-btn','../assets/images/general/ok_btn.svg','כל\x20הכבוד!\x20עברת\x20את\x20המבחן.','_0x5869eb','grey-line','center','wrong-animation','_0x563ecf','../assets/images/general/finish_popup/x_icon.svg','_0x58fd9e','_0x1adb70','_0x2a2c53','_0x186282','_0x299426','_0x4a653d','_0x13e191','_0x1966e4','.page.learning.subjects\x20.subject-popup:not(.checked-subjects)','_0x3df5da','_0xa2817c','_0x407667','_0x2f547e','_0x2596f8','scroll','curr-ques-text','_0x2104a3','_0x2806e8','_0x2291e3','_0x3f0777','../assets/images/practice/beforePractice_popup/slide_icon.svg','_0x2cb5dc','_0x55a747','.page.practice\x20.progress-bar-right-answers','_0x1404fd','6|8|1|2|7|5|9|0|3|4|10','.page.learning.subjects\x20.back-btn','_0x19be31','_0x2b6e74','_0x19ff60','_0xa115c9','_0x4191c4','max','_0x17df77','practice','_0x18cf3b','\x20.back-btn','_0x45b53e','_0x21c22c','_0xd7c27c','_0x1c9738','practiceBTN-popup','_0xeeb596','_0x321e4c','prepend','_0x404797','_0x2b9059','_0x59a73c','_0xd57278','_0x6426b6','תשובות\x20נכונות','question','_0x63e02f','_0x63b35c','scrollTop','_0x2991fd','_0x50af6c','_0xf26645','scrollWidth','_0x538e90','_0x2b81d9','../assets/images/exam/questionMap_btn.svg','_0x3828c0','_0x23b554','_0x5a9664','_0x489afe','img','_0x4a28bd','../assets/images/opening/scrolling_icon.svg','_0x9ca495','_0x1579bc','_0x67743c','_0x623ec3','_0x2f9c3c','_0x4d7469','.page.practice\x20.third-question','_0x5ca1ab','_0x40d4aa','_0x3dad9f','close-btn','_0x3dc3af','_0x46dcb5','\x20.sub-titles','_0xe1e3d9','.page.learning.subjects\x20.sub-title','_0x451a5b','10px','.page.exam\x20.first-card\x20.right-ans','_0x100149','_0xd42170','_0x4816f8','_0x315a25','למעבר\x20בין\x20שאלות','_0x3039b2','_0x52b9f8','_0xe60fad','_0x3a40eb','next-back-btn','_0x222e1b','_0x5c7663','_0x474b50','second-question','אנא\x20וודאו\x20כי\x20ברשותכם','_0x2b10ae','../assets/images/general/finish_popup/tohome_btn.svg','_0x110e13','_0x40f2fa','getElementById','_0x1048bd','_0x462d6b','_0x5cda8e','_0x388d7e','container-subjects','_0x1e8f7f','.page.home','_0x1186b8','_0x1bd5d','_0x3132e0','הכניסו\x20שם\x20פרטי','_0x58cbd0','_0x407a67','_0x347806','_0x559b9b','_0xb7d6bb','_0x2ea503','input-password','full-img','_0x42c912','first-question','_0x5b3001','_0x971701','_0xc8b6ac','load','timer','_0x5e93a5','_0x137f40','_0x213774','answer-container','נגמר\x20הזמן...','_0x1a4ae3','classList','_0x25c1aa','_0x21a454','_0x303424','.page.practice\x20.first-question\x20.wrong-ans','backToExam-btn','בחר\x20הכל','exam','append','_0x2aa811','_0x1d0bb1','_0x204c12','_0x4cf8ab','.page.practice\x20.close-btn','_0x158ef4','_0x253a13','1514150kmLnJl','_0x1b3b42','opacity','_0x115a7d','_0x34d538','_0x51b247','_0x980a97','_0x408226','_0x223a64','_0x12536a','offsetWidth','_0x463a65','0|3|2|4|1','_0x242bc4','../assets/images/exam/back_btn.svg','_0x25acb0','_0x394ddc','.page.exam\x20.title','_0x5e35bc','_0x31eaeb','_0x53e476','innerWidth','0.3','_0x22630b','popup-sub-titles','\x20.container-questions','text','_0x48125a','_0x20cbfc','concat','.page.exam\x20.empty-card','_0x149862','_0x150ac8','_0xe9ca8a','_0x381699','_0x4e21a2','.page.learning.content\x20.container-subjects','_0x62d296','_0x274cf7','_0x1ff077','.page.learning\x20.title','_0x2bf1e8','0.6','_0x50fccc','_0x434b25','_0xdef7c8','.page.','_0x4537a1','getHours','_0x2d58ea','_0x28caa6','_0x1c4fdf','_0x3212a0','2px\x20solid\x20rgb(277,\x2058,\x2078)','_0x174ea4','../assets/images/general/back_btn.svg','לא\x20ניתן\x20לחזור\x20אחורה','_0x16aa6d','_0x4c9106','_0x17ebd6','full-screen','_0x4da793','_0x148d13','_0x24732c','_0x4ec248','_0x1094d7','_0x325956','_0x413c8d','pointerEvents','_0x19240c','_0x539478','_0x54f38','_0x2aab35','_0x259c6e','timeFocus','_0xf0ecc4','_0x17c383','backToHome-btn','_0x574585','_0x4e9fcb','_0x3f556e','../assets/images/general/finish_popup/check_icon.svg','_0x1a1e25','_0x43164b','innerHTML','learningCard','timeLeft','../assets/images/exam/next_btn.svg','.expand','_0x861623','addEventListener','_0x554161','_0x2c7747','_0x5eb893','_0xd9877f','_0x3d7374','כל\x20הכבוד!','_0x1632ce','_0x3c70ca','_0x361dca','_0x1117aa','_0x35547d','_0x4908c6','לשאלה','_0xe6602e','.page.home\x20.about','_0x54d1a3','_0x5724d2','_0xebbfc','#ans','.page.learning.content\x20.cards-container','.page.exam\x20.questions-container','_0x15613f','_0x2e2802','subjects','offsetLeft','_0x39a64c','_0x54a87c','_0x1d5633','input-text','_0xce457c','.page.exam\x20.close-btn','_0x4c7ed2','_0x5a7f4e','_0x33b415','borderBottom','block','next-btn','blur(','position','_0x1ab04e','_0x31ceff','_0x3662ef','_0x3da394','_0x2275fd','_0x165f7f','avalible','_0x2d00a1','_0x1395a9','.page.exam\x20.next-back-btn','.page.learning.subjects\x20.beforePractice-popup\x20.checked-subjects','.page.exam\x20.questions-number','_0x47fc7f','מוגבל\x20לכ-','_0x2d84db','_0x321690','_0xbe13a1','_0x131a7a','_0x328848','_0x213abe','_0x46ffae','_0x4fb781','_0x1271a5','unset','_0x358c2c','_0x265ec3','.page.learning.lessons','_0x3f0501','_0x454274','_0x380c41','_0x566fb5','_0x30aca9','img-questions','_0x4dd682','_0x6f25a2','.page.opening','_0x5206b2','_0x54f40d','_0x4cae72','_0x2b48cd','_0x3b45df','_0x332fbc','2|4|3|0|1|5','_0x40f9b3','_0x10540b','_0x4f737a','_0x2ff7af','../assets/images/general/right_btn.svg','_0x1d1868','.first-question\x20.question-text','.points','נכשלת,\x20יש\x20לך\x20יותר\x20מ-4\x20טעויות.','לפני\x20שמתחילים','_0x2f28af','_0x463459','input','paddingBottom','scrollIntoView','_0x7a5508','_0x190975','_0x1a955a','.page.practice\x20.sum-answers\x20>\x20.points','_0x224971','_0x15a629','_0x13ee4f','_0x37efcb','2px\x20solid\x20rgb(44,\x20191,\x2055)','_0x47bb4c','all','back-btn','transition','_0x4cd9d4','פעם\x20הבאה\x20ענו\x20קצת\x20יותר\x20מהר:)','_0x1bc90f','_0x1674b0','_0x2c7997','_0x34d200','number-img','checked','sub-','_0x3a6b7d','_0x306e30','.page\x20.dark','.page.exam\x20#num','_0x4a172e','end-practice','_0x28bf40','exit-popup','_0x24f140','_0x344442','_0x22c000','_0x2f6beb','_0x53085b','_0x4b1795','_0x56726d','1:00','wrong-ans','.page.opening\x20.instruction-text','none','_0x15d07c','width','.page.home\x20.books','_0x3eab7e','.page.exam\x20.first-card\x20.answer-container','.page.learning.subjects\x20.practice-btn','bind','_0x51dea3','_0x289358','_0x307e27','_0xc25fb4','_0x54470d','_0x3ad8ee','_0x37d34f','_0x4eecf9','_0x5f47b3','הקליקו\x20על\x20הכפתור','_0x4048ed','end-exam','_0x4e42f0','_0x218955','_0x183e8b','_0x50b319','_0x1fbb74','_0x1c38b6','_0x27b286','../assets/images/exam/Done_btn.svg','_0x41da6b','../assets/images/exam/beforeExam_popup/timer_icon.svg','open','ans','_0x4385f3','.page.practice\x20.container-questions','_0x52b97d','_0x3909b8','_0x26970f','_0x3cdc1b','.page.learning.subjects\x20.subject-popup,\x20.page.learning.subjects\x20.select-everything','_0x22fe42','משך\x20זמן\x20המבחן','_0x2bb0f1','_0x56a556','\x20>\x20.ans','_0x898f51','913590bsTOTB','_0x5bcde5','_0x2c32f1','exam-popup-insert-name','_0x429f2a','_0x33aa13','_0x17d09a','_0x2af145','card','_0x408e9d','_0x3d8d91','_0x30a789','_0x63c8e5','_0x500283','_0x14f6a8','.page.practice\x20.first-question\x20.curr-question\x20>\x20.curr-ques-text','לא\x20מוכנים','_0x50d77b','_0x51ad2d','_0x54d74b','smooth','all\x201s\x20ease','_0x6fbda3','_0x1c8e39','_0x105e07','_0x25f201','_0x535a14','_0x1b0ea4','select-everything','_0x469bcf','active','_0xb69afa','3|2|0|4|5|1','_0x44809b','_0x2542d7','_0x55698a','title-popup','type','660lIHShP','_0x287d54','_0x20d821','_0x41ffe3','_0x2ac99b','_0x550a81','hidden','_0x440eeb','_0x34ee1c','_0x1432a8','ans2','_0x25a688','sub-title-popup','_0x4188f8','_0x2e1606','button-popup','_0x5deb97','_0x25208c','map','_0x4ab525','.page\x20.practiceBTN-popup','_0x555986','_0x500452','replace','בכל\x20עת\x20ולחזור\x20אליה','_0x23e5a0','_0x230ba5','view','_0x4725a4','_0x422c77','getDate','_0x3653dd','_0x295298','_0x32a3fb','_0x28d0c3','_0x2b2774','\x20דקות','_0x9d50af','_0x1fa584','third-question','_0x59aeab','_0x268cf9','.page.exam\x20.first-card','_0x580ea1','.page.learning.subjects\x20.subjects','_0x22de71','_0x3eed1f','_0x3df18f','.page.learning.content\x20.sub-topics-container','_0x1230a2','_0x8ca668','.page.exam.done','_0x3b6cef','.page.practice\x20.first-question\x20.right-ans','_0xb4aae1','_0x3ba960','../assets/images/learning/openArrow_icon.svg','_0x55df28','_0x2c0592','contains','_0x21361f','_0x4738eb','content-container','_0x4267e2','.page.exam\x20.header','_0x5b8e53','scrolling_icon','1736UnNufe','checkIcon-btn','_0x4ff610','visible','_0x35256f','value','_0x21fe8f','.page\x20.next-back-btn\x20>\x20img','_0x1b9f9a','_0xe8e3d4','1|3|2|4|0','_0x4cad46','_0x2982fb','_0x3cb4df','_0x48bae1','../assets/images/general/wrongAnswer.svg','binary','_0x13e517','_0x436abd','_0xa05a5a','curr-question','.page.practice\x20.second-question\x20.curr-question\x20>\x20.curr-ques-text','_0xe38b77','_0x520b2f','_0x1b4ac3','_0x12aa6e','_0x21c33f','container-resultes','_0x177ddf','_0x362ff4','forEach','_0x1686dd','_0x5b7ae5','_0x2c83da','_0x489c53','1142770zsZQfF','_0xe48010','_0x1b69ef','_0x422e55','_0x4b4e1d','_0x2fc052','.second-question\x20.question-text','_0x5251c6','clientWidth','_0x15779f','תוכלו','toggle','_0x391736','icon1','_0x234a82','.page.practice\x20.buttons','../assets/images/general/rightAnswer.svg','_0x4d369c','_0x23dc7b','_0x22d3ac','_0x5a7479','_0x3fd2d3','_0x30c6e5','_0x302985','_0x5ec9be','.page.home\x20.textArea','buttons-popup','_0x1c0dff','_0x1c7549','.page.practice\x20.backToHome-btn','_0x13c203','_0x475d0b','_0x486e6f','_0xf6d41e','.page.exam\x20.backToHome-btn','_0x69b876','container-full-img','_0xcddbf7','_0x175752','_0x3d332f','_0x53efd5','_0x21254c','../assets/images/general/chooseQuestion_btn.svg','_0x31ca98','_0x26f281','_0x19f6d3','_0x410ee4','content','flex','\x20.buttons','div','icon3','.page.learning.subjects\x20.buttons','_0x4d7ab4','_0x52485a','correct','_0x4f3741','end','_0x3e966e','sub-topic','.page.exam\x20.first-card\x20.next','_0x769f3','_0x528388','_0x106a88','ans-container','_0x3c0912','_0x32c7ee','_0x47509d','_0x16c661','_0x5c06e3','_0x227e74','_0x2f5f9e','.page.practice\x20.answer-container.','.page.exam\x20.progress-bar-right-answers','_0x57b112','_0x58c1b5','162794yKxBgX','_0x539c4f','_0x399122','_0x28b780','_0x221398','_0x21100a','_0x57669a','_0x2ece17','_0x329145','_0x565e40','instructions-practice','_0x10896c','.page.learning.subjects\x20.exam-btn','_0x40d1a1','_0x4401bb','_0x401e2d','keys','_0x505cd7','_0x12e593','../assets/images/general/finish_popup/home_btn.svg','removeEventListener','icon4','אם\x20אתם\x20מרגישים','.page.opening\x20.container-scrolling_icon','_0x155598','_0x32de14','beforePractice-instruction-container','after','\x20.title','_0x20e8cd','../assets/images/general/leavePracticeOrExam_popup/back.svg','add','_0x4db23c','_0x171729','_0x156c6d','_0x225a18','_0x14eb65','\x20.questions-container','text2-popup','toLowerCase','absolute','.page.exam\x20.timer-text','_0x56af53','_0x4592d3','_0x49e415','4|1|0|3|2','_0x2fff3b','timeIcon-btn','.page.exam\x20.end-exam','.full-screen','_0x354625','wrong','_0x24d0cb','_0x151fbb','_0x2c9f81','_0x3846d3','_0x24a743','src','_0xdf7011','querySelector','_0xb3886f','_0xa68e31','_0x1f4f0a','cloneNode','_0x546b24','_0x3b606e','ans3','_0x2d9819','_0x100be4','_0x52ef1e','multiple','space','.page.learning.subjects\x20.dark','../assets/images/exam/toHand_btn.svg','children','_0x10c838','_0x54de51','.page.exam\x20.first-card\x20.question','filter','_0x13734a','_0xbf8090','_0x4153b1','_0x581717','getFullYear','_0x3aecff','\x20|\x20','../assets/images/practice/beforePractice_popup/blow_icon.svg','_0x630924','_0x120c20','all\x200.7s\x20ease','_0x5a3905','abs','_0x3c462a','_0x42914e','_0x4235d3','_0x46743d','.page.opening\x20.title','_0x46e991','_0x4184ff','third','_0x344030','exam-popup','_0xe6a6dc','_0x821984','_0xee0efc','_0x348fe2','card-group','_0xf99a63','_0x460e2d','_0x28bea0','_0x344359','.page.practice\x20.back-btn','parentElement','floor','.page.practice\x20.first-question\x20.answer-container','_0x1da4b1','quit','_0x5c4ae2','.page.exam\x20.progress-bar-time','_0x2d6cc8','_0x5a57ec','charAt','_0x3317da','remove','_0x3a538c','_0x42812c','_0xad7d95','_0x38849f','1402182WjGibl','.page.practice\x20.first-question\x20.ans','_0x894067','_0x3c06b2','_0x204da0','summery-titles','_0x3a1912','_0x1aab77','_0x54b5e3','_0x5f5073','_0x48d8ea','progress-bar-right-answers','_0x629225','.page.practice\x20.first-question','.page.practice\x20.show-answer','_0xd4b831','_0x5b805f','_0x510886','_0x3d4801','back','_0x3f3771','_0x251c46','_0xed6bd6','_0x5773eb','push','_0x5362fa','_0x322e4c','_0x5370a9','_0x3df96b','_0x854152','subject','_0x51b02c','../assets/images/general/tryAgainBtn.svg','_0x259cb5','_0x2338c7','_0x1e934d','_0x503152','_0x311d8e','_0x5c6287','.sub-topics-container.open','_0x25a2ad'];_0x33d0=function(){return _0x594d10;};return _0x33d0();}function _0x435518(_0xe5fc14,_0x2ebb0f){const _0x4d21e1=_0x3b1933,_0x43573b={'_0x3c144f':_0x4d21e1(0x262),'_0x131a7a':'click','_0x57b5fa':function(_0x2e7a41,_0x5972c3){return _0x2e7a41(_0x5972c3);},'_0x2cbe9c':function(_0x562bd2,_0x28dfd6){return _0x562bd2===_0x28dfd6;},'_0x3cfbfc':_0x4d21e1(0x2b9),'_0x30aca9':'../assets/images/general/rightSelected_btn.svg','_0x351f65':_0x4d21e1(0x268),'_0x388d7e':function(_0x12e828,_0x58b09f){return _0x12e828===_0x58b09f;},'_0x100149':function(_0x4e5813,_0x341631){return _0x4e5813===_0x341631;},'_0x20f128':_0x4d21e1(0x5bf),'_0x2d00a1':function(_0x424346,_0x36f259,_0x14cec1){return _0x424346(_0x36f259,_0x14cec1);},'_0x49f16d':_0x4d21e1(0x349),'_0x3da394':_0x4d21e1(0x550),'_0x243d44':_0x4d21e1(0x6b5),'_0x1048bd':_0x4d21e1(0x2aa),'_0xa10983':'.points','_0xbe13a1':_0x4d21e1(0x52c)};if(_0x446351)return;document[_0x4d21e1(0x5c7)](_0x43573b[_0x4d21e1(0x2a2)])[_0x4d21e1(0x3fd)](_0x43573b[_0x4d21e1(0x436)],_0x39ffc9),document[_0x4d21e1(0x5c7)](_0x4d21e1(0x262))[_0x4d21e1(0x66a)][_0x4d21e1(0x3a5)]='1',_0x43573b[_0x4d21e1(0x283)](clearInterval,_0x7a8b3f);_0x43573b[_0x4d21e1(0x1fd)](_0xe5fc14,_0x43573b[_0x4d21e1(0x24f)])?_0x2ebb0f[_0x4d21e1(0x244)][_0x4d21e1(0x5c5)]=_0x43573b[_0x4d21e1(0x444)]:_0x2ebb0f['target'][_0x4d21e1(0x5c5)]=_0x43573b[_0x4d21e1(0x660)];if(_0x383cf8[_0x8fb7ae][_0x4d21e1(0x2df)]&&_0x43573b[_0x4d21e1(0x376)](_0xe5fc14,_0x43573b[_0x4d21e1(0x24f)])||!_0x383cf8[_0x8fb7ae][_0x4d21e1(0x2df)]&&_0x43573b[_0x4d21e1(0x35f)](_0xe5fc14,_0x43573b['_0x20f128'])){let _0x259383=_0x43573b[_0x4d21e1(0x42c)](El,_0x43573b[_0x4d21e1(0x674)],{'attributes':{'src':_0x43573b[_0x4d21e1(0x428)]},'_0x64ec79':_0x43573b[_0x4d21e1(0x63a)]});document[_0x4d21e1(0x5c7)](_0x43573b['_0x1048bd'])[_0x4d21e1(0x5a7)](_0x259383),_0x2f16ba++,document['querySelector'](_0x43573b[_0x4d21e1(0x63d)])[_0x4d21e1(0x3f7)]=_0x2f16ba;}else{let _0x11e614=_0x43573b['_0x2d00a1'](El,_0x4d21e1(0x349),{'attributes':{'src':_0x43573b[_0x4d21e1(0x435)]},'_0x64ec79':_0x43573b[_0x4d21e1(0x63a)]});document[_0x4d21e1(0x5c7)](_0x43573b[_0x4d21e1(0x373)])[_0x4d21e1(0x5a7)](_0x11e614);}_0x446351=!![];}function _0x39ffc9(){const _0x3fad70=_0x3b1933,_0x9cf16b={'_0x1c4fdf':_0x3fad70(0x5b9),'_0x25c1aa':_0x3fad70(0x43c),'_0x362ff4':function(_0x1ae555){return _0x1ae555();},'_0x564f81':_0x3fad70(0x213),'_0x1d5633':'.page.practice\x20.first-question','_0x5c06e3':function(_0x424db6,_0x153662){return _0x424db6+_0x153662;},'_0x51b247':function(_0x3d83ff,_0x235e90){return _0x3d83ff-_0x235e90;},'_0xa115c9':function(_0x3b96ae,_0x3fc842){return _0x3b96ae(_0x3fc842);},'_0x434c2e':function(_0x5880e0,_0x2cc24f){return _0x5880e0<_0x2cc24f;},'_0x5a88fe':function(_0x216c53,_0x429c78){return _0x216c53===_0x429c78;},'_0x32eba3':function(_0x1a9088,_0x5c1db3){return _0x1a9088+_0x5c1db3;},'_0x1d69fe':function(_0x34ccc4){return _0x34ccc4();},'_0xf742e9':function(_0x58c55e){return _0x58c55e();},'_0x295298':'transition','_0x9e6901':'.page.practice\x20.transition','_0x45cb30':_0x3fad70(0x68a),'_0x45fa71':_0x3fad70(0x6b1),'_0x2ac99b':_0x3fad70(0x5b4),'_0x451a5b':function(_0x39957f,_0x330dcb,_0xf290e6){return _0x39957f(_0x330dcb,_0xf290e6);},'_0x5db3f8':'.page.practice\x20.second-question','_0x2982fb':_0x3fad70(0x36c),'_0x2bf1e8':_0x3fad70(0x352),'_0x55c623':_0x3fad70(0x501),'_0x2d2c83':function(_0x1c4937,_0x807e7d){return _0x1c4937===_0x807e7d;},'_0x3ad8ee':_0x3fad70(0x5e5),'_0x54cabb':_0x3fad70(0x387),'_0xde521e':'.page.practice\x20.container-questions','_0x20cbfc':_0x3fad70(0x487),'_0x559b9b':_0x3fad70(0x54f),'_0x26a7ea':function(_0x5d93fb){return _0x5d93fb();},'_0x5370a9':_0x3fad70(0x262)};_0x2d51e5++,_0x25f91a=_0x9cf16b['_0x5c06e3'](_0x25f91a,_0x9cf16b[_0x3fad70(0x3a8)](_0x4daad8,_0x48e1ce)),_0x9cf16b[_0x3fad70(0x325)](clearInterval,_0x7a8b3f);if(_0x9cf16b['_0x434c2e'](_0x9cf16b[_0x3fad70(0x585)](_0x8fb7ae,0x2),_0x383cf8['length'])){_0x9cf16b[_0x3fad70(0x25f)](_0x383cf8[_0x9cf16b['_0x32eba3'](_0x8fb7ae,0x2)][_0x3fad70(0x4d9)],'binary')?_0x9cf16b[_0x3fad70(0x230)](_0x33fa40):_0x9cf16b[_0x3fad70(0x23e)](_0x51eb74);document[_0x3fad70(0x5c7)](_0x3fad70(0x532))[_0x3fad70(0x3f7)]=_0x2d51e5,document[_0x3fad70(0x5c7)](_0x3fad70(0x619))[_0x3fad70(0x393)][_0x3fad70(0x5ab)](_0x9cf16b[_0x3fad70(0x4fa)]);let _0x20e85d=document[_0x3fad70(0x5c7)](_0x9cf16b['_0x9e6901']);_0x20e85d[_0x3fad70(0x66a)][_0x3fad70(0x2f9)]=_0x9cf16b['_0x45cb30'],_0x20e85d[_0x3fad70(0x66a)][_0x3fad70(0x46b)]=_0x9cf16b[_0x3fad70(0x6c0)],_0x20e85d[_0x3fad70(0x66a)][_0x3fad70(0x424)]=_0x9cf16b[_0x3fad70(0x4de)],_0x9cf16b[_0x3fad70(0x35c)](setTimeout,function(){const _0x416ec5=_0x3fad70,_0x253851=_0x9cf16b[_0x416ec5(0x3d6)][_0x416ec5(0x655)]('|');let _0x35c7e6=0x0;while(!![]){switch(_0x253851[_0x35c7e6++]){case'0':_0x20e85d[_0x416ec5(0x66a)]['transform']=_0x9cf16b[_0x416ec5(0x394)];continue;case'1':_0x20e85d[_0x416ec5(0x66a)][_0x416ec5(0x46b)]=_0x9cf16b[_0x416ec5(0x394)];continue;case'2':_0x9cf16b[_0x416ec5(0x53a)](_0xde6fa4);continue;case'3':_0x20e85d[_0x416ec5(0x66a)][_0x416ec5(0x424)]=_0x9cf16b[_0x416ec5(0x394)];continue;case'4':_0x20e85d[_0x416ec5(0x607)]();continue;}break;}},0x2bc),document[_0x3fad70(0x5c7)](_0x9cf16b['_0x5db3f8'])[_0x3fad70(0x393)][_0x3fad70(0x5ab)](_0x3fad70(0x387)),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x23f)])[_0x3fad70(0x66a)][_0x3fad70(0x46b)]=_0x3fad70(0x6b1),document[_0x3fad70(0x5c7)](_0x9cf16b['_0x5db3f8'])[_0x3fad70(0x393)][_0x3fad70(0x607)](_0x9cf16b[_0x3fad70(0x529)]),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x3cc)])['classList']['add'](_0x9cf16b['_0x2982fb']),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x23f)])[_0x3fad70(0x393)][_0x3fad70(0x607)](_0x9cf16b[_0x3fad70(0x29b)]),_0x48e1ce=_0x4daad8,_0x7a8b3f=_0x9cf16b[_0x3fad70(0x35c)](setInterval,_0x456c92,0x3e8),_0x446351=![];}else{if(_0x9cf16b['_0x2d2c83'](_0x8fb7ae+0x2,_0x383cf8[_0x3fad70(0x2bb)]))document[_0x3fad70(0x5c7)](_0x3fad70(0x532))[_0x3fad70(0x3f7)]=_0x2d51e5,document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x419)])[_0x3fad70(0x66a)][_0x3fad70(0x2f9)]=_0x3fad70(0x68a),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x419)])[_0x3fad70(0x66a)][_0x3fad70(0x46b)]=_0x9cf16b[_0x3fad70(0x494)],document[_0x3fad70(0x5c7)](_0x3fad70(0x619))[_0x3fad70(0x66a)][_0x3fad70(0x424)]=_0x3fad70(0x5b4),_0x9cf16b[_0x3fad70(0x35c)](setTimeout,function(){const _0x52c334=_0x3fad70,_0x5297e3=_0x9cf16b[_0x52c334(0x202)][_0x52c334(0x655)]('|');let _0x1d462b=0x0;while(!![]){switch(_0x5297e3[_0x1d462b++]){case'0':document['querySelector'](_0x9cf16b['_0x1d5633'])[_0x52c334(0x607)]();continue;case'1':_0xde6fa4();continue;case'2':document[_0x52c334(0x5c7)](_0x52c334(0x619))[_0x52c334(0x66a)][_0x52c334(0x424)]='unset';continue;case'3':document['querySelector'](_0x52c334(0x619))['style']['transform']=_0x9cf16b['_0x25c1aa'];continue;case'4':document['querySelector'](_0x9cf16b['_0x1d5633'])[_0x52c334(0x66a)][_0x52c334(0x46b)]=_0x9cf16b['_0x25c1aa'];continue;}break;}},0x2bc),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x23f)])[_0x3fad70(0x66a)][_0x3fad70(0x46b)]=_0x3fad70(0x5e5),document[_0x3fad70(0x5c7)]('.page.practice\x20.second-question')[_0x3fad70(0x393)][_0x3fad70(0x5ab)](_0x9cf16b['_0x54cabb']),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x23f)])[_0x3fad70(0x393)][_0x3fad70(0x607)](_0x3fad70(0x36c)),_0x48e1ce=_0x4daad8,_0x7a8b3f=setInterval(_0x456c92,0x3e8),_0x446351=![];else _0x8fb7ae+0x1===_0x383cf8[_0x3fad70(0x2bb)]&&(document[_0x3fad70(0x5c7)](_0x9cf16b['_0xde521e'])[_0x3fad70(0x66a)][_0x3fad70(0x2c5)]=_0x9cf16b[_0x3fad70(0x3bf)],document['querySelector'](_0x9cf16b[_0x3fad70(0x381)])['style'][_0x3fad70(0x2c5)]=_0x3fad70(0x487),_0x9cf16b[_0x3fad70(0x638)](_0x4f7d10));}_0x8fb7ae++,_0x9cf16b['_0x26a7ea'](_0x30a56d),document[_0x3fad70(0x5c7)](_0x9cf16b[_0x3fad70(0x627)])[_0x3fad70(0x5a0)]('click',_0x39ffc9);}function _0xde6fa4(){const _0x853759=_0x3b1933,_0x1e0ba2={'_0x1117aa':_0x853759(0x52d),'_0x5e9cc6':_0x853759(0x50f),'_0x2c7747':_0x853759(0x22e),'_0x3ff32b':_0x853759(0x397),'_0x3b6cef':_0x853759(0x5fe),'_0x2de988':function(_0x36b322,_0x19e7ca){return _0x36b322<_0x19e7ca;}};if(_0x383cf8[_0x8fb7ae]['type']===_0x1e0ba2[_0x853759(0x407)])document['querySelector'](_0x1e0ba2['_0x5e9cc6'])[_0x853759(0x3fd)](_0x1e0ba2[_0x853759(0x3ff)],_0xa0b763=>_0x435518(_0x853759(0x2b9),_0xa0b763)),document[_0x853759(0x5c7)](_0x1e0ba2['_0x3ff32b'])[_0x853759(0x3fd)](_0x1e0ba2['_0x2c7747'],_0x165a9d=>_0x435518(_0x853759(0x5bf),_0x165a9d));else{let _0x23d7de=document[_0x853759(0x2d5)](_0x1e0ba2[_0x853759(0x50e)]);for(let _0x5a1eee=0x0;_0x1e0ba2[_0x853759(0x2ab)](_0x5a1eee,0x4);_0x5a1eee++){_0x23d7de[_0x5a1eee][_0x853759(0x3fd)](_0x853759(0x22e),_0x3be44d);}}}function _0x4f7d10(){const _0x429033=_0x3b1933,_0x43f079={'_0x53085b':_0x429033(0x4d2),'_0x34d538':_0x429033(0x293),'_0x17bdec':function(_0x2a3d7b){return _0x2a3d7b();},'_0x13ee4f':_0x429033(0x23b),'_0x58c1b5':_0x429033(0x6b3),'_0x5e35bc':_0x429033(0x2d0),'_0x21a454':_0x429033(0x5fb),'_0x408226':function(_0x5d6431,_0x1da8e0){return _0x5d6431/_0x1da8e0;},'_0x6f25a2':_0x429033(0x24e),'_0x2f6beb':_0x429033(0x3f4),'_0x273016':_0x429033(0x222),'_0x47a22a':_0x429033(0x306),'_0x193907':function(_0x39cdfa,_0x14bb54,_0x4bfb3a,_0xae6ffd){return _0x39cdfa(_0x14bb54,_0x4bfb3a,_0xae6ffd);},'_0x175752':_0x429033(0x572),'_0x37efcb':'dark','_0xf0ecc4':function(_0x5dd7e8,_0x17767c,_0x28bc40){return _0x5dd7e8(_0x17767c,_0x28bc40);},'_0x1adb70':'img','_0x596d32':_0x429033(0x6be),'_0x474558':_0x429033(0x356),'_0x26f281':function(_0x434289,_0x2513c5,_0x7470f9,_0x18fdb1){return _0x434289(_0x2513c5,_0x7470f9,_0x18fdb1);},'_0x4cf8ab':_0x429033(0x4d8),'_0x5abc65':function(_0x28ecaf,_0x3c0847,_0x518872,_0xc318f7,_0x52cd59){return _0x28ecaf(_0x3c0847,_0x518872,_0xc318f7,_0x52cd59);},'_0x48a87b':_0x429033(0x3bb),'_0x1966e4':'text1-popup','_0x5c38b8':function(_0x234b93,_0x46bf63,_0x43578b,_0x34c584){return _0x234b93(_0x46bf63,_0x43578b,_0x34c584);},'_0x5362fa':'הנה\x20כמה\x20נתונים\x20שיעזרו\x20לך','_0x3e966e':_0x429033(0x302),'_0x489afe':'container-resultes','_0x4ad4e2':function(_0x262d89,_0x2eca2a,_0x2f7c0d,_0x11f384,_0x23c46c){return _0x262d89(_0x2eca2a,_0x2f7c0d,_0x11f384,_0x23c46c);},'_0x2b2ae6':_0x429033(0x611),'_0x55ded6':_0x429033(0x23a),'_0x4cd9d4':function(_0xf95b1c,_0x387a84,_0xefa44a,_0x22377e){return _0xf95b1c(_0x387a84,_0xefa44a,_0x22377e);},'_0x94bd8f':function(_0x3d7b9b,_0x17d609){return _0x3d7b9b+_0x17d609;},'_0x821984':function(_0x5e979e,_0x1d7a95){return _0x5e979e+_0x1d7a95;},'_0x2fc052':_0x429033(0x216),'_0x57b9c2':_0x429033(0x26b),'_0x22c000':_0x429033(0x1fa),'_0x1fa584':_0x429033(0x240),'_0x105891':'../assets/images/general/finish_popup/timer_icon.svg','_0x47509d':_0x429033(0x5bb),'_0x218955':function(_0xe24f35,_0x5ec5b0,_0x4f2d92,_0x1f3ee2){return _0xe24f35(_0x5ec5b0,_0x4f2d92,_0x1f3ee2);},'_0x4dd682':_0x429033(0x2da),'_0x4f15ac':function(_0x4777d4,_0x3b911e,_0x2e14da){return _0x4777d4(_0x3b911e,_0x2e14da);},'_0x56a7d8':function(_0xf1554f,_0x1c7e52,_0x356f60){return _0xf1554f(_0x1c7e52,_0x356f60);},'_0x2ff7af':function(_0x465968,_0x1be256){return _0x465968+_0x1be256;},'_0x25f201':function(_0x292cdb,_0x5bd84b){return _0x292cdb/_0x5bd84b;},'_0x133f1c':_0x429033(0x65f),'_0x43fade':function(_0x2b7bb6,_0x5a7532){return _0x2b7bb6*_0x5a7532;},'_0x503152':_0x429033(0x55d),'_0xc896c8':_0x429033(0x22e),'_0x13e191':_0x429033(0x3a0)};document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x58b)])[_0x429033(0x66a)][_0x429033(0x5da)]='blur('+_0xda27a0+')',document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x3b5)])[_0x429033(0x66a)]['filter']='blur('+_0xda27a0+')',document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x395)])[_0x429033(0x66a)][_0x429033(0x5da)]=_0x429033(0x423)+_0xda27a0+')',_0x1636bf=_0x43f079[_0x429033(0x3aa)](_0x25f91a,_0x383cf8['length']),_0x1636bf=_0x1636bf[_0x429033(0x242)](0x2);let _0x5da481,_0x2b8f72,_0xd73b66;_0x2f16ba>_0x383cf8[_0x429033(0x2bb)]/0x2?(_0x2b8f72=_0x429033(0x403),_0xd73b66=_0x43f079[_0x429033(0x447)],_0x5da481=_0x43f079[_0x429033(0x480)]):(_0x2b8f72=_0x43f079[_0x429033(0x28f)],_0xd73b66='בהצלחה\x20בפעם\x20הבאה...',_0x5da481=_0x43f079[_0x429033(0x6aa)]);let _0x30df08=_0x43f079[_0x429033(0x2e8)](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x466)]},El(_0x429033(0x572),{'_0x64ec79':_0x429033(0x47a)},_0x43f079[_0x429033(0x3ee)](El,_0x43f079[_0x429033(0x308)],{'attributes':{'src':_0x43f079[_0x429033(0x1f0)],'_0x5f83e8':_0x43f079[_0x429033(0x2a3)]}}),_0x43f079[_0x429033(0x56c)](El,_0x43f079['_0x175752'],{'_0x64ec79':_0x43f079[_0x429033(0x39f)]},_0x2b8f72),_0x43f079[_0x429033(0x229)](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x6ac)]},El(_0x429033(0x572),{'_0x64ec79':_0x43f079[_0x429033(0x30e)]},_0xd73b66),_0x43f079['_0x5c38b8'](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x429033(0x5b2)},_0x43f079[_0x429033(0x625)])),_0x43f079[_0x429033(0x3ee)](El,'div',{'_0x64ec79':_0x43f079['_0x3e966e']}),_0x43f079[_0x429033(0x229)](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x348)]},_0x43f079['_0x4ad4e2'](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079['_0x2b2ae6']},El(_0x43f079['_0x175752'],{'_0x64ec79':_0x43f079[_0x429033(0x208)]},_0x43f079[_0x429033(0x46c)](El,_0x43f079[_0x429033(0x566)],{},_0x43f079[_0x429033(0x65b)](_0x43f079[_0x429033(0x5f3)](_0x2f16ba,'\x20'),_0x429033(0x339))),_0x43f079['_0xf0ecc4'](El,_0x43f079[_0x429033(0x308)],{'attributes':{'src':_0x5da481,'_0x5f83e8':_0x429033(0x51e)}})),_0x43f079[_0x429033(0x545)]+_0x383cf8['length']+_0x43f079[_0x429033(0x248)]),_0x43f079[_0x429033(0x46c)](El,_0x429033(0x572),{'_0x64ec79':_0x43f079['_0x22c000']},El(_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x429033(0x617)}))),El(_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x429033(0x302)}),El(_0x429033(0x572),{'_0x64ec79':_0x43f079[_0x429033(0x348)]},_0x43f079[_0x429033(0x682)](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x683)]},El(_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x208)]},_0x43f079[_0x429033(0x46c)](El,_0x43f079[_0x429033(0x566)],{},_0x43f079[_0x429033(0x5f3)](_0x1636bf,_0x43f079[_0x429033(0x500)])),_0x43f079[_0x429033(0x3ee)](El,_0x429033(0x349),{'attributes':{'src':_0x43f079['_0x105891'],'_0x5f83e8':_0x43f079[_0x429033(0x583)]}})),_0x429033(0x686)),_0x43f079[_0x429033(0x49c)](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x47f)]},_0x43f079[_0x429033(0x3ee)](El,_0x429033(0x572),{'_0x64ec79':_0x43f079[_0x429033(0x446)]}))),_0x43f079['_0x4f15ac'](El,_0x43f079[_0x429033(0x566)],{'_0x64ec79':_0x43f079[_0x429033(0x57a)]}),_0x43f079[_0x429033(0x2d8)](El,_0x43f079[_0x429033(0x308)],{'attributes':{'src':_0x429033(0x59f),'_0x5f83e8':_0x429033(0x3f0)}})));document[_0x429033(0x5c7)](_0x43f079['_0x13ee4f'])[_0x429033(0x39b)](_0x30df08),document['querySelector'](_0x429033(0x31e))[_0x429033(0x66a)]['width']=_0x43f079[_0x429033(0x453)](_0x43f079[_0x429033(0x4cd)](_0x2f16ba,_0x383cf8[_0x429033(0x2bb)])*0x64,'%'),document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x27e)])[_0x429033(0x66a)][_0x429033(0x489)]=_0x43f079[_0x429033(0x453)](_0x43f079[_0x429033(0x223)](_0x43f079[_0x429033(0x4cd)](_0x1636bf,_0x4daad8),0x64),'%'),document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x630)])['addEventListener'](_0x43f079[_0x429033(0x2e6)],()=>{const _0x2ff89a=_0x429033;document[_0x2ff89a(0x5c7)]('.page.practice')[_0x2ff89a(0x393)]['remove'](_0x43f079['_0x53085b']),document[_0x2ff89a(0x5c7)](_0x43f079[_0x2ff89a(0x3a7)])[_0x2ff89a(0x393)][_0x2ff89a(0x5ab)](_0x43f079[_0x2ff89a(0x481)]),_0x528547(!![]),_0x43f079[_0x2ff89a(0x688)](_0x5231ff);}),document[_0x429033(0x5c7)](_0x43f079[_0x429033(0x30d)])['addEventListener'](_0x429033(0x22e),()=>{const _0x57bf3f=_0x429033;document[_0x57bf3f(0x5c7)](_0x43f079[_0x57bf3f(0x465)])[_0x57bf3f(0x393)][_0x57bf3f(0x607)](_0x43f079['_0x53085b']),document['querySelector'](_0x43f079[_0x57bf3f(0x3a7)])[_0x57bf3f(0x393)]['add'](_0x43f079[_0x57bf3f(0x481)]),_0x528547(!![]),_0x43f079[_0x57bf3f(0x688)](_0x5231ff);});}function _0x5231ff(){const _0x42f52f=_0x3b1933,_0x427f72={'_0x3b606e':_0x42f52f(0x293),'_0x535a14':_0x42f52f(0x4d2),'_0x898f51':_0x42f52f(0x2a6),'_0xf99a63':_0x42f52f(0x448),'_0x49fd08':_0x42f52f(0x379),'_0x30a789':_0x42f52f(0x572),'_0x191cb5':_0x42f52f(0x3df),'_0x12c97f':_0x42f52f(0x5bd),'_0x174ea4':_0x42f52f(0x22e),'_0x464474':function(_0x556005,_0x48b893,_0x3e1759){return _0x556005(_0x48b893,_0x3e1759);},'_0x4fea30':'img','_0x361d72':_0x42f52f(0x46a),'_0x69b876':_0x42f52f(0x3da),'_0x263b06':function(_0x442668,_0x2b12cd){return _0x442668(_0x2b12cd);},'_0x4c4152':_0x42f52f(0x598)};let _0xd568b1=_0x427f72['_0x464474'](El,_0x427f72['_0x4fea30'],{'attributes':{'_0x5f83e8':_0x427f72[_0x42f52f(0x2f6)],'src':_0x427f72[_0x42f52f(0x563)]},'_0x1c39b5':{'click':function(){const _0xca6df2=_0x42f52f,_0x87b3c0={'_0xbedd89':_0xca6df2(0x527),'_0x47fc7f':_0x427f72[_0xca6df2(0x5cd)],'_0x407a67':_0x427f72['_0x535a14']};document[_0xca6df2(0x5c7)](_0x427f72[_0xca6df2(0x4b3)])[_0xca6df2(0x3f7)]='',document['querySelector'](_0x427f72[_0xca6df2(0x5cd)])[_0xca6df2(0x393)][_0xca6df2(0x607)](_0x427f72[_0xca6df2(0x4ce)]),document[_0xca6df2(0x5c7)](_0xca6df2(0x321))[_0xca6df2(0x607)](),document[_0xca6df2(0x5c7)](_0x427f72[_0xca6df2(0x5f7)])['classList'][_0xca6df2(0x5ab)](_0x427f72[_0xca6df2(0x4ce)]),document[_0xca6df2(0x5c7)](_0x427f72[_0xca6df2(0x235)])[_0xca6df2(0x393)][_0xca6df2(0x5ab)](_0x427f72['_0x535a14']);let _0x2b78e2=El(_0x427f72[_0xca6df2(0x4bf)],{'_0x64ec79':_0x427f72['_0x191cb5']});document[_0xca6df2(0x5c7)](_0x427f72['_0xf99a63'])['before'](_0x2b78e2),document[_0xca6df2(0x5c7)](_0x427f72[_0xca6df2(0x251)])[_0xca6df2(0x3fd)](_0x427f72['_0x174ea4'],()=>{const _0x13d9f5=_0xca6df2,_0x26ef89=_0x87b3c0[_0x13d9f5(0x2be)][_0x13d9f5(0x655)]('|');let _0xd4bc60=0x0;while(!![]){switch(_0x26ef89[_0xd4bc60++]){case'0':_0xaa9a81();continue;case'1':document[_0x13d9f5(0x5c7)](_0x13d9f5(0x5bd))['remove']();continue;case'2':document[_0x13d9f5(0x5c7)](_0x13d9f5(0x379))[_0x13d9f5(0x393)]['remove'](_0x13d9f5(0x4d2));continue;case'3':document['querySelector'](_0x13d9f5(0x448))[_0x13d9f5(0x393)][_0x13d9f5(0x607)](_0x13d9f5(0x4d2));continue;case'4':document[_0x13d9f5(0x5c7)](_0x87b3c0[_0x13d9f5(0x431)])[_0x13d9f5(0x393)][_0x13d9f5(0x5ab)](_0x87b3c0[_0x13d9f5(0x37f)]);continue;}break;}});}}});document[_0x42f52f(0x5c7)](_0x427f72[_0x42f52f(0x5cd)])[_0x42f52f(0x39b)](_0xd568b1);for(let _0x173c5a of _0x1b7458){_0x427f72['_0x263b06'](_0x4dae13,_0x173c5a);}document[_0x42f52f(0x5c7)](_0x42f52f(0x48d))[_0x42f52f(0x3fd)]('click',_0x161a78),document[_0x42f52f(0x5c7)](_0x427f72['_0x4c4152'])[_0x42f52f(0x3fd)](_0x427f72[_0x42f52f(0x3d9)],_0x340644);}function _0x528547(_0xe6624=![]){const _0x115c63=_0x3b1933,_0x31c14b={'_0x227e74':function(_0x2b8a05,_0x57f0bd){return _0x2b8a05(_0x57f0bd);},'_0x1395a9':_0x115c63(0x4a8),'_0x1a1e25':_0x115c63(0x320),'_0x48125a':_0x115c63(0x43c),'_0x52b9f8':'.page.practice\x20.buttons','_0x54a65d':_0x115c63(0x487),'_0x5ffafd':_0x115c63(0x5fb),'_0xc87e52':_0x115c63(0x570),'_0x4eb56f':'.page.practice\x20.score','_0x86a781':'.page.practice\x20.dark'};_0x48e1ce=_0x4daad8;if(!_0xe6624)_0x31c14b[_0x115c63(0x586)](clearInterval,_0x7a8b3f),document[_0x115c63(0x5c7)](_0x31c14b[_0x115c63(0x42d)])['innerHTML']='';else{const _0xf56902=_0x31c14b[_0x115c63(0x3f5)][_0x115c63(0x655)]('|');let _0x56bd5e=0x0;while(!![]){switch(_0xf56902[_0x56bd5e++]){case'0':document[_0x115c63(0x5c7)](_0x31c14b['_0x1395a9'])[_0x115c63(0x66a)][_0x115c63(0x5da)]=_0x31c14b[_0x115c63(0x3be)];continue;case'1':document['querySelector'](_0x31c14b[_0x115c63(0x365)])[_0x115c63(0x66a)]['display']=_0x31c14b[_0x115c63(0x2b7)];continue;case'2':document[_0x115c63(0x5c7)](_0x115c63(0x4a8))['style'][_0x115c63(0x2c5)]=_0x115c63(0x570);continue;case'3':document['querySelector'](_0x31c14b['_0x5ffafd'])[_0x115c63(0x66a)][_0x115c63(0x5da)]=_0x115c63(0x43c);continue;case'4':document[_0x115c63(0x5c7)](_0x31c14b[_0x115c63(0x365)])[_0x115c63(0x66a)]['filter']=_0x115c63(0x43c);continue;case'5':document['querySelector'](_0x115c63(0x6b3))[_0x115c63(0x66a)][_0x115c63(0x5da)]=_0x115c63(0x43c);continue;case'6':document['querySelector'](_0x31c14b['_0x1395a9'])[_0x115c63(0x66a)][_0x115c63(0x2c5)]=_0x115c63(0x487);continue;case'7':document[_0x115c63(0x5c7)](_0x31c14b[_0x115c63(0x365)])[_0x115c63(0x66a)][_0x115c63(0x2c5)]=_0x31c14b['_0xc87e52'];continue;case'8':document[_0x115c63(0x5c7)](_0x31c14b[_0x115c63(0x42d)])[_0x115c63(0x3f7)]='';continue;case'9':document[_0x115c63(0x5c7)](_0x31c14b[_0x115c63(0x263)])['style'][_0x115c63(0x5da)]=_0x115c63(0x43c);continue;case'10':document[_0x115c63(0x5c7)](_0x31c14b['_0x86a781'])[_0x115c63(0x607)]();continue;}break;}}document[_0x115c63(0x5c7)](_0x115c63(0x5fb))[_0x115c63(0x607)](),_0x446351=![];}function _0xfcf497(){const _0x3567c0=_0x3b1933,_0x1263c1={'_0x46756e':function(_0x232dbc,_0x3edb14){return _0x232dbc===_0x3edb14;},'_0x21c22c':function(_0x2e5c53,_0x442251){return _0x2e5c53+_0x442251;},'_0x539c4f':function(_0x3783c7,_0x2dcdf7){return _0x3783c7!=_0x2dcdf7;},'_0x213abe':function(_0x44f8dd,_0x4ab95c){return _0x44f8dd===_0x4ab95c;},'_0x52485a':function(_0x325ab9,_0x1a5ded){return _0x325ab9!==_0x1a5ded;},'_0x894067':_0x3567c0(0x3b9)};if(_0x488987)return;let _0x33c1b8=null,_0x38e20c=null;while(_0x1263c1['_0x46756e'](_0x33c1b8,null)||_0x38e20c===null){let _0xae938f=_0x1263c1[_0x3567c0(0x32d)](Math[_0x3567c0(0x5fd)](Math['random']()*0x4),0x1);if(_0x1263c1[_0x3567c0(0x58d)](_0xae938f,_0x383cf8[_0x8fb7ae][_0x3567c0(0x68d)][_0x3567c0(0x653)](-0x1))){if(_0x1263c1[_0x3567c0(0x438)](_0x33c1b8,null))_0x33c1b8=_0xae938f;else _0x1263c1[_0x3567c0(0x438)](_0x38e20c,null)&&_0x1263c1[_0x3567c0(0x576)](_0x33c1b8,_0xae938f)&&(_0x38e20c=_0xae938f);}}document[_0x3567c0(0x5c7)]('.page.practice\x20.first-question\x20.ans'+_0x33c1b8)[_0x3567c0(0x66a)][_0x3567c0(0x3a5)]=_0x3567c0(0x3b9),document['querySelector'](_0x3567c0(0x60d)+_0x38e20c)[_0x3567c0(0x66a)][_0x3567c0(0x3a5)]=_0x1263c1[_0x3567c0(0x60e)],document[_0x3567c0(0x5c7)](_0x3567c0(0x60d)+_0x33c1b8)[_0x3567c0(0x66a)][_0x3567c0(0x3e7)]=_0x3567c0(0x487),document['querySelector'](_0x3567c0(0x60d)+_0x38e20c)[_0x3567c0(0x66a)]['pointerEvents']='none',_0x488987=!![];}function _0x2daebf(){const _0x13b98a=_0x3b1933,_0x246603={'_0x5bcde5':function(_0x4c0300,_0x58e868){return _0x4c0300(_0x58e868);},'_0x3212a0':_0x13b98a(0x262),'_0x3aecff':_0x13b98a(0x22e),'_0xc29f50':function(_0x273525,_0x52c9b5){return _0x273525===_0x52c9b5;},'_0x170d51':_0x13b98a(0x50f),'_0x32c507':_0x13b98a(0x2c3),'_0xd7b17c':_0x13b98a(0x397),'_0x28bf40':'../assets/images/general/wrongSelected_btn.svg','_0x541967':function(_0x3214e1,_0x42cf78,_0x13fbac){return _0x3214e1(_0x42cf78,_0x13fbac);},'_0x623ec3':_0x13b98a(0x349),'_0x23b144':_0x13b98a(0x550),'_0x183e8b':'line','_0x3882af':_0x13b98a(0x2aa),'_0x46e67e':function(_0x387983,_0x24f4b2){return _0x387983+_0x24f4b2;},'_0x380c41':function(_0x19cbae,_0xb3e10){return _0x19cbae+_0xb3e10;},'_0x531e27':_0x13b98a(0x588),'_0x24d0cb':_0x13b98a(0x6a9),'_0x2432ee':function(_0x2503f5,_0x406883){return _0x2503f5+_0x406883;}};if(_0x446351)return;_0x246603[_0x13b98a(0x4b5)](clearInterval,_0x7a8b3f),document['querySelector'](_0x246603['_0x3212a0'])[_0x13b98a(0x3fd)](_0x246603[_0x13b98a(0x5e0)],_0x39ffc9),document[_0x13b98a(0x5c7)](_0x246603[_0x13b98a(0x3d7)])[_0x13b98a(0x66a)][_0x13b98a(0x3a5)]='1';let _0xcc0955;if(_0x246603['_0xc29f50'](_0x383cf8[_0x8fb7ae][_0x13b98a(0x4d9)],_0x13b98a(0x52d))){_0xcc0955=_0x383cf8[_0x8fb7ae]['_0x3f84e2'];_0xcc0955?document['querySelector'](_0x246603['_0x170d51'])[_0x13b98a(0x5c5)]=_0x246603[_0x13b98a(0x237)]:document[_0x13b98a(0x5c7)](_0x246603['_0xd7b17c'])[_0x13b98a(0x5c5)]=_0x246603[_0x13b98a(0x47b)];let _0x2b8e7a=_0x246603[_0x13b98a(0x203)](El,_0x246603[_0x13b98a(0x34f)],{'attributes':{'src':_0x246603['_0x23b144']},'_0x64ec79':_0x246603[_0x13b98a(0x49d)]});document[_0x13b98a(0x5c7)](_0x246603[_0x13b98a(0x2af)])[_0x13b98a(0x5a7)](_0x2b8e7a);}else _0xcc0955=_0x383cf8[_0x8fb7ae][_0x13b98a(0x68d)],document['querySelector'](_0x246603[_0x13b98a(0x63f)](_0x246603['_0x380c41'](_0x246603[_0x13b98a(0x672)],_0xcc0955),_0x246603[_0x13b98a(0x5c0)]))['style'][_0x13b98a(0x420)]=_0x13b98a(0x467),document[_0x13b98a(0x5c7)](_0x246603[_0x13b98a(0x442)](_0x246603[_0x13b98a(0x2a1)](_0x13b98a(0x588),_0xcc0955),_0x246603[_0x13b98a(0x5c0)]))[_0x13b98a(0x66a)][_0x13b98a(0x45d)]='2%';_0x446351=!![];}function _0x340644(){const _0x177e2d=_0x3b1933,_0x130989={'_0x597d2e':_0x177e2d(0x44f),'_0x5eb893':'.page.learning.subjects\x20.back-btn','_0x56a556':_0x177e2d(0x43c),'_0x5206b2':_0x177e2d(0x20d),'_0x2f9c3c':_0x177e2d(0x279),'_0x5aed6b':_0x177e2d(0x35b),'_0x407667':'.page.learning.subjects\x20.dark','_0x524055':function(_0x57e001){return _0x57e001();},'_0x546b24':'div','_0x22630b':_0x177e2d(0x2ef),'_0x1c306e':_0x177e2d(0x5f1),'_0x2d58ea':function(_0x1cbba2,_0x2f2e09,_0x2ead61){return _0x1cbba2(_0x2f2e09,_0x2ead61);},'_0x344030':_0x177e2d(0x349),'_0x4a46c1':_0x177e2d(0x356),'_0x22070e':function(_0x2bba53,_0x13fb89,_0x485bfe,_0x2debfd){return _0x2bba53(_0x13fb89,_0x485bfe,_0x2debfd);},'_0x1e706c':_0x177e2d(0x4d8),'_0x1f4f0a':_0x177e2d(0x459),'_0x2ee4fa':function(_0x5b7143,_0xbad1d6,_0xee7664,_0x1c62e9,_0x32a4ff,_0x79786,_0x511c00,_0x4ff764,_0x17bdd7,_0xf9eafa,_0x1e69cd,_0x159771){return _0x5b7143(_0xbad1d6,_0xee7664,_0x1c62e9,_0x32a4ff,_0x79786,_0x511c00,_0x4ff764,_0x17bdd7,_0xf9eafa,_0x1e69cd,_0x159771);},'_0x19f309':'instructions','_0x63c8e5':'instruction','_0x55c85d':function(_0x33fa2a,_0x2b4e9c,_0x3af504,_0x551e49,_0x5a3b5d,_0x184d1d){return _0x33fa2a(_0x2b4e9c,_0x3af504,_0x551e49,_0x5a3b5d,_0x184d1d);},'_0x5a9bee':'text','_0x565e40':_0x177e2d(0x36d),'_0x2d84db':function(_0x22acc4,_0x5d4704,_0x5ed52f){return _0x22acc4(_0x5d4704,_0x5ed52f);},'_0xb4aae1':'קליטה\x20סבירה','_0xa05a5a':function(_0x1cd2a5,_0x4f5f7e,_0x2832f0){return _0x1cd2a5(_0x4f5f7e,_0x2832f0);},'_0x419200':_0x177e2d(0x54d),'_0x12540a':_0x177e2d(0x302),'_0x422c77':function(_0x23f002,_0x33ad81,_0x2fa7cf,_0x7a4aa0,_0x1454cb){return _0x23f002(_0x33ad81,_0x2fa7cf,_0x7a4aa0,_0x1454cb);},'_0x54dcb9':'שימו\x20לב\x20שזמן\x20המבחן','_0x306e30':_0x177e2d(0x432),'_0x2542d7':function(_0x1859de,_0x1c8001,_0x4a3683,_0xab53b3){return _0x1859de(_0x1c8001,_0x4a3683,_0xab53b3);},'_0x2e1606':function(_0x4854d6,_0x308595,_0x594b99){return _0x4854d6(_0x308595,_0x594b99);},'_0x100be4':_0x177e2d(0x4a4),'_0x223886':_0x177e2d(0x28a),'_0x422e55':function(_0xf8afa0,_0x4b33db,_0x5a3e10,_0x52cc37,_0xfaa5c3,_0x28182e,_0x1282e2){return _0xf8afa0(_0x4b33db,_0x5a3e10,_0x52cc37,_0xfaa5c3,_0x28182e,_0x1282e2);},'_0x3846d3':_0x177e2d(0x5a2),'_0x230ba5':_0x177e2d(0x27b),'_0x23b554':_0x177e2d(0x286),'_0x2c83da':_0x177e2d(0x573),'_0x5d98d2':function(_0x1ac3ba,_0x172b92,_0x56a92d){return _0x1ac3ba(_0x172b92,_0x56a92d);},'_0xd57278':function(_0x323265,_0x3525c9,_0x59c1ac,_0x21301f,_0xa60fa8,_0x4b888c){return _0x323265(_0x3525c9,_0x59c1ac,_0x21301f,_0xa60fa8,_0x4b888c);},'_0x55698a':_0x177e2d(0x498),'_0x156c6d':function(_0x699d69,_0x270d78,_0x34c0ed){return _0x699d69(_0x270d78,_0x34c0ed);},'_0x10540b':function(_0x2f84fc,_0x2f2f6f,_0x2d8151){return _0x2f84fc(_0x2f2f6f,_0x2d8151);},'_0x42812c':_0x177e2d(0x5a1),'_0x127262':function(_0x5c8d04,_0x1ca4a4,_0x54da74,_0x3fbad5,_0x19ba70){return _0x5c8d04(_0x1ca4a4,_0x54da74,_0x3fbad5,_0x19ba70);},'_0x55fa5a':_0x177e2d(0x54a),'_0x4f6440':function(_0x2f5b2e,_0x119c8f,_0x12c235){return _0x2f5b2e(_0x119c8f,_0x12c235);},'_0x204da0':_0x177e2d(0x4f2),'_0x307e27':function(_0x258ae2,_0x383e74,_0x3c2ead){return _0x258ae2(_0x383e74,_0x3c2ead);},'_0x2104a3':'../assets/images/exam/beforeExam_popup/skip_icon.svg','_0x48fa52':_0x177e2d(0x2d4),'_0xacfd41':function(_0x1b52be,_0x808cdc,_0x163d6d){return _0x1b52be(_0x808cdc,_0x163d6d);},'_0x15f875':_0x177e2d(0x2ff)};document[_0x177e2d(0x5c7)](_0x130989[_0x177e2d(0x449)])['style'][_0x177e2d(0x5da)]=_0x177e2d(0x423)+_0xda27a0+')',document['querySelector'](_0x130989[_0x177e2d(0x687)])[_0x177e2d(0x66a)][_0x177e2d(0x5da)]=_0x177e2d(0x423)+_0xda27a0+')',document[_0x177e2d(0x5c7)](_0x130989[_0x177e2d(0x350)])[_0x177e2d(0x66a)][_0x177e2d(0x5da)]=_0x177e2d(0x423)+_0xda27a0+')',document[_0x177e2d(0x5c7)](_0x130989[_0x177e2d(0x400)])[_0x177e2d(0x66a)]['filter']=_0x177e2d(0x423)+_0xda27a0+')',document[_0x177e2d(0x5c7)](_0x177e2d(0x574))[_0x177e2d(0x66a)][_0x177e2d(0x5da)]=_0x177e2d(0x423)+_0xda27a0+')',_0x130989[_0x177e2d(0x29a)](_0x3653c7);let _0x119bbb=El(_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x3ba)]},El(_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989['_0x1c306e']},_0x130989[_0x177e2d(0x3d4)](El,_0x130989[_0x177e2d(0x5f0)],{'attributes':{'src':_0x177e2d(0x6be),'_0x5f83e8':_0x130989[_0x177e2d(0x233)]},'_0x1c39b5':{'click':function(){const _0x413a77=_0x177e2d,_0x2fe81d=_0x130989[_0x413a77(0x275)][_0x413a77(0x655)]('|');let _0x27d7b3=0x0;while(!![]){switch(_0x2fe81d[_0x27d7b3++]){case'0':document[_0x413a77(0x5c7)](_0x130989[_0x413a77(0x400)])[_0x413a77(0x66a)][_0x413a77(0x5da)]=_0x130989[_0x413a77(0x4b1)];continue;case'1':document[_0x413a77(0x5c7)](_0x413a77(0x574))[_0x413a77(0x66a)]['filter']=_0x130989[_0x413a77(0x4b1)];continue;case'2':document['querySelector'](_0x130989[_0x413a77(0x449)])['style'][_0x413a77(0x5da)]=_0x413a77(0x43c);continue;case'3':document[_0x413a77(0x5c7)](_0x130989[_0x413a77(0x350)])[_0x413a77(0x66a)][_0x413a77(0x5da)]=_0x413a77(0x43c);continue;case'4':document[_0x413a77(0x5c7)](_0x130989[_0x413a77(0x687)])['style'][_0x413a77(0x5da)]=_0x130989[_0x413a77(0x4b1)];continue;case'5':document[_0x413a77(0x5c7)](_0x130989[_0x413a77(0x312)])['remove']();continue;}break;}}}}),_0x130989[_0x177e2d(0x247)](El,_0x130989['_0x546b24'],{'_0x64ec79':_0x130989[_0x177e2d(0x2c9)]},_0x130989[_0x177e2d(0x5ca)]),_0x130989['_0x2ee4fa'](El,_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989['_0x19f309']},El(_0x130989['_0x546b24'],{'_0x64ec79':_0x130989['_0x63c8e5']},_0x130989[_0x177e2d(0x65d)](El,_0x177e2d(0x572),{'_0x64ec79':_0x130989[_0x177e2d(0x69c)]},_0x130989[_0x177e2d(0x595)],_0x130989[_0x177e2d(0x433)](El,'br',{}),_0x130989[_0x177e2d(0x247)](El,'b',{},_0x130989[_0x177e2d(0x510)])),_0x130989[_0x177e2d(0x530)](El,_0x130989[_0x177e2d(0x5f0)],{'attributes':{'src':_0x177e2d(0x6a2),'_0x5f83e8':_0x130989['_0x419200']}})),El(_0x130989['_0x546b24'],{'_0x64ec79':_0x130989[_0x177e2d(0x2b6)]}),_0x130989[_0x177e2d(0x4f7)](El,_0x130989['_0x546b24'],{'_0x64ec79':_0x177e2d(0x67e)},El(_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x69c)]},_0x130989['_0x54dcb9'],_0x130989[_0x177e2d(0x530)](El,'br',{}),_0x130989[_0x177e2d(0x476)],_0x130989['_0x2542d7'](El,'b',{},_0x4a2e0e+_0x177e2d(0x4fe))),_0x130989[_0x177e2d(0x4e8)](El,_0x130989[_0x177e2d(0x5f0)],{'attributes':{'src':_0x130989[_0x177e2d(0x5d0)],'_0x5f83e8':_0x130989[_0x177e2d(0x2d6)]}})),_0x130989[_0x177e2d(0x4e8)](El,_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x2b6)]}),El(_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x4c0)]},_0x130989[_0x177e2d(0x543)](El,_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':'text'},_0x130989[_0x177e2d(0x5c3)],_0x130989[_0x177e2d(0x4e8)](El,'br',{}),_0x177e2d(0x4c4),_0x130989[_0x177e2d(0x4d6)](El,'b',{},_0x130989[_0x177e2d(0x4f4)])),_0x130989[_0x177e2d(0x4e8)](El,_0x130989[_0x177e2d(0x5f0)],{'attributes':{'src':_0x130989[_0x177e2d(0x346)],'_0x5f83e8':_0x130989[_0x177e2d(0x53e)]}})),_0x130989[_0x177e2d(0x2e9)](El,_0x177e2d(0x572),{'_0x64ec79':_0x130989[_0x177e2d(0x2b6)]}),El(_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x4c0)]},_0x130989[_0x177e2d(0x337)](El,_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x69c)]},_0x130989[_0x177e2d(0x4d7)],_0x130989[_0x177e2d(0x5ae)](El,'br',{}),_0x177e2d(0x363)),_0x130989[_0x177e2d(0x451)](El,_0x130989[_0x177e2d(0x5f0)],{'attributes':{'src':_0x177e2d(0x690),'_0x5f83e8':_0x130989[_0x177e2d(0x609)]}})),_0x130989[_0x177e2d(0x451)](El,_0x177e2d(0x572),{'_0x64ec79':_0x130989[_0x177e2d(0x2b6)]}),_0x130989[_0x177e2d(0x2f7)](El,_0x130989[_0x177e2d(0x5cc)],{'_0x64ec79':_0x130989[_0x177e2d(0x4c0)]},_0x130989[_0x177e2d(0x543)](El,_0x130989['_0x546b24'],{'_0x64ec79':_0x177e2d(0x3bd)},_0x130989[_0x177e2d(0x2f8)],_0x130989[_0x177e2d(0x4d6)](El,'b',{},_0x177e2d(0x2ae)),_0x130989['_0x4f6440'](El,'br',{}),_0x130989[_0x177e2d(0x610)]),_0x130989[_0x177e2d(0x491)](El,_0x130989['_0x344030'],{'attributes':{'src':_0x130989[_0x177e2d(0x317)],'_0x5f83e8':_0x130989['_0x48fa52']}}))),_0x130989['_0xacfd41'](El,_0x130989['_0x344030'],{'attributes':{'src':_0x130989['_0x15f875'],'_0x5f83e8':_0x177e2d(0x2bc)},'_0x1c39b5':{'click':_0xb7f0ef}})));document['querySelector'](_0x177e2d(0x293))[_0x177e2d(0x39b)](_0x119bbb);}function _0x3653c7(){const _0x174993=_0x3b1933,_0x5ca96a={'_0x1aab77':function(_0x36bdc4,_0x4c03c4){return _0x36bdc4===_0x4c03c4;},'_0x3662ef':function(_0x4de5f7,_0x3adf24){return _0x4de5f7>_0x3adf24;},'_0x16aa6d':function(_0x3003de,_0xacad7f){return _0x3003de(_0xacad7f);},'_0x2dc3c3':function(_0x55c638,_0x5ab2ee){return _0x55c638-_0x5ab2ee;},'_0x51ad2d':function(_0x2e0c7b,_0x396ba8){return _0x2e0c7b===_0x396ba8;},'_0x148d13':function(_0xb9693f,_0x1b34f9){return _0xb9693f(_0x1b34f9);},'_0x4bf999':function(_0x1c35bf,_0x259e32){return _0x1c35bf(_0x259e32);}};_0x1bc3f5=TIME_FOR_EXAM[_0x174993(0x653)](-0x2);if(_0x5ca96a[_0x174993(0x613)](_0x1bc3f5,'00')){_0x1bc3f5=0x0;if(_0x5ca96a[_0x174993(0x427)](TIME_FOR_EXAM[_0x174993(0x2bb)],0x4))_0x4a2e0e=_0x5ca96a[_0x174993(0x3dc)](Number,TIME_FOR_EXAM[_0x174993(0x653)](0x0,0x2));else _0x4a2e0e=Number(TIME_FOR_EXAM[_0x174993(0x605)](0x0));_0x53039b=_0x5ca96a['_0x2dc3c3'](_0x4a2e0e,0x1),_0x527f12=0x3b;}else{if(_0x5ca96a[_0x174993(0x4c6)](_0x1bc3f5[_0x174993(0x605)](0x0),'0')){_0x1bc3f5=_0x5ca96a[_0x174993(0x3e1)](Number,TIME_FOR_EXAM[_0x174993(0x653)](-0x1));if(_0x5ca96a['_0x3662ef'](TIME_FOR_EXAM[_0x174993(0x2bb)],0x4))_0x4a2e0e=_0x5ca96a[_0x174993(0x2f1)](Number,TIME_FOR_EXAM[_0x174993(0x653)](0x0,0x2));else _0x4a2e0e=Number(TIME_FOR_EXAM[_0x174993(0x605)](0x0));_0x53039b=_0x4a2e0e,_0x527f12=_0x1bc3f5;}else{_0x1bc3f5=_0x5ca96a[_0x174993(0x2f1)](Number,TIME_FOR_EXAM['slice'](-0x2));if(_0x5ca96a[_0x174993(0x427)](TIME_FOR_EXAM[_0x174993(0x2bb)],0x4))_0x4a2e0e=_0x5ca96a[_0x174993(0x2f1)](Number,TIME_FOR_EXAM[_0x174993(0x653)](0x0,0x2));else _0x4a2e0e=_0x5ca96a[_0x174993(0x2f1)](Number,TIME_FOR_EXAM[_0x174993(0x605)](0x0));_0x53039b=_0x4a2e0e,_0x527f12=_0x1bc3f5;}}}function _0xb7f0ef(){const _0x41e569=_0x3b1933,_0x3a9250={'_0x566fb5':_0x41e569(0x22f),'_0x132ac7':function(_0x523b7a,_0x5cfb1a){return _0x523b7a>_0x5cfb1a;},'_0x5a991c':'.page\x20.instructions\x20:nth-child(4)','_0x16b994':_0x41e569(0x648),'_0xd9877f':'done','_0x38cf07':_0x41e569(0x43c),'_0x205d82':_0x41e569(0x279),'_0x3a7cde':_0x41e569(0x5d4),'_0x25db1b':_0x41e569(0x293),'_0x526250':_0x41e569(0x4d2),'_0x54b5e3':function(_0x557668){return _0x557668();},'_0x41da6b':_0x41e569(0x2c2),'_0x13c203':_0x41e569(0x662),'_0x1b4ac3':_0x41e569(0x4b7),'_0x63b35c':function(_0x2a1ab3,_0x34a74d,_0x54b023,_0x3a8d2f){return _0x2a1ab3(_0x34a74d,_0x54b023,_0x3a8d2f);},'_0x3e190':_0x41e569(0x37d),'_0x42a15e':_0x41e569(0x45c),'_0x2c0592':_0x41e569(0x3bd),'_0x35547d':_0x41e569(0x41a),'_0x5e25e4':_0x41e569(0x572),'_0x1af4f7':'text-fill-name','_0x3fd2d3':function(_0x512ed4,_0x52f7e8,_0x500821){return _0x512ed4(_0x52f7e8,_0x500821);},'_0x26e05d':_0x41e569(0x278),'_0x15f187':'insert-name','_0x31ca98':_0x41e569(0x22e)};let _0x94a594=0x0,_0x428119=0x0;document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x4a3)])[_0x41e569(0x3f7)]='',document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x55e)])[_0x41e569(0x393)][_0x41e569(0x5ab)](_0x3a9250[_0x41e569(0x535)]),document[_0x41e569(0x5c7)](_0x3a9250['_0x16b994'])[_0x41e569(0x5a0)](_0x41e569(0x22e),_0xb7f0ef);let _0x243b2f=_0x3a9250[_0x41e569(0x33c)](El,_0x41e569(0x572),{'_0x64ec79':_0x41e569(0x267)},_0x3a9250[_0x41e569(0x2e3)]);document['querySelector'](_0x3a9250[_0x41e569(0x4a3)])[_0x41e569(0x39b)](_0x243b2f);let _0x389da3=El(_0x3a9250[_0x41e569(0x69d)],{'attributes':{'type':_0x3a9250['_0x2c0592'],'_0x5f83e8':_0x3a9250[_0x41e569(0x408)],'placeholder':_0x41e569(0x2c6)},'_0x1c39b5':{'input':()=>{const _0xdf1c02=_0x41e569;_0x94a594=document[_0xdf1c02(0x5c7)](_0x3a9250[_0xdf1c02(0x443)])[_0xdf1c02(0x522)][_0xdf1c02(0x2bb)],_0x3a9250[_0xdf1c02(0x258)](_0x428119,0x1)&&_0x3a9250[_0xdf1c02(0x258)](_0x94a594,0x1)&&(_0x3595f7=document[_0xdf1c02(0x5c7)](_0xdf1c02(0x22f))['value'],_0x591621=document['querySelector'](_0x3a9250['_0x5a991c'])[_0xdf1c02(0x522)],document[_0xdf1c02(0x5c7)](_0x3a9250[_0xdf1c02(0x225)])[_0xdf1c02(0x393)][_0xdf1c02(0x5ab)](_0x3a9250[_0xdf1c02(0x401)]));}}});document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x4a3)])[_0x41e569(0x39b)](_0x389da3);let _0x47c483=El(_0x3a9250[_0x41e569(0x68f)],{'_0x64ec79':_0x3a9250[_0x41e569(0x2a4)]},'הכניסו\x20שם\x20משפחה');document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x4a3)])[_0x41e569(0x39b)](_0x47c483);let _0x5d3de0=_0x3a9250[_0x41e569(0x555)](El,_0x3a9250['_0x42a15e'],{'attributes':{'type':_0x3a9250[_0x41e569(0x514)],'_0x5f83e8':_0x3a9250[_0x41e569(0x408)],'placeholder':_0x3a9250['_0x26e05d']},'_0x1c39b5':{'input':()=>{const _0x51d0b4=_0x41e569;_0x428119=document[_0x51d0b4(0x5c7)](_0x3a9250['_0x5a991c'])['value']['length'],_0x3a9250[_0x51d0b4(0x258)](_0x428119,0x1)&&_0x94a594>0x1&&(_0x3595f7=document['querySelector'](_0x3a9250['_0x566fb5'])[_0x51d0b4(0x522)],_0x591621=document[_0x51d0b4(0x5c7)](_0x3a9250[_0x51d0b4(0x639)])[_0x51d0b4(0x522)],document[_0x51d0b4(0x5c7)]('.page.learning.subjects\x20.start-btn')[_0x51d0b4(0x393)][_0x51d0b4(0x5ab)](_0x3a9250[_0x51d0b4(0x401)]));}}});document[_0x41e569(0x5c7)]('.page.learning.subjects\x20.instructions')['append'](_0x5d3de0),document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x4a3)])[_0x41e569(0x393)][_0x41e569(0x5ab)](_0x3a9250[_0x41e569(0x23c)]),document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x225)])['classList'][_0x41e569(0x5ab)](_0x3a9250[_0x41e569(0x23c)]),document[_0x41e569(0x5c7)](_0x41e569(0x648))[_0x41e569(0x5c5)]=_0x41e569(0x2d9),document[_0x41e569(0x5c7)](_0x3a9250[_0x41e569(0x225)])['addEventListener'](_0x3a9250[_0x41e569(0x56b)],()=>{const _0x48f184=_0x41e569;document['querySelector']('.page.learning.subjects\x20.title')[_0x48f184(0x66a)][_0x48f184(0x5da)]=_0x3a9250[_0x48f184(0x298)],document[_0x48f184(0x5c7)](_0x48f184(0x35b))['style'][_0x48f184(0x5da)]=_0x3a9250[_0x48f184(0x298)],document[_0x48f184(0x5c7)](_0x3a9250[_0x48f184(0x2b0)])[_0x48f184(0x66a)]['filter']=_0x3a9250[_0x48f184(0x298)],document[_0x48f184(0x5c7)](_0x48f184(0x321))['style'][_0x48f184(0x5da)]=_0x3a9250[_0x48f184(0x298)],document[_0x48f184(0x5c7)](_0x48f184(0x574))[_0x48f184(0x66a)][_0x48f184(0x5da)]=_0x3a9250['_0x38cf07'],document[_0x48f184(0x5c7)](_0x3a9250['_0x3a7cde'])[_0x48f184(0x607)](),document[_0x48f184(0x5c7)](_0x3a9250[_0x48f184(0x68c)])[_0x48f184(0x393)][_0x48f184(0x607)](_0x3a9250[_0x48f184(0x285)]),document[_0x48f184(0x5c7)]('.page.exam')[_0x48f184(0x393)][_0x48f184(0x5ab)]('active'),_0x3a9250[_0x48f184(0x614)](_0xa5c643);});}function _0x2b7cea(_0x1bcea2){const _0x19d0b4=_0x3b1933,_0x11e8cd={'_0x55024e':_0x19d0b4(0x20b),'_0x273308':'unset','_0xec4de9':_0x19d0b4(0x477),'_0xa2817c':_0x19d0b4(0x4d2),'_0x440473':_0x19d0b4(0x600),'_0x39a64c':function(_0x250e0d,_0x34bd2c){return _0x250e0d(_0x34bd2c);},'_0x322e4c':function(_0x35e9a3,_0x2310df,_0x58020b,_0xeed216){return _0x35e9a3(_0x2310df,_0x58020b,_0xeed216);},'_0x2291e3':_0x19d0b4(0x572),'_0x26eab4':_0x19d0b4(0x2ef),'_0x120c20':function(_0x591696,_0x4cd0ff,_0x43696c,_0x325315,_0x38b609,_0x3bfda1,_0x2cf1e4){return _0x591696(_0x4cd0ff,_0x43696c,_0x325315,_0x38b609,_0x3bfda1,_0x2cf1e4);},'_0x22cede':_0x19d0b4(0x47c),'_0x2c59f0':_0x19d0b4(0x4d8),'_0x51488d':'רוצים\x20לוותר?','_0xb69afa':function(_0x3d561e,_0x364233,_0x2e98e7,_0x35c956){return _0x3d561e(_0x364233,_0x2e98e7,_0x35c956);},'_0x300587':_0x19d0b4(0x4e6),'_0x2b8e87':_0x19d0b4(0x292),'_0x233f42':function(_0x53b858,_0x2a6cad,_0x2d614b){return _0x53b858(_0x2a6cad,_0x2d614b);},'_0x19a95e':_0x19d0b4(0x349),'_0x55df28':_0x19d0b4(0x6be),'_0x24732c':function(_0x83d920,_0x31d4ca,_0x29979a,_0x14651a,_0x306a5d){return _0x83d920(_0x31d4ca,_0x29979a,_0x14651a,_0x306a5d);},'_0x4b3e77':_0x19d0b4(0x20c),'_0x2345ba':_0x19d0b4(0x5aa),'_0xeeb596':_0x19d0b4(0x4e9),'_0x5d2de1':function(_0xe6d9eb,_0x36aee8,_0x25a2dd){return _0xe6d9eb(_0x36aee8,_0x25a2dd);},'_0x1d297a':'../assets/images/general/leavePracticeOrExam_popup/exit.svg'};document['querySelector'](_0x19d0b4(0x3d1)+_0x1bcea2+'\x20.title')[_0x19d0b4(0x66a)][_0x19d0b4(0x5da)]=_0x19d0b4(0x423)+_0xda27a0+')',document[_0x19d0b4(0x5c7)]('.page.'+_0x1bcea2+'\x20.sub-titles')['style'][_0x19d0b4(0x5da)]=_0x19d0b4(0x423)+_0xda27a0+')',document[_0x19d0b4(0x5c7)](_0x19d0b4(0x3d1)+_0x1bcea2+'\x20.questions-container')[_0x19d0b4(0x66a)][_0x19d0b4(0x5da)]='blur('+_0xda27a0+')',document[_0x19d0b4(0x5c7)](_0x19d0b4(0x3d1)+_0x1bcea2+_0x19d0b4(0x32b))[_0x19d0b4(0x66a)][_0x19d0b4(0x5da)]=_0x19d0b4(0x423)+_0xda27a0+')',document['querySelector'](_0x19d0b4(0x3d1)+_0x1bcea2+'\x20.questions-number')[_0x19d0b4(0x66a)]['filter']=_0x19d0b4(0x423)+_0xda27a0+')';let _0xe1aff6=_0x11e8cd[_0x19d0b4(0x626)](El,_0x11e8cd['_0x2291e3'],{'_0x64ec79':_0x11e8cd['_0x26eab4']},_0x11e8cd[_0x19d0b4(0x5e4)](El,_0x11e8cd[_0x19d0b4(0x319)],{'_0x64ec79':_0x11e8cd['_0x22cede']},_0x11e8cd[_0x19d0b4(0x626)](El,_0x11e8cd[_0x19d0b4(0x319)],{'_0x64ec79':_0x11e8cd['_0x2c59f0']},_0x11e8cd['_0x51488d']),_0x11e8cd[_0x19d0b4(0x4d3)](El,_0x11e8cd[_0x19d0b4(0x319)],{'_0x64ec79':_0x11e8cd['_0x300587']},_0x11e8cd['_0x2b8e87']),_0x11e8cd[_0x19d0b4(0x215)](El,_0x11e8cd['_0x19a95e'],{'attributes':{'src':_0x11e8cd[_0x19d0b4(0x513)],'_0x5f83e8':_0x19d0b4(0x356)},'_0x1c39b5':{'click':function(){const _0x1174cf=_0x19d0b4,_0x50b67f=_0x11e8cd['_0x55024e'][_0x1174cf(0x655)]('|');let _0x220bf7=0x0;while(!![]){switch(_0x50b67f[_0x220bf7++]){case'0':document[_0x1174cf(0x5c7)](_0x1174cf(0x3d1)+_0x1bcea2+'\x20.questions-number')[_0x1174cf(0x66a)][_0x1174cf(0x5da)]=_0x11e8cd['_0x273308'];continue;case'1':document[_0x1174cf(0x5c7)](_0x1174cf(0x3d1)+_0x1bcea2+_0x1174cf(0x32b))[_0x1174cf(0x66a)][_0x1174cf(0x5da)]=_0x11e8cd[_0x1174cf(0x291)];continue;case'2':document['querySelector'](_0x1174cf(0x3d1)+_0x1bcea2+_0x1174cf(0x5b1))[_0x1174cf(0x66a)][_0x1174cf(0x5da)]=_0x11e8cd[_0x1174cf(0x291)];continue;case'3':document[_0x1174cf(0x5c7)](_0x11e8cd[_0x1174cf(0x2e0)])[_0x1174cf(0x607)]();continue;case'4':document[_0x1174cf(0x5c7)](_0x1174cf(0x3d1)+_0x1bcea2+_0x1174cf(0x359))[_0x1174cf(0x66a)][_0x1174cf(0x5da)]=_0x1174cf(0x43c);continue;case'5':document['querySelector']('.page.'+_0x1bcea2+_0x1174cf(0x5a8))[_0x1174cf(0x66a)][_0x1174cf(0x5da)]=_0x1174cf(0x43c);continue;}break;}}}}),_0x11e8cd[_0x19d0b4(0x3e2)](El,_0x19d0b4(0x572),{'_0x64ec79':_0x11e8cd[_0x19d0b4(0x1f9)]},_0x11e8cd[_0x19d0b4(0x215)](El,_0x11e8cd[_0x19d0b4(0x1fe)],{'attributes':{'src':_0x11e8cd['_0x2345ba'],'_0x5f83e8':_0x11e8cd[_0x19d0b4(0x331)]},'_0x1c39b5':{'click':function(){const _0x44551e=_0x19d0b4;document[_0x44551e(0x5c7)](_0x44551e(0x3d1)+_0x1bcea2+_0x44551e(0x5a8))[_0x44551e(0x66a)][_0x44551e(0x5da)]=_0x11e8cd[_0x44551e(0x291)],document[_0x44551e(0x5c7)]('.page.'+_0x1bcea2+_0x44551e(0x359))[_0x44551e(0x66a)][_0x44551e(0x5da)]=_0x11e8cd[_0x44551e(0x291)],document[_0x44551e(0x5c7)](_0x44551e(0x3d1)+_0x1bcea2+'\x20.questions-container')[_0x44551e(0x66a)][_0x44551e(0x5da)]=_0x11e8cd[_0x44551e(0x291)],document[_0x44551e(0x5c7)](_0x44551e(0x3d1)+_0x1bcea2+_0x44551e(0x32b))[_0x44551e(0x66a)][_0x44551e(0x5da)]=_0x11e8cd[_0x44551e(0x291)],document['querySelector'](_0x44551e(0x3d1)+_0x1bcea2+_0x44551e(0x2ba))[_0x44551e(0x66a)][_0x44551e(0x5da)]='unset',document['querySelector'](_0x44551e(0x477))[_0x44551e(0x607)](),document[_0x44551e(0x5c7)](_0x44551e(0x293))[_0x44551e(0x393)][_0x44551e(0x5ab)](_0x11e8cd[_0x44551e(0x311)]);let _0x5d259f=_0x11e8cd['_0x440473'];_0x11e8cd[_0x44551e(0x417)](_0x4fc026,_0x5d259f);}}}),_0x11e8cd[_0x19d0b4(0x206)](El,_0x11e8cd[_0x19d0b4(0x1fe)],{'attributes':{'src':_0x11e8cd[_0x19d0b4(0x678)],'_0x5f83e8':_0x19d0b4(0x4e9)},'_0x1c39b5':{'click':function(){const _0x355dea=_0x19d0b4;document[_0x355dea(0x5c7)]('.page.'+_0x1bcea2+_0x355dea(0x5a8))[_0x355dea(0x66a)][_0x355dea(0x5da)]=_0x11e8cd[_0x355dea(0x291)],document[_0x355dea(0x5c7)](_0x355dea(0x3d1)+_0x1bcea2+_0x355dea(0x359))[_0x355dea(0x66a)][_0x355dea(0x5da)]=_0x11e8cd[_0x355dea(0x291)],document['querySelector'](_0x355dea(0x3d1)+_0x1bcea2+_0x355dea(0x5b1))[_0x355dea(0x66a)][_0x355dea(0x5da)]=_0x11e8cd[_0x355dea(0x291)],document[_0x355dea(0x5c7)](_0x355dea(0x3d1)+_0x1bcea2+_0x355dea(0x32b))['style']['filter']=_0x11e8cd[_0x355dea(0x291)],document[_0x355dea(0x5c7)](_0x355dea(0x3d1)+_0x1bcea2+'\x20.questions-number')[_0x355dea(0x66a)]['filter']=_0x11e8cd['_0x273308'],document['querySelector'](_0x355dea(0x477))[_0x355dea(0x607)]();}}}))));document['querySelector'](_0x19d0b4(0x3d1)+_0x1bcea2)['append'](_0xe1aff6);}function _0x4bf43b(){const _0x460ac1=_0x3b1933,_0x38af0c={'_0x54470d':'unset','_0x32a3fb':'.page.exam\x20.dark','_0x37fc94':'6|1|2|5|4|0|3','_0x539478':function(_0x2701c9){return _0x2701c9();},'_0x4c7b75':function(_0x228110,_0x2eeb77,_0x98b55b,_0x5bc8ce){return _0x228110(_0x2eeb77,_0x98b55b,_0x5bc8ce);},'_0x32ab6b':_0x460ac1(0x572),'_0x328848':_0x460ac1(0x2ef),'_0x3df18f':function(_0x1678d3,_0x502807,_0x2c79d8,_0x1ff266,_0x4233c1,_0x3bc6f8,_0x3c942e){return _0x1678d3(_0x502807,_0x2c79d8,_0x1ff266,_0x4233c1,_0x3bc6f8,_0x3c942e);},'_0x12536a':'done-exam-popup','_0x299426':function(_0x2f7ca1,_0x10667f,_0xd4e23b,_0x42af9d){return _0x2f7ca1(_0x10667f,_0xd4e23b,_0x42af9d);},'_0x3eab7e':_0x460ac1(0x4d8),'_0x171729':_0x460ac1(0x2eb),'_0x1ff077':_0x460ac1(0x3db),'_0x5f5073':function(_0x13fcef,_0x5d748d,_0x357a08){return _0x13fcef(_0x5d748d,_0x357a08);},'_0x3e4b1d':_0x460ac1(0x349),'_0x4cae72':_0x460ac1(0x6be),'_0x4fb781':function(_0xf20c73,_0x57196f,_0x19a145,_0x145218,_0x5346cb){return _0xf20c73(_0x57196f,_0x19a145,_0x145218,_0x5346cb);},'_0x5ca1ab':_0x460ac1(0x20c),'_0x265ec3':_0x460ac1(0x5d5),'_0x251c46':'button-popup','_0x4816f8':_0x460ac1(0x66b)};let _0x46fe59=_0x38af0c['_0x4c7b75'](El,_0x38af0c[_0x460ac1(0x21b)],{'_0x64ec79':_0x38af0c[_0x460ac1(0x437)]},_0x38af0c[_0x460ac1(0x509)](El,_0x38af0c[_0x460ac1(0x21b)],{'_0x64ec79':_0x38af0c[_0x460ac1(0x3ac)]},_0x38af0c['_0x299426'](El,_0x38af0c['_0x32ab6b'],{'_0x64ec79':_0x38af0c[_0x460ac1(0x48b)]},_0x38af0c[_0x460ac1(0x5ad)]),_0x38af0c[_0x460ac1(0x30b)](El,_0x460ac1(0x572),{'_0x64ec79':_0x460ac1(0x4e6)},_0x38af0c[_0x460ac1(0x3ca)]),_0x38af0c[_0x460ac1(0x615)](El,_0x38af0c[_0x460ac1(0x64d)],{'attributes':{'src':_0x38af0c[_0x460ac1(0x44b)],'_0x5f83e8':_0x460ac1(0x356)},'_0x1c39b5':{'click':function(){const _0x13ab0b=_0x460ac1,_0x5a0f32='1|2|0|3|5|4'[_0x13ab0b(0x655)]('|');let _0x652d87=0x0;while(!![]){switch(_0x5a0f32[_0x652d87++]){case'0':document[_0x13ab0b(0x5c7)]('.page.exam\x20.questions-container')[_0x13ab0b(0x66a)][_0x13ab0b(0x5da)]=_0x38af0c[_0x13ab0b(0x493)];continue;case'1':document['querySelector'](_0x13ab0b(0x3b4))[_0x13ab0b(0x66a)][_0x13ab0b(0x5da)]=_0x38af0c['_0x54470d'];continue;case'2':document[_0x13ab0b(0x5c7)]('.page.exam\x20.sub-titles')[_0x13ab0b(0x66a)]['filter']=_0x38af0c['_0x54470d'];continue;case'3':document[_0x13ab0b(0x5c7)](_0x13ab0b(0x1ed))['style'][_0x13ab0b(0x5da)]=_0x38af0c[_0x13ab0b(0x493)];continue;case'4':document['querySelector'](_0x38af0c['_0x32a3fb'])[_0x13ab0b(0x607)]();continue;case'5':document[_0x13ab0b(0x5c7)](_0x13ab0b(0x430))[_0x13ab0b(0x66a)][_0x13ab0b(0x5da)]='unset';continue;}break;}}}}),_0x38af0c[_0x460ac1(0x43a)](El,_0x38af0c[_0x460ac1(0x21b)],{'_0x64ec79':_0x38af0c[_0x460ac1(0x353)]},El(_0x38af0c[_0x460ac1(0x64d)],{'attributes':{'src':_0x38af0c[_0x460ac1(0x43e)],'_0x5f83e8':_0x38af0c[_0x460ac1(0x621)]},'_0x1c39b5':{'click':function(){const _0x3496de=_0x460ac1,_0x27aa1e=_0x38af0c['_0x37fc94'][_0x3496de(0x655)]('|');let _0x813c42=0x0;while(!![]){switch(_0x27aa1e[_0x813c42++]){case'0':document[_0x3496de(0x5c7)](_0x3496de(0x2cc))[_0x3496de(0x607)]();continue;case'1':document[_0x3496de(0x5c7)](_0x3496de(0x2dc))[_0x3496de(0x66a)][_0x3496de(0x5da)]=_0x38af0c[_0x3496de(0x493)];continue;case'2':document[_0x3496de(0x5c7)](_0x3496de(0x412))[_0x3496de(0x66a)][_0x3496de(0x5da)]=_0x38af0c[_0x3496de(0x493)];continue;case'3':_0x38af0c[_0x3496de(0x3e9)](_0x2a3587);continue;case'4':document[_0x3496de(0x5c7)](_0x3496de(0x430))['style'][_0x3496de(0x5da)]=_0x38af0c[_0x3496de(0x493)];continue;case'5':document[_0x3496de(0x5c7)](_0x3496de(0x1ed))[_0x3496de(0x66a)][_0x3496de(0x5da)]=_0x38af0c['_0x54470d'];continue;case'6':document[_0x3496de(0x5c7)]('.page.exam\x20.title')[_0x3496de(0x66a)][_0x3496de(0x5da)]=_0x38af0c[_0x3496de(0x493)];continue;}break;}}}}),El(_0x460ac1(0x349),{'attributes':{'src':_0x38af0c[_0x460ac1(0x361)],'_0x5f83e8':_0x38af0c[_0x460ac1(0x621)]},'_0x1c39b5':{'click':function(){const _0x537096=_0x460ac1;document[_0x537096(0x5c7)](_0x537096(0x3b4))[_0x537096(0x66a)][_0x537096(0x5da)]=_0x38af0c[_0x537096(0x493)],document['querySelector'](_0x537096(0x2dc))[_0x537096(0x66a)][_0x537096(0x5da)]=_0x38af0c['_0x54470d'],document[_0x537096(0x5c7)](_0x537096(0x412))[_0x537096(0x66a)]['filter']=_0x38af0c[_0x537096(0x493)],document['querySelector'](_0x537096(0x1ed))[_0x537096(0x66a)]['filter']=_0x38af0c[_0x537096(0x493)],document['querySelector'](_0x537096(0x430))[_0x537096(0x66a)][_0x537096(0x5da)]=_0x38af0c[_0x537096(0x493)],document[_0x537096(0x5c7)](_0x38af0c[_0x537096(0x4fb)])[_0x537096(0x607)]();}}}))));document[_0x460ac1(0x5c7)](_0x460ac1(0x651))[_0x460ac1(0x39b)](_0x46fe59);}function _0x5f1cea(){const _0x148a2d=_0x3b1933,_0x486b1f={'_0x5f4e39':function(_0x23b991,_0x3dc9fe){return _0x23b991(_0x3dc9fe);},'_0xfd1f0e':function(_0x2b8c69,_0x317731){return _0x2b8c69===_0x317731;}};let _0x1d9e46=[];for(let _0x414050 of _0x1b7458){let _0x3aa83e=DATA[_0x414050],_0x48fb0d=_0x3aa83e[_0x148a2d(0x4a1)][_0x148a2d(0x2bb)],_0x50f571=Math[_0x148a2d(0x6b7)](_0x48fb0d,_0x3aa83e[_0x148a2d(0x3ae)]),_0x572740=_0x486b1f[_0x148a2d(0x24b)](_0x56c290,_0x3aa83e[_0x148a2d(0x4a1)][_0x148a2d(0x653)]());_0x1d9e46[_0x148a2d(0x624)](..._0x572740[_0x148a2d(0x653)](0x0,_0x50f571));if(_0x486b1f['_0xfd1f0e'](_0x1d9e46[_0x148a2d(0x2bb)],_0x5b4b38))break;}return _0x1d9e46;}function _0xa5c643(){const _0x56cb4a=_0x3b1933,_0x51bc64={'_0x225a18':_0x56cb4a(0x245),'_0x19f6d3':function(_0x502e7a,_0x2b70ac){return _0x502e7a(_0x2b70ac);},'_0x4bfc95':_0x56cb4a(0x39a),'_0xce773d':function(_0x525b73){return _0x525b73();},'_0x4191c4':function(_0x7eb708,_0x5b73d0){return _0x7eb708>_0x5b73d0;},'_0x1404fd':function(_0x55d2c8){return _0x55d2c8();},'_0x50b319':_0x56cb4a(0x349),'_0x31eaeb':_0x56cb4a(0x46a),'_0x3ba960':_0x56cb4a(0x3da),'_0x1365c0':_0x56cb4a(0x651),'_0x155598':'.page.exam\x20.timer-text','_0x769f3':_0x56cb4a(0x6a0),'_0x4092f0':function(_0x2fb31b,_0x3eba44){return _0x2fb31b+_0x3eba44;},'_0x31a043':function(_0x147e3f,_0x2cd354,_0x5e85f1){return _0x147e3f(_0x2cd354,_0x5e85f1);},'_0x4908c6':function(_0xe31d49,_0x5ddf6a){return _0xe31d49<_0x5ddf6a;},'_0x4ba937':function(_0x18c643,_0xf957cd,_0x333eda,_0x8c39f7,_0x2a4833){return _0x18c643(_0xf957cd,_0x333eda,_0x8c39f7,_0x2a4833);},'_0x6fbda3':_0x56cb4a(0x1f1),'_0x4787e1':function(_0x352085,_0x51509b){return _0x352085(_0x51509b);},'_0x59ebeb':function(_0x773072,_0x195bfe,_0x3375d3){return _0x773072(_0x195bfe,_0x3375d3);},'_0x10896c':_0x56cb4a(0x344),'_0x2ead72':_0x56cb4a(0x472),'_0x861623':function(_0xb6224b,_0x2d48a3,_0x314b01,_0x468247){return _0xb6224b(_0x2d48a3,_0x314b01,_0x468247);},'_0x349ad5':'div','_0x3d332f':'number-text','_0x486d28':_0x56cb4a(0x430),'_0x5a7479':function(_0xfeaa80){return _0xfeaa80();},'_0x2a4a08':function(_0x3581bc){return _0x3581bc();}};_0x383cf8=_0x5f1cea(),_0x51bc64[_0x56cb4a(0x56d)](_0x56c290,_0x383cf8),_0x932f43=0x0;let _0x2b7ab4=El(_0x51bc64[_0x56cb4a(0x49e)],{'attributes':{'_0x5f83e8':_0x51bc64[_0x56cb4a(0x3b6)],'src':_0x51bc64[_0x56cb4a(0x511)]},'_0x1c39b5':{'click':function(){const _0x43fd44=_0x56cb4a;if(!document['querySelector']('.page.exam\x20.back-btn')[_0x43fd44(0x5fc)][_0x43fd44(0x393)][_0x43fd44(0x515)](_0x51bc64[_0x43fd44(0x5af)]))_0x51bc64[_0x43fd44(0x56d)](_0x2b7cea,_0x51bc64[_0x43fd44(0x2b4)]);else{let _0x14b660=_0x43fd44(0x600);_0x4fc026(_0x14b660);}}}});document['querySelector'](_0x51bc64[_0x56cb4a(0x21f)])['append'](_0x2b7ab4),document[_0x56cb4a(0x5c7)](_0x51bc64[_0x56cb4a(0x5a4)])[_0x56cb4a(0x3f7)]=TIME_FOR_EXAM,document['querySelector'](_0x51bc64[_0x56cb4a(0x57d)])[_0x56cb4a(0x3f7)]=_0x51bc64['_0x4092f0']('0'+'/',_0x383cf8[_0x56cb4a(0x2bb)]),_0x1834f5=_0x51bc64[_0x56cb4a(0x261)](setInterval,_0x5a6c7d,0x3e8);for(let _0x23aeda=0x0;_0x51bc64[_0x56cb4a(0x409)](_0x23aeda,_0x383cf8['length']);_0x23aeda++){_0x50a400[_0x23aeda]=null;}for(let _0x3ba545=0x0;_0x3ba545<_0x383cf8[_0x56cb4a(0x2bb)];_0x3ba545++){let _0x3bcb9e=_0x51bc64['_0x4ba937'](El,_0x56cb4a(0x572),{'attributes':{'_0x5f83e8':_0x51bc64[_0x56cb4a(0x4ca)],'id':_0x51bc64['_0x4092f0'](_0x56cb4a(0x2f3),_0x51bc64['_0x4787e1'](Number,_0x3ba545+0x1))},'_0x1c39b5':{'click':()=>{const _0x552cbc=_0x56cb4a;let _0xfcd9da=_0x243a52;_0x243a52=_0x3ba545;if(_0xfcd9da<_0x3ba545)_0x51bc64[_0x552cbc(0x2ce)](_0x1c4173);else _0x51bc64[_0x552cbc(0x326)](_0xfcd9da,_0x3ba545)&&_0x51bc64[_0x552cbc(0x31f)](_0x5d0a14);}}},_0x51bc64['_0x59ebeb'](El,_0x56cb4a(0x349),{'attributes':{'src':_0x51bc64[_0x56cb4a(0x597)],'_0x5f83e8':_0x51bc64[_0x56cb4a(0x67d)]}}),_0x51bc64[_0x56cb4a(0x3fc)](El,_0x51bc64['_0x349ad5'],{'_0x64ec79':_0x51bc64[_0x56cb4a(0x567)]},_0x3ba545+0x1));document[_0x56cb4a(0x5c7)](_0x51bc64[_0x56cb4a(0x646)])[_0x56cb4a(0x39b)](_0x3bcb9e);}_0x51bc64[_0x56cb4a(0x31f)](_0x4c2cc1),_0x51bc64['_0x1404fd'](_0x4b5405),_0x51bc64[_0x56cb4a(0x554)](_0x5cfa5f),_0x51bc64[_0x56cb4a(0x67c)](_0x32f2);}function _0x4c2cc1(){const _0x46164a=_0x3b1933,_0x176618={'_0x56d21f':function(_0x369268,_0x408ebf,_0x57ce16,_0x2a3af2){return _0x369268(_0x408ebf,_0x57ce16,_0x2a3af2);},'_0x4d5050':_0x46164a(0x572),'_0x43164b':function(_0x11449c,_0x119d6a,_0x341f36){return _0x11449c(_0x119d6a,_0x341f36);},'_0x5a7f4e':_0x46164a(0x412)};let _0x12efaf=_0x176618[_0x46164a(0x224)](El,_0x176618[_0x46164a(0x64a)],{'_0x23bb77':['card',_0x46164a(0x22a)]},_0x176618[_0x46164a(0x3f6)](El,_0x46164a(0x349),{'attributes':{'src':_0x46164a(0x6b2)}}));document['querySelector'](_0x176618[_0x46164a(0x41e)])[_0x46164a(0x39b)](_0x12efaf);}function _0x4b5405(){const _0x1a835f=_0x3b1933,_0x2c7f78={'_0x52b97d':_0x1a835f(0x20e),'_0x5ad389':_0x1a835f(0x487),'_0xcddbf7':_0x1a835f(0x570),'_0x4aa642':function(_0x2df740,_0x48f941){return _0x2df740!==_0x48f941;},'_0x3c70ca':function(_0x6b6546,_0xdf8d73,_0x1b3733){return _0x6b6546(_0xdf8d73,_0x1b3733);},'_0x17d09a':'img','_0x4e42f0':'.page.exam\x20.empty-card\x20.question-text','_0xa2df65':function(_0x307602,_0x20357f,_0x3556b9,_0x2fd1aa){return _0x307602(_0x20357f,_0x3556b9,_0x2fd1aa);},'_0x1418b9':_0x1a835f(0x572),'_0x3733c4':_0x1a835f(0x564),'_0xcb7a48':_0x1a835f(0x385),'_0x4235d3':_0x1a835f(0x651),'_0x2c32f1':function(_0x3f75c3,_0xe6d698){return _0x3f75c3===_0xe6d698;},'_0x12e593':_0x1a835f(0x52d),'_0x552313':function(_0x7e9735,_0x4b1578,_0x4fc5bb,_0x20ab0c,_0x16a5d3){return _0x7e9735(_0x4b1578,_0x4fc5bb,_0x20ab0c,_0x16a5d3);},'_0x3a538c':_0x1a835f(0x280),'_0x40d1a1':function(_0x2cd6a1,_0x4569f4,_0x3e4436,_0x143063){return _0x2cd6a1(_0x4569f4,_0x3e4436,_0x143063);},'_0x2fd4b9':_0x1a835f(0x33a),'_0x348fe2':function(_0x210a93,_0x169d75,_0x228cf9,_0x1ed031,_0x1dcf20){return _0x210a93(_0x169d75,_0x228cf9,_0x1ed031,_0x1dcf20);},'_0x404797':_0x1a835f(0x580),'_0x321690':function(_0x1abf27,_0x1c759c,_0x18053f){return _0x1abf27(_0x1c759c,_0x18053f);},'_0x1c75d2':'../assets/images/general/wrong_btn.svg','_0x222e1b':_0x1a835f(0x485),'_0x48000b':_0x1a835f(0x454),'_0xefd7d6':_0x1a835f(0x273),'_0x1b1bb3':function(_0x47c908,_0x1aa17f,_0x2eb3c2,_0x4f76bc,_0x3488f4,_0x404aaf,_0x1b439f,_0x5cb39e){return _0x47c908(_0x1aa17f,_0x2eb3c2,_0x4f76bc,_0x3488f4,_0x404aaf,_0x1b439f,_0x5cb39e);},'_0x282dfb':_0x1a835f(0x2b5),'_0x4e945f':_0x1a835f(0x56a),'_0x10c838':function(_0x42e08e,_0x31a12d,_0x31dede,_0x1a5b92,_0x5035a9){return _0x42e08e(_0x31a12d,_0x31dede,_0x1a5b92,_0x5035a9);},'_0x106553':_0x1a835f(0x390),'_0x2b81d9':'ans2','_0x419345':function(_0x16126b,_0x38675b,_0x106875){return _0x16126b(_0x38675b,_0x106875);},'_0x5d2568':_0x1a835f(0x4a6),'_0x26f7c9':function(_0x92757d,_0x3c2ccb,_0x4e9198,_0x47e500,_0x960c21){return _0x92757d(_0x3c2ccb,_0x4e9198,_0x47e500,_0x960c21);},'_0x4ff610':_0x1a835f(0x5ce),'_0x1674b0':function(_0x582cd5,_0x214aee,_0x480d37){return _0x582cd5(_0x214aee,_0x480d37);},'_0x1230a2':_0x1a835f(0x2a5),'_0x325956':function(_0x31a088,_0x143cb,_0x213c4e){return _0x31a088(_0x143cb,_0x213c4e);},'_0x2ff613':_0x1a835f(0x368),'_0x3df5da':function(_0x118132,_0x22adb2,_0x51e411,_0x181d5b,_0x100e75){return _0x118132(_0x22adb2,_0x51e411,_0x181d5b,_0x100e75);},'_0x2c9f81':function(_0x219738,_0x1ea9ac,_0x4c1ee7){return _0x219738(_0x1ea9ac,_0x4c1ee7);},'_0x46dcb5':_0x1a835f(0x3fa),'_0x43d2d3':_0x1a835f(0x1f4),'_0x3f38a0':_0x1a835f(0x3b1),'_0x315a25':_0x1a835f(0x61f),'_0x458cc2':function(_0x59d82e,_0x189406){return _0x59d82e-_0x189406;},'_0x4184ff':function(_0x314dd7,_0x598f4e){return _0x314dd7+_0x598f4e;},'_0x150ac8':'.page.exam\x20.empty-card','_0x1bd144':'first-card','_0x15495e':'unset','_0x106a88':_0x1a835f(0x22a),'_0x2a8d49':_0x1a835f(0x4e0),'_0xefd190':function(_0x1bb902,_0x5c70d5){return _0x1bb902-_0x5c70d5;},'_0x4b194c':_0x1a835f(0x641),'_0x3fca2e':_0x1a835f(0x4d2)};let _0x32a5d0;_0x2c7f78[_0x1a835f(0x4b6)](_0x383cf8[_0x243a52][_0x1a835f(0x4d9)],_0x2c7f78[_0x1a835f(0x59e)])?_0x32a5d0=_0x2c7f78['_0x552313'](El,_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x2c7f78[_0x1a835f(0x608)]},_0x2c7f78['_0x40d1a1'](El,_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x2c7f78[_0x1a835f(0x227)]},_0x383cf8[_0x243a52][_0x1a835f(0x455)]),_0x2c7f78[_0x1a835f(0x5f5)](El,'div',{'_0x64ec79':_0x2c7f78[_0x1a835f(0x334)]},_0x2c7f78[_0x1a835f(0x434)](El,_0x2c7f78[_0x1a835f(0x4ba)],{'attributes':{'src':_0x2c7f78['_0x1c75d2']},'_0x64ec79':_0x2c7f78[_0x1a835f(0x369)]}),_0x2c7f78['_0x321690'](El,_0x2c7f78[_0x1a835f(0x4ba)],{'attributes':{'src':_0x2c7f78[_0x1a835f(0x675)]},'_0x64ec79':_0x2c7f78[_0x1a835f(0x2db)]}))):_0x32a5d0=_0x2c7f78['_0x1b1bb3'](El,_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x2c7f78[_0x1a835f(0x608)]},_0x2c7f78[_0x1a835f(0x599)](El,_0x2c7f78['_0x1418b9'],{'_0x64ec79':'question'},_0x383cf8[_0x243a52][_0x1a835f(0x33a)]),El(_0x2c7f78[_0x1a835f(0x6a4)],{'attributes':{'_0x5f83e8':_0x1a835f(0x390),'id':_0x2c7f78['_0x282dfb']}},El(_0x2c7f78[_0x1a835f(0x4ba)],{'attributes':{'src':_0x2c7f78[_0x1a835f(0x2fa)]}}),El(_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':'ans'},_0x383cf8[_0x243a52][_0x1a835f(0x2b5)])),_0x2c7f78[_0x1a835f(0x5d7)](El,_0x2c7f78[_0x1a835f(0x6a4)],{'attributes':{'_0x5f83e8':_0x2c7f78[_0x1a835f(0x26f)],'id':_0x2c7f78[_0x1a835f(0x343)]}},_0x2c7f78[_0x1a835f(0x236)](El,_0x1a835f(0x349),{'attributes':{'src':_0x2c7f78[_0x1a835f(0x2fa)]}}),El(_0x1a835f(0x572),{'_0x64ec79':_0x2c7f78[_0x1a835f(0x669)]},_0x383cf8[_0x243a52][_0x1a835f(0x4e4)])),_0x2c7f78['_0x26f7c9'](El,_0x2c7f78[_0x1a835f(0x6a4)],{'attributes':{'_0x5f83e8':_0x2c7f78[_0x1a835f(0x26f)],'id':_0x2c7f78[_0x1a835f(0x51f)]}},_0x2c7f78[_0x1a835f(0x46f)](El,_0x2c7f78['_0x17d09a'],{'attributes':{'src':_0x1a835f(0x56a)}}),_0x2c7f78[_0x1a835f(0x599)](El,'div',{'_0x64ec79':_0x2c7f78[_0x1a835f(0x669)]},_0x383cf8[_0x243a52][_0x1a835f(0x5ce)])),_0x2c7f78[_0x1a835f(0x201)](El,'div',{'attributes':{'_0x5f83e8':_0x2c7f78[_0x1a835f(0x26f)],'id':_0x2c7f78[_0x1a835f(0x50b)]}},_0x2c7f78[_0x1a835f(0x3e5)](El,_0x2c7f78[_0x1a835f(0x4ba)],{'attributes':{'src':_0x2c7f78[_0x1a835f(0x2fa)]}}),El(_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x1a835f(0x4a6)},_0x383cf8[_0x243a52]['ans4'])));let _0x147d78=_0x2c7f78[_0x1a835f(0x599)](El,_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x2c7f78[_0x1a835f(0x297)]},_0x2c7f78[_0x1a835f(0x310)](El,_0x2c7f78[_0x1a835f(0x6a4)],{'_0x64ec79':_0x1a835f(0x2e4)},_0x2c7f78['_0x2c9f81'](El,_0x2c7f78[_0x1a835f(0x4ba)],{'attributes':{'src':_0x2c7f78[_0x1a835f(0x358)]},'_0x64ec79':_0x2c7f78['_0x43d2d3']}),_0x2c7f78[_0x1a835f(0x5c2)](El,_0x1a835f(0x349),{'attributes':{'src':_0x2c7f78[_0x1a835f(0x264)]},'_0x64ec79':_0x2c7f78[_0x1a835f(0x362)]})));if(_0x243a52===_0x2c7f78[_0x1a835f(0x6bc)](_0x383cf8[_0x1a835f(0x2bb)],0x1))_0x147d78[_0x1a835f(0x393)][_0x1a835f(0x5ab)](_0x1a835f(0x25a));else _0x147d78[_0x1a835f(0x393)][_0x1a835f(0x5ab)](_0x1a835f(0x2f3)+_0x2c7f78[_0x1a835f(0x5ee)](_0x243a52,0x1));document[_0x1a835f(0x5c7)](_0x2c7f78[_0x1a835f(0x3c3)])[_0x1a835f(0x39b)](_0x32a5d0),document['querySelector'](_0x1a835f(0x3c1))[_0x1a835f(0x39b)](_0x147d78),_0x2512cc();function _0x2512cc(){const _0x52d535=_0x1a835f,_0x2c8d30={'_0x3499ad':_0x52d535(0x20e),'_0x469bcf':_0x2c7f78[_0x52d535(0x565)]};if(_0x2c7f78['_0x4aa642'](_0x383cf8[_0x243a52][_0x52d535(0x349)],undefined)){let _0x140726=_0x383cf8[_0x243a52][_0x52d535(0x349)],_0x59d525=_0x2c7f78[_0x52d535(0x405)](El,_0x2c7f78[_0x52d535(0x4ba)],{'attributes':{'_0x5f83e8':'img-questions','src':_0x140726},'_0x1c39b5':{'click':function(){const _0x3a7784=_0x52d535;document[_0x3a7784(0x5c7)](_0x2c8d30[_0x3a7784(0x1ee)])[_0x3a7784(0x66a)][_0x3a7784(0x2c5)]=_0x2c8d30[_0x3a7784(0x4d1)],document[_0x3a7784(0x372)](_0x3a7784(0x385))['src']=_0x140726;}}});document[_0x52d535(0x5c7)](_0x2c7f78[_0x52d535(0x49b)])[_0x52d535(0x333)](_0x59d525);}let _0x430acb=_0x2c7f78[_0x52d535(0x6c2)](El,_0x2c7f78[_0x52d535(0x6a4)],{'attributes':{'_0x5f83e8':_0x2c7f78['_0x3733c4']},'_0x1c39b5':{'click':function(){const _0x14e810=_0x52d535;document['querySelector'](_0x2c8d30[_0x14e810(0x1ee)])[_0x14e810(0x66a)][_0x14e810(0x2c5)]=_0x14e810(0x487);}}},_0x2c7f78[_0x52d535(0x405)](El,_0x2c7f78[_0x52d535(0x4ba)],{'attributes':{'id':_0x2c7f78[_0x52d535(0x666)],'_0x5f83e8':_0x2c7f78[_0x52d535(0x666)]},'_0x1c39b5':{'click':function(){const _0x4f195a=_0x52d535;document['querySelector'](_0x2c7f78[_0x4f195a(0x4a9)])['style'][_0x4f195a(0x2c5)]=_0x2c7f78[_0x4f195a(0x1f7)];}}}));document[_0x52d535(0x5c7)](_0x2c7f78[_0x52d535(0x5ea)])[_0x52d535(0x39b)](_0x430acb);}document[_0x1a835f(0x5c7)](_0x1a835f(0x3c1))['classList'][_0x1a835f(0x5ab)](_0x2c7f78[_0x1a835f(0x2de)]),document[_0x1a835f(0x5c7)](_0x1a835f(0x3c1))[_0x1a835f(0x66a)][_0x1a835f(0x2f9)]=_0x2c7f78[_0x1a835f(0x2bd)],document['querySelector'](_0x2c7f78[_0x1a835f(0x3c3)])[_0x1a835f(0x393)][_0x1a835f(0x607)](_0x2c7f78[_0x1a835f(0x57f)]);if(_0x2c7f78[_0x1a835f(0x4b6)](_0x243a52,0x0))document[_0x1a835f(0x5c7)](_0x1a835f(0x1f8))[_0x1a835f(0x66a)][_0x1a835f(0x2a9)]=_0x2c7f78[_0x1a835f(0x676)];else _0x243a52===_0x2c7f78[_0x1a835f(0x6b8)](_0x383cf8[_0x1a835f(0x2bb)],0x1)&&(document['querySelector'](_0x2c7f78[_0x1a835f(0x63b)])[_0x1a835f(0x66a)][_0x1a835f(0x2a9)]=_0x2c7f78['_0x2a8d49']);document[_0x1a835f(0x5c7)](_0x1a835f(0x478)+_0x2c7f78[_0x1a835f(0x5ee)](_0x243a52,0x1))[_0x1a835f(0x393)][_0x1a835f(0x5ab)](_0x2c7f78['_0x3fca2e']),_0x4c2cc1();}function _0x3b3337(){const _0x812e2c=_0x3b1933,_0x2ec997={'_0x18cf3b':function(_0x49cc6b,_0x562e0b){return _0x49cc6b!==_0x562e0b;},'_0x6426b6':function(_0x33f25a,_0x17d9b5){return _0x33f25a===_0x17d9b5;},'_0x5c1e22':_0x812e2c(0x52d),'_0x358c2c':_0x812e2c(0x2c3),'_0x1a4ae3':'.page.exam\x20.card:not(.transition)\x20.wrong-ans','_0x5a57ec':_0x812e2c(0x271)};_0x2ec997[_0x812e2c(0x32a)](_0x50a400[_0x243a52],null)&&(_0x2ec997[_0x812e2c(0x338)](_0x383cf8[_0x243a52]['type'],_0x2ec997['_0x5c1e22'])?_0x50a400[_0x243a52]?document[_0x812e2c(0x5c7)](_0x812e2c(0x659))['src']=_0x2ec997[_0x812e2c(0x43d)]:document[_0x812e2c(0x5c7)](_0x2ec997[_0x812e2c(0x392)])[_0x812e2c(0x5c5)]=_0x812e2c(0x268):document[_0x812e2c(0x5c7)]('.page.exam\x20.card:not(.transition)\x20#ans'+(_0x50a400[_0x243a52]+0x1)+'\x20img')[_0x812e2c(0x5c5)]=_0x2ec997[_0x812e2c(0x604)]);}function _0x32f2(){const _0x3f3b7e=_0x3b1933,_0x5ed6b7={'_0x390fc5':_0x3f3b7e(0x52d),'_0x29ba45':_0x3f3b7e(0x35e),'_0x500283':'click','_0x20e8cd':_0x3f3b7e(0x48c),'_0x2a3bac':function(_0x3425f5,_0x5309cc){return _0x3425f5<_0x5309cc;},'_0x5c63fd':'.page.exam.done'};if(_0x383cf8[_0x243a52]['type']===_0x5ed6b7[_0x3f3b7e(0x249)])!document[_0x3f3b7e(0x5c7)](_0x3f3b7e(0x50d))&&(document[_0x3f3b7e(0x5c7)](_0x5ed6b7[_0x3f3b7e(0x214)])[_0x3f3b7e(0x3fd)](_0x5ed6b7[_0x3f3b7e(0x4c1)],_0x4f92d4),document[_0x3f3b7e(0x5c7)]('.page.exam\x20.first-card\x20.wrong-ans')[_0x3f3b7e(0x3fd)](_0x5ed6b7[_0x3f3b7e(0x4c1)],_0x4f92d4));else{let _0x122948=document[_0x3f3b7e(0x2d5)](_0x5ed6b7[_0x3f3b7e(0x5a9)]);for(let _0x3cbe2d=0x0;_0x5ed6b7['_0x2a3bac'](_0x3cbe2d,0x4);_0x3cbe2d++){!document['querySelector'](_0x5ed6b7['_0x5c63fd'])&&_0x122948[_0x3cbe2d][_0x3f3b7e(0x3fd)](_0x5ed6b7[_0x3f3b7e(0x4c1)],_0x4f92d4);}}}function _0x4f92d4(_0x2a9e1a){const _0x3d3d22=_0x3b1933,_0x5a53c8={'_0x59a73c':_0x3d3d22(0x6a0),'_0x3d82ee':function(_0x162a8e,_0x6abc83){return _0x162a8e+_0x6abc83;},'_0x2275fd':function(_0x5de458,_0x23fd19){return _0x5de458+_0x23fd19;},'_0x5e125a':function(_0x4e5b13,_0x5a8c7a){return _0x4e5b13===_0x5a8c7a;},'_0x442800':'../assets/images/general/right_btn.svg','_0x303424':_0x3d3d22(0x2f0),'_0x3f10b9':_0x3d3d22(0x2d3),'_0x2d2c6e':_0x3d3d22(0x485),'_0x4650fd':_0x3d3d22(0x268),'_0x274cf7':_0x3d3d22(0x2c3),'_0x2af145':function(_0x5adaee,_0x41538c){return _0x5adaee<_0x41538c;},'_0x4a653d':_0x3d3d22(0x349),'_0x29646c':_0x3d3d22(0x271),'_0x27287c':function(_0x5a5400,_0x79edb2){return _0x5a5400-_0x79edb2;},'_0x410ee4':function(_0x25cc59,_0x38d29e){return _0x25cc59(_0x38d29e);}};_0x50a400[_0x243a52]===null&&(_0x932f43++,document[_0x3d3d22(0x5c7)](_0x5a53c8[_0x3d3d22(0x336)])[_0x3d3d22(0x3f7)]=_0x5a53c8[_0x3d3d22(0x21d)](_0x5a53c8[_0x3d3d22(0x429)](_0x932f43,'/'),_0x383cf8['length']));finalAnswer=!![];if(_0x5a53c8[_0x3d3d22(0x205)](_0x383cf8[_0x243a52][_0x3d3d22(0x4d9)],_0x3d3d22(0x52d)))document[_0x3d3d22(0x5c7)]('.page.exam\x20.first-card\x20.right-ans')[_0x3d3d22(0x5c5)]=_0x5a53c8[_0x3d3d22(0x22b)],document[_0x3d3d22(0x5c7)](_0x5a53c8[_0x3d3d22(0x396)])[_0x3d3d22(0x5c5)]=_0x5a53c8[_0x3d3d22(0x204)],_0x2a9e1a['target'][_0x3d3d22(0x393)]['contains'](_0x5a53c8[_0x3d3d22(0x27a)])?(_0x2a9e1a[_0x3d3d22(0x244)]['src']=_0x5a53c8['_0x4650fd'],finalAnswer=![]):(_0x2a9e1a[_0x3d3d22(0x244)][_0x3d3d22(0x5c5)]=_0x5a53c8[_0x3d3d22(0x3c9)],finalAnswer=!![]);else{let _0x47add7=document[_0x3d3d22(0x2d5)](_0x3d3d22(0x48c));for(let _0x4bcfd7=0x0;_0x5a53c8[_0x3d3d22(0x4bb)](_0x4bcfd7,0x4);_0x4bcfd7++){_0x47add7[_0x4bcfd7][_0x3d3d22(0x5c7)](_0x5a53c8[_0x3d3d22(0x30c)])[_0x3d3d22(0x5c5)]=_0x3d3d22(0x56a);}_0x2a9e1a[_0x3d3d22(0x244)][_0x3d3d22(0x5c7)](_0x5a53c8['_0x4a653d'])[_0x3d3d22(0x5c5)]=_0x5a53c8['_0x29646c'],finalAnswer=_0x5a53c8['_0x27287c'](_0x5a53c8[_0x3d3d22(0x56e)](Number,_0x2a9e1a[_0x3d3d22(0x244)]['id'][_0x3d3d22(0x605)](0x3)),0x1);}document[_0x3d3d22(0x5c7)](_0x3d3d22(0x684)+_0x5a53c8[_0x3d3d22(0x429)](_0x243a52,0x1))[_0x3d3d22(0x66a)][_0x3d3d22(0x3a5)]=0x1,_0x50a400[_0x243a52]=finalAnswer,_0x13d25f();}function _0x13d25f(){const _0x1d65f6=_0x3b1933,_0x3f8411={'_0x560b34':function(_0x5cd077){return _0x5cd077();},'_0x5f3cbd':function(_0x4a390e,_0x3e58b9){return _0x4a390e<_0x3e58b9;},'_0x2b1c97':function(_0x878990,_0x57ca3c){return _0x878990===_0x57ca3c;},'_0x11a683':function(_0x2c351e,_0x3f8667){return _0x2c351e===_0x3f8667;},'_0x15ccea':_0x1d65f6(0x2fe),'_0x5d5d2c':_0x1d65f6(0x4a2),'_0x630924':'.page.exam\x20.next-back-btn'};let _0x3c8e02=!![];for(let _0x35e4de=0x0;_0x3f8411[_0x1d65f6(0x66c)](_0x35e4de,_0x50a400[_0x1d65f6(0x2bb)]);_0x35e4de++){if(_0x3f8411[_0x1d65f6(0x24a)](_0x50a400[_0x35e4de],null)){_0x3c8e02=![];return;}}if(_0x3c8e02&&!document[_0x1d65f6(0x5c7)](_0x1d65f6(0x50d))&&_0x3f8411[_0x1d65f6(0x20f)](document[_0x1d65f6(0x5c7)](_0x1d65f6(0x524)),null)){let _0xbfac7d=El(_0x1d65f6(0x349),{'attributes':{'_0x5f83e8':_0x3f8411['_0x15ccea'],'src':_0x3f8411[_0x1d65f6(0x272)]},'_0x1c39b5':{'click':()=>{_0x3f8411['_0x560b34'](_0x4bf43b);}}});document[_0x1d65f6(0x5c7)](_0x3f8411[_0x1d65f6(0x5e3)])[_0x1d65f6(0x39b)](_0xbfac7d),document[_0x1d65f6(0x5c7)](_0x1d65f6(0x42e))['style'][_0x1d65f6(0x2c0)]='space-between';}}function _0x5cfa5f(){const _0x43737f=_0x3b1933,_0x144e15={'_0x15613f':function(_0x474baf){return _0x474baf();},'_0x25acb0':_0x43737f(0x57c),'_0x18d23a':'click'};document[_0x43737f(0x5c7)](_0x144e15[_0x43737f(0x3b2)])[_0x43737f(0x3fd)](_0x43737f(0x22e),_0x280812=>{const _0x561369=_0x43737f;_0x243a52++,_0x144e15[_0x561369(0x413)](_0x1c4173);}),document['querySelector'](_0x43737f(0x1ef))[_0x43737f(0x3fd)](_0x144e15[_0x43737f(0x6bb)],_0x58f536=>{const _0x6e4fe9=_0x43737f;_0x243a52--,_0x144e15[_0x6e4fe9(0x413)](_0x5d0a14);});}function _0x1c4173(){const _0x109508=_0x3b1933,_0x2100b9={'_0x352e7f':_0x109508(0x68a)};_0x1c831d(),document[_0x109508(0x5c7)]('.page.exam\x20.first-card')[_0x109508(0x66a)][_0x109508(0x2f9)]=_0x2100b9['_0x352e7f'];}function _0x5d0a14(){const _0x223f51=_0x3b1933,_0x5030ed={'_0x52ef1e':_0x223f51(0x3c1),'_0x1579bc':function(_0x5bd560){return _0x5bd560();},'_0x4725a4':'transition','_0x8ca668':_0x223f51(0x68a)};let _0x32bac4=document[_0x223f51(0x5c7)](_0x5030ed[_0x223f51(0x5d1)]);_0x5030ed[_0x223f51(0x34d)](_0x1c831d);let _0x53d13d=document[_0x223f51(0x5c7)](_0x223f51(0x504));_0x53d13d[_0x223f51(0x393)][_0x223f51(0x607)](_0x5030ed[_0x223f51(0x4f6)]),_0x32bac4[_0x223f51(0x393)][_0x223f51(0x5ab)](_0x5030ed[_0x223f51(0x4f6)]),_0x32bac4['style']['transition']=_0x223f51(0x487),_0x32bac4[_0x223f51(0x66a)][_0x223f51(0x2f9)]=_0x5030ed[_0x223f51(0x50c)],void _0x32bac4[_0x223f51(0x548)],_0x32bac4[_0x223f51(0x66a)]['transition']='',_0x32bac4[_0x223f51(0x66a)][_0x223f51(0x2f9)]='';}function _0x1c831d(){const _0x5e486e=_0x3b1933,_0x15c286={'_0x142d8d':_0x5e486e(0x4d4),'_0x2f5f9e':function(_0x404e4d){return _0x404e4d();},'_0x505cd7':function(_0x3faa3f){return _0x3faa3f();},'_0x475d0b':function(_0xe2eceb){return _0xe2eceb();},'_0x5b8e53':_0x5e486e(0x504),'_0x32c7ee':_0x5e486e(0x46b),'_0x52ca61':_0x5e486e(0x4d2),'_0x62d296':function(_0x5281d6){return _0x5281d6();},'_0x2b48cd':function(_0x5eb49a,_0x217c89,_0x72b4d9){return _0x5eb49a(_0x217c89,_0x72b4d9);},'_0x1b69ef':function(_0x4cd7ab){return _0x4cd7ab();}};document[_0x5e486e(0x5c7)](_0x5e486e(0x253))['classList']['remove'](_0x15c286[_0x5e486e(0x692)]),document[_0x5e486e(0x5c7)](_0x15c286[_0x5e486e(0x51b)])[_0x5e486e(0x393)][_0x5e486e(0x5ab)](_0x15c286['_0x32c7ee']),_0x15c286[_0x5e486e(0x3c8)](_0x4b5405),_0x15c286[_0x5e486e(0x44c)](setTimeout,function(){const _0x1bbe22=_0x5e486e,_0x2f6ea8=_0x15c286[_0x1bbe22(0x25c)][_0x1bbe22(0x655)]('|');let _0x6cc2cc=0x0;while(!![]){switch(_0x2f6ea8[_0x6cc2cc++]){case'0':_0x15c286[_0x1bbe22(0x587)](_0x32f2);continue;case'1':if(document[_0x1bbe22(0x5c7)](_0x1bbe22(0x50d)))_0x15c286[_0x1bbe22(0x59d)](_0x131e54);continue;case'2':_0x15c286[_0x1bbe22(0x55f)](_0x5cfa5f);continue;case'3':document[_0x1bbe22(0x5c7)](_0x15c286['_0x5b8e53'])['remove']();continue;case'4':document[_0x1bbe22(0x5c7)](_0x15c286['_0x5b8e53'])[_0x1bbe22(0x393)][_0x1bbe22(0x607)](_0x15c286[_0x1bbe22(0x582)]);continue;case'5':_0x15c286['_0x475d0b'](_0x13d25f);continue;}break;}},0x3e8),_0x15c286[_0x5e486e(0x542)](_0x3b3337);}function _0x5a6c7d(){const _0x3e3a3c=_0x3b1933,_0x53b909={'_0x28bea0':_0x3e3a3c(0x5b5),'_0x198d1f':_0x3e3a3c(0x3ed),'_0x538e90':function(_0x467b3c,_0x189944){return _0x467b3c<_0x189944;},'_0x56af53':function(_0x5806a8,_0x55f0e5){return _0x5806a8===_0x55f0e5;},'_0x563ecf':function(_0x1aa378,_0x407287){return _0x1aa378(_0x407287);},'_0x532197':function(_0x2aa5c1,_0x1c9bc6){return _0x2aa5c1===_0x1c9bc6;},'_0x12aa6e':function(_0x1673fa,_0x3e32c1,_0x2e40d9){return _0x1673fa(_0x3e32c1,_0x2e40d9);},'_0x2c7997':function(_0x49557e,_0x279321){return _0x49557e<_0x279321;},'_0x3c68fe':function(_0x19d8cb,_0x509219){return _0x19d8cb+_0x509219;},'_0x50d77b':function(_0x392892,_0x454de7){return _0x392892<_0x454de7;},'_0x1b69ba':function(_0x3926c3,_0x19e08c){return _0x3926c3+_0x19e08c;}};if(_0x53b909[_0x3e3a3c(0x342)](_0x527f12,0x0)){if(_0x53b909[_0x3e3a3c(0x5b6)](_0x53039b,0x0)){clearInterval(_0x1834f5),_0x53b909[_0x3e3a3c(0x305)](_0x50a277,'exam');return;}else _0x527f12=0x3b,_0x53039b--;}_0x53b909['_0x532197'](_0x53039b,0x1)&&_0x53b909[_0x3e3a3c(0x69b)](_0x527f12,0x0)&&(document[_0x3e3a3c(0x5c7)](_0x53b909[_0x3e3a3c(0x5f9)])[_0x3e3a3c(0x393)]['add'](_0x3e3a3c(0x3ed)),_0x53b909[_0x3e3a3c(0x536)](setTimeout,function(){const _0x2a3110=_0x3e3a3c;document[_0x2a3110(0x5c7)](_0x53b909[_0x2a3110(0x5f9)])[_0x2a3110(0x393)][_0x2a3110(0x607)](_0x53b909[_0x2a3110(0x234)]);},0x3e8));if(_0x53b909[_0x3e3a3c(0x470)](_0x527f12,0xa))document[_0x3e3a3c(0x5c7)](_0x3e3a3c(0x5b5))['innerHTML']=_0x53b909[_0x3e3a3c(0x289)](_0x53b909[_0x3e3a3c(0x289)](_0x53039b,':0'),_0x527f12);else _0x53b909[_0x3e3a3c(0x4c5)](_0x527f12,_0x4daad8)&&(document[_0x3e3a3c(0x5c7)](_0x53b909[_0x3e3a3c(0x5f9)])[_0x3e3a3c(0x3f7)]=_0x53b909[_0x3e3a3c(0x289)](_0x53b909['_0x1b69ba'](_0x53039b,':'),_0x527f12));_0x527f12--;}function _0x2a3587(){const _0x44f847=_0x3b1933,_0x874a11={'_0x554161':_0x44f847(0x52d),'_0x1f8c6c':function(_0x5231e3,_0xcce062){return _0x5231e3===_0xcce062;},'_0x474b50':function(_0x2af9e0,_0x495754){return _0x2af9e0+_0x495754;},'_0x5e6fa4':function(_0x580d83,_0x559828){return _0x580d83(_0x559828);}};let _0x4ca301=0x0;for(let _0x16b9ae=0x0;_0x16b9ae<_0x50a400['length'];_0x16b9ae++){_0x383cf8[_0x16b9ae][_0x44f847(0x4d9)]===_0x874a11[_0x44f847(0x3fe)]?(correctAns=_0x383cf8[_0x16b9ae][_0x44f847(0x2df)],_0x874a11['_0x1f8c6c'](_0x50a400[_0x16b9ae],correctAns)&&_0x4ca301++):(correctAns=_0x383cf8[_0x16b9ae][_0x44f847(0x68d)],_0x874a11[_0x44f847(0x63c)](_0x44f847(0x4a6)+_0x874a11[_0x44f847(0x36b)](_0x50a400[_0x16b9ae],0x1),correctAns)&&_0x4ca301++);}_0x874a11['_0x5e6fa4'](_0x1e38e0,_0x4ca301);}function _0x1e38e0(_0x58faa3){const _0x2066ae=_0x3b1933,_0x1a8db4={'_0x1b904b':function(_0x34fefe,_0x3d93db){return _0x34fefe(_0x3d93db);},'_0x50fccc':'.page.exam','_0x5a9664':_0x2066ae(0x245),'_0x22b722':_0x2066ae(0x4f5),'_0x971701':_0x2066ae(0x51a),'_0x186282':_0x2066ae(0x43c),'_0x4b1795':_0x2066ae(0x430),'_0xb7d6bb':'.page.exam\x20.questions-container','_0x3eed1f':_0x2066ae(0x1ed),'_0x408e9d':function(_0x191e05){return _0x191e05();},'_0x23dc7b':'../assets/images/exam/toHome_btn.svg','_0x5b65e0':'backHome-btn','_0x3d7374':'end','_0x268cf9':function(_0x3cd056,_0x9e587c){return _0x3cd056(_0x9e587c);},'_0x40f9b3':function(_0x2fe604,_0x15d1e1){return _0x2fe604(_0x15d1e1);},'_0x3cb4df':function(_0x21a5aa,_0x492d04){return _0x21a5aa-_0x492d04;},'_0x55c34f':function(_0x55b37b,_0x2469dd){return _0x55b37b-_0x2469dd;},'_0x1d150b':function(_0x226851,_0x276db5){return _0x226851===_0x276db5;},'_0x71144e':function(_0x28520c,_0x55a7c2){return _0x28520c<_0x55a7c2;},'_0x2b5d51':function(_0x5a608a,_0x2c899a){return _0x5a608a+_0x2c899a;},'_0x154484':function(_0x234b1a,_0x14289f){return _0x234b1a+_0x14289f;},'_0x2c038c':function(_0x3954b9,_0x4ef6f9){return _0x3954b9(_0x4ef6f9);},'_0x5cb87a':function(_0x25ba3a,_0x19d9f0){return _0x25ba3a*_0x19d9f0;},'_0x2aab35':function(_0x13500b,_0x45d520){return _0x13500b+_0x45d520;},'_0x287d54':function(_0x223df4,_0x352dea){return _0x223df4*_0x352dea;},'_0x4d7ab4':function(_0x44192c,_0x16985b){return _0x44192c+_0x16985b;},'_0x5b01d0':function(_0x567220,_0x5799db){return _0x567220+_0x5799db;},'_0x4f123f':function(_0x3123c5,_0x31a470){return _0x3123c5*_0x31a470;},'_0xa68e31':function(_0x27170d,_0x2387ed){return _0x27170d>_0x2387ed;},'_0x5724d2':function(_0x20c157,_0x55bf0f){return _0x20c157/_0x55bf0f;},'_0x3d9b18':_0x2066ae(0x3f4),'_0x5ac549':_0x2066ae(0x306),'_0x417f1d':function(_0x9cb97,_0x3338bb){return _0x9cb97>=_0x3338bb;},'_0x23e5a0':_0x2066ae(0x458),'_0x149862':function(_0xe8dd67,_0xd880b,_0x34b0f0,_0x1786a6){return _0xe8dd67(_0xd880b,_0x34b0f0,_0x1786a6);},'_0x3cdc1b':'div','_0x3d4801':_0x2066ae(0x2ef),'_0x2bee1d':function(_0x57efbe,_0x30567b,_0x39857d,_0x22ef37,_0x1f3a3d,_0x347453,_0x228078,_0x12520b){return _0x57efbe(_0x30567b,_0x39857d,_0x22ef37,_0x1f3a3d,_0x347453,_0x228078,_0x12520b);},'_0x186980':_0x2066ae(0x49a),'_0x7a5508':function(_0x221975,_0x31820a,_0x29701e){return _0x221975(_0x31820a,_0x29701e);},'_0x67743c':_0x2066ae(0x349),'_0x259cb5':_0x2066ae(0x6be),'_0xe60fad':'close-btn','_0x24e4ca':'title-popup','_0x51dea3':'text1-popup','_0x3c462a':function(_0x1337ef,_0x154459,_0x38905a,_0x57bfdd){return _0x1337ef(_0x154459,_0x38905a,_0x57bfdd);},'_0x2e2efa':_0x2066ae(0x596),'_0x172649':function(_0x943f96,_0x359f62,_0x12e1ba){return _0x943f96(_0x359f62,_0x12e1ba);},'_0x23ebc1':'grey-line','_0x48bae1':function(_0x37853e,_0x322d2c,_0x439416,_0x15a4bd,_0x51ff64){return _0x37853e(_0x322d2c,_0x439416,_0x15a4bd,_0x51ff64);},'_0x53efd5':'container-resultes','_0x14ba0f':_0x2066ae(0x611),'_0x1c7549':function(_0x2d07f5,_0x55c9dd,_0x1b076c,_0x4479f1,_0x4cbad5){return _0x2d07f5(_0x55c9dd,_0x1b076c,_0x4479f1,_0x4cbad5);},'_0x21100a':_0x2066ae(0x23a),'_0x58fd9e':function(_0xd772e3,_0xc25bd9){return _0xd772e3+_0xc25bd9;},'_0x24e678':_0x2066ae(0x339),'_0x500452':_0x2066ae(0x51e),'_0x4b4e1d':function(_0x43b150,_0x9b7e04){return _0x43b150+_0x9b7e04;},'_0x3434fe':_0x2066ae(0x216),'_0x220a03':_0x2066ae(0x26b),'_0x20d821':'progress-bar-right-answers','_0x4a172e':function(_0x484703,_0x2c41f2,_0x278621,_0x54b334,_0x12debb){return _0x484703(_0x2c41f2,_0x278621,_0x54b334,_0x12debb);},'_0x2b17d6':'\x20דקות','_0x165f7f':function(_0x4ea871,_0x1f8f77,_0x54c28f){return _0x4ea871(_0x1f8f77,_0x54c28f);},'_0x463459':'../assets/images/general/finish_popup/timer_icon.svg','_0x2ef61':_0x2066ae(0x5bb),'_0x4da793':_0x2066ae(0x1fa),'_0x839a0a':_0x2066ae(0x2da),'_0x4126dc':_0x2066ae(0x55a),'_0x54de51':function(_0x3e7abe,_0x5b5cc0,_0x211c11){return _0x3e7abe(_0x5b5cc0,_0x211c11);},'_0x28b780':'../assets/images/general/finish_popup/showExam_btn.svg','_0x291b8b':_0x2066ae(0x398),'_0x580ea1':_0x2066ae(0x3f0),'_0x574585':_0x2066ae(0x589),'_0x204c12':function(_0x470814,_0xe9f012){return _0x470814+_0xe9f012;},'_0xdf7011':function(_0x4c9c12,_0x214e52){return _0x4c9c12*_0x214e52;},'_0x420dce':function(_0x204476,_0x29b13d){return _0x204476/_0x29b13d;},'_0x30c6e5':_0x2066ae(0x602),'_0x460e2d':function(_0x1f3733,_0x52a835){return _0x1f3733-_0x52a835;},'_0xeddc76':function(_0x3cb028,_0x57c97d){return _0x3cb028/_0x57c97d;},'_0x2a8072':_0x2066ae(0x562),'_0x56726d':_0x2066ae(0x22e),'_0x2172fc':'.page.exam\x20.backToExam-btn','_0x552631':_0x2066ae(0x41c)};_0x1a8db4[_0x2066ae(0x450)](clearInterval,_0x1834f5),document[_0x2066ae(0x5c7)](_0x2066ae(0x51a))[_0x2066ae(0x66a)][_0x2066ae(0x5da)]=_0x2066ae(0x423)+_0xda27a0+')',document[_0x2066ae(0x5c7)](_0x1a8db4[_0x2066ae(0x482)])[_0x2066ae(0x66a)][_0x2066ae(0x5da)]=_0x2066ae(0x423)+_0xda27a0+')',document[_0x2066ae(0x5c7)](_0x2066ae(0x412))[_0x2066ae(0x66a)][_0x2066ae(0x5da)]=_0x2066ae(0x423)+_0xda27a0+')',document['querySelector'](_0x2066ae(0x1ed))[_0x2066ae(0x66a)][_0x2066ae(0x5da)]='blur('+_0xda27a0+')';let _0x1e26f2=_0x1a8db4[_0x2066ae(0x52a)](_0x4a2e0e,_0x53039b),_0x31fd8a=_0x1a8db4[_0x2066ae(0x450)](Number,_0x1a8db4[_0x2066ae(0x69f)](0x3b,_0x527f12));if(_0x1a8db4[_0x2066ae(0x281)](_0x31fd8a,'60'))_0x31fd8a=0x0,textSec='00',_0x1e26f2++;else _0x1a8db4[_0x2066ae(0x698)](_0x31fd8a,0xa)?textSec='0'+_0x31fd8a:textSec=_0x31fd8a;_0x477f47=_0x1a8db4['_0x2b5d51'](_0x1a8db4[_0x2066ae(0x677)](_0x1e26f2,':'),textSec);let _0x29fae7=_0x1a8db4['_0x2c038c'](Number,_0x1a8db4['_0x5cb87a'](_0x1e26f2,0x3c)+_0x31fd8a),_0x35bffd=_0x1a8db4[_0x2066ae(0x3eb)](_0x1a8db4[_0x2066ae(0x4db)](_0x4a2e0e,0x3c),0x3c),_0x157f60,_0x4a9047,_0x3cfbf5,_0x2c8660,_0x6422c5;_0x157f60=_0x3595f7+'\x20'+_0x591621,_0x3cfbf5=new Date();let _0x5b635a=_0x3cfbf5[_0x2066ae(0x4f8)]()+'/'+_0x1a8db4[_0x2066ae(0x575)](_0x3cfbf5[_0x2066ae(0x1f2)](),0x1)+'/'+_0x3cfbf5[_0x2066ae(0x5df)](),_0x4aadf8=_0x1a8db4['_0x5b01d0'](_0x3cfbf5[_0x2066ae(0x3d3)]()+':',_0x3cfbf5['getMinutes']());_0x2c8660=_0x1a8db4['_0x4f123f'](_0x58faa3/_0x383cf8[_0x2066ae(0x2bb)],0x64);if(_0x2c8660%0x1!==0x0)_0x2c8660=_0x2c8660[_0x2066ae(0x242)](0x2);if(_0x1a8db4[_0x2066ae(0x5c9)](_0x58faa3,_0x1a8db4[_0x2066ae(0x40e)](_0x383cf8['length'],0x2)))_0x4a9047=_0x1a8db4['_0x3d9b18'];else _0x4a9047=_0x1a8db4[_0x2066ae(0x635)];if(_0x1a8db4[_0x2066ae(0x6b9)](_0x58faa3,0x1a))_0x6422c5=_0x2066ae(0x300);else _0x6422c5=_0x1a8db4[_0x2066ae(0x4f3)];let _0x101e48=_0x1a8db4['_0x149862'](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x61e)]},_0x1a8db4[_0x2066ae(0x27f)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4['_0x186980']},_0x1a8db4[_0x2066ae(0x45f)](El,_0x1a8db4[_0x2066ae(0x34e)],{'attributes':{'src':_0x1a8db4[_0x2066ae(0x62d)],'_0x5f83e8':_0x1a8db4[_0x2066ae(0x366)]}}),_0x1a8db4[_0x2066ae(0x3c2)](El,'div',{'_0x64ec79':_0x1a8db4['_0x24e4ca']},_0x157f60),El(_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x2066ae(0x3bb)},El(_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x48f)]},_0x6422c5),_0x1a8db4[_0x2066ae(0x5e8)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x2066ae(0x5b2)},_0x4aadf8+_0x2066ae(0x5e1)+_0x5b635a)),_0x1a8db4[_0x2066ae(0x27f)](El,_0x2066ae(0x572),{'_0x64ec79':_0x1a8db4[_0x2066ae(0x66f)]},_0x1a8db4['_0x172649'](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x6c1)]}),_0x1a8db4[_0x2066ae(0x52b)](El,_0x1a8db4['_0x3cdc1b'],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x568)]},_0x1a8db4[_0x2066ae(0x52b)](El,_0x2066ae(0x572),{'_0x64ec79':_0x1a8db4[_0x2066ae(0x63e)]},_0x1a8db4[_0x2066ae(0x55c)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x591)]},_0x1a8db4[_0x2066ae(0x5e8)](El,_0x2066ae(0x572),{},_0x1a8db4[_0x2066ae(0x307)](_0x1a8db4[_0x2066ae(0x307)](_0x58faa3,'\x20'),_0x1a8db4[_0x2066ae(0x680)])),_0x1a8db4[_0x2066ae(0x21e)](El,_0x2066ae(0x349),{'attributes':{'src':_0x4a9047,'_0x5f83e8':_0x1a8db4[_0x2066ae(0x4f0)]}})),_0x1a8db4[_0x2066ae(0x544)](_0x1a8db4[_0x2066ae(0x652)],_0x383cf8[_0x2066ae(0x2bb)])+_0x1a8db4['_0x220a03']),_0x1a8db4[_0x2066ae(0x5e8)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x2066ae(0x1fa)},_0x1a8db4['_0x172649'](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x4dc)]}))),_0x1a8db4[_0x2066ae(0x21e)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x6c1)]}),_0x1a8db4[_0x2066ae(0x479)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x2066ae(0x538)},El(_0x1a8db4['_0x3cdc1b'],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x63e)]},El(_0x1a8db4['_0x3cdc1b'],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x591)]},El(_0x2066ae(0x572),{},_0x1a8db4[_0x2066ae(0x544)](_0x477f47,_0x1a8db4['_0x2b17d6'])),_0x1a8db4['_0x165f7f'](El,_0x1a8db4[_0x2066ae(0x34e)],{'attributes':{'src':_0x1a8db4[_0x2066ae(0x45b)],'_0x5f83e8':_0x1a8db4[_0x2066ae(0x6ae)]}})),_0x2066ae(0x4af)),_0x1a8db4[_0x2066ae(0x5e8)](El,_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x3e0)]},El(_0x2066ae(0x572),{'_0x64ec79':_0x1a8db4['_0x839a0a']}))),_0x1a8db4[_0x2066ae(0x42a)](El,_0x2066ae(0x572),{'_0x64ec79':_0x1a8db4[_0x2066ae(0x6c1)]})),El(_0x1a8db4[_0x2066ae(0x4ac)],{'_0x64ec79':_0x1a8db4[_0x2066ae(0x266)]},_0x1a8db4[_0x2066ae(0x5d8)](El,_0x1a8db4[_0x2066ae(0x34e)],{'attributes':{'src':_0x1a8db4[_0x2066ae(0x58f)],'_0x5f83e8':_0x1a8db4['_0x291b8b']}}),_0x1a8db4['_0x54de51'](El,_0x1a8db4[_0x2066ae(0x34e)],{'attributes':{'src':_0x2066ae(0x36f),'_0x5f83e8':_0x1a8db4[_0x2066ae(0x505)]}}))));document[_0x2066ae(0x5c7)](_0x1a8db4[_0x2066ae(0x3ce)])[_0x2066ae(0x39b)](_0x101e48),document['querySelector'](_0x1a8db4[_0x2066ae(0x3f1)])[_0x2066ae(0x66a)][_0x2066ae(0x489)]=_0x1a8db4[_0x2066ae(0x39e)](_0x1a8db4[_0x2066ae(0x5c6)](_0x1a8db4[_0x2066ae(0x27d)](_0x58faa3,_0x383cf8[_0x2066ae(0x2bb)]),0x64),'%'),document[_0x2066ae(0x5c7)](_0x1a8db4[_0x2066ae(0x556)])[_0x2066ae(0x66a)][_0x2066ae(0x489)]=_0x1a8db4[_0x2066ae(0x5f8)](0x64,_0x1a8db4['_0xeddc76'](_0x1a8db4[_0x2066ae(0x5c6)](_0x29fae7,0x64),_0x35bffd))+'%',document['querySelector'](_0x1a8db4['_0x2a8072'])[_0x2066ae(0x3fd)](_0x1a8db4['_0x56726d'],()=>{const _0x2511e9=_0x2066ae;let _0x5ba4a0=_0x2511e9(0x579);_0x1a8db4[_0x2511e9(0x2f2)](_0x4fc026,_0x5ba4a0);}),document[_0x2066ae(0x5c7)](_0x1a8db4[_0x2066ae(0x67a)])[_0x2066ae(0x3fd)](_0x1a8db4[_0x2066ae(0x483)],()=>{const _0xd3f42a=_0x2066ae;document[_0xd3f42a(0x5c7)](_0x1a8db4['_0x50fccc'])[_0xd3f42a(0x393)]['add'](_0x1a8db4[_0xd3f42a(0x347)]);let _0x1f466e=_0x1a8db4[_0xd3f42a(0x636)];_0x1a8db4[_0xd3f42a(0x2f2)](_0x4fc026,_0x1f466e),document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x389)])['style'][_0xd3f42a(0x5da)]=_0x1a8db4[_0xd3f42a(0x30a)],document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x482)])[_0xd3f42a(0x66a)][_0xd3f42a(0x5da)]=_0x1a8db4[_0xd3f42a(0x30a)],document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x382)])['style'][_0xd3f42a(0x5da)]=_0x1a8db4[_0xd3f42a(0x30a)],document[_0xd3f42a(0x5c7)](_0x1a8db4['_0x3eed1f'])[_0xd3f42a(0x66a)][_0xd3f42a(0x5da)]=_0x1a8db4[_0xd3f42a(0x30a)],document[_0xd3f42a(0x5c7)](_0xd3f42a(0x5bc))[_0xd3f42a(0x607)](),document[_0xd3f42a(0x5c7)](_0xd3f42a(0x2cc))[_0xd3f42a(0x607)](),document[_0xd3f42a(0x5c7)](_0xd3f42a(0x412))[_0xd3f42a(0x3f7)]='',_0x4c2cc1(),_0x1a8db4[_0xd3f42a(0x4bd)](_0x4b5405),_0x5cfa5f(),_0x1a8db4[_0xd3f42a(0x4bd)](_0x32f2),document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x508)])[_0xd3f42a(0x5c5)]=_0x1a8db4[_0xd3f42a(0x552)],document[_0xd3f42a(0x5c7)](_0x1a8db4['_0x3eed1f'])[_0xd3f42a(0x393)][_0xd3f42a(0x5ab)](_0x1a8db4[_0xd3f42a(0x25e)]),_0x131e54(),document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x482)])['scrollLeft']=document[_0xd3f42a(0x5c7)](_0x1a8db4[_0xd3f42a(0x482)])[_0xd3f42a(0x3ad)],_0x1a8db4[_0xd3f42a(0x4bd)](_0x23337f),_0x3b3337();}),document[_0x2066ae(0x5c7)](_0x1a8db4[_0x2066ae(0x241)])['addEventListener'](_0x1a8db4[_0x2066ae(0x483)],()=>{const _0x3b6bba=_0x2066ae;let _0x225ae6=_0x1a8db4[_0x3b6bba(0x402)];_0x1a8db4[_0x3b6bba(0x503)](_0x4fc026,_0x225ae6);});}function _0x4fc026(_0x12abf4){const _0x189918=_0x3b1933,_0xce10f3={'_0x520b2f':function(_0x241e8b,_0x513fe6){return _0x241e8b+_0x513fe6;},'_0x24a743':_0x189918(0x579),'_0x55e0c7':'.page.exam\x20.back-btn','_0x19240c':_0x189918(0x651),'_0x4be9e5':_0x189918(0x4d2),'_0x3b45df':_0x189918(0x293),'_0x94caa4':_0x189918(0x5bc),'_0x25a688':_0x189918(0x2cc),'_0x57a9ab':function(_0x313482,_0x15effa){return _0x313482(_0x15effa);},'_0x40f2fa':_0x189918(0x412),'_0x512641':_0x189918(0x600),'_0x3dc3af':_0x189918(0x430),'_0x57669a':'.page.exam.done','_0x1fbb74':_0x189918(0x245),'_0x4f3741':function(_0x32ab03){return _0x32ab03();},'_0x5773eb':function(_0x45b532,_0x56a0bb){return _0x45b532!=_0x56a0bb;},'_0x3260dd':_0x189918(0x51a),'_0x63e02f':_0x189918(0x43c)};document[_0x189918(0x5c7)](_0x189918(0x478)+_0xce10f3[_0x189918(0x534)](_0x243a52,0x1))[_0x189918(0x393)][_0x189918(0x607)](_0x189918(0x4d2)),_0x243a52=0x0;switch(_0x12abf4){case _0xce10f3[_0x189918(0x5c4)]:{document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x265)])['remove'](),document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x3e8)])[_0x189918(0x393)][_0x189918(0x607)](_0xce10f3[_0x189918(0x6ad)]),document[_0x189918(0x5c7)](_0xce10f3['_0x3b45df'])[_0x189918(0x393)][_0x189918(0x5ab)](_0xce10f3['_0x4be9e5']),document[_0x189918(0x5c7)](_0xce10f3['_0x94caa4'])[_0x189918(0x607)](),document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x4e5)])[_0x189918(0x607)](),_0xce10f3[_0x189918(0x2dd)](clearInterval,_0x7a8b3f),document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x371)])[_0x189918(0x3f7)]='',document[_0x189918(0x5c7)](_0x189918(0x430))['innerHTML']='';break;}case _0xce10f3['_0x512641']:{clearInterval(_0x1834f5),document['querySelector'](_0xce10f3[_0x189918(0x265)])[_0x189918(0x607)](),document[_0x189918(0x5c7)](_0x189918(0x651))[_0x189918(0x393)][_0x189918(0x607)](_0xce10f3[_0x189918(0x6ad)]),document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x44d)])['classList'][_0x189918(0x5ab)]('active'),document[_0x189918(0x5c7)](_0xce10f3['_0x40f2fa'])[_0x189918(0x3f7)]='',document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x357)])[_0x189918(0x3f7)]='';if(document['querySelector']('.page.exam.done'))document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x592)])[_0x189918(0x393)][_0x189918(0x607)](_0xce10f3[_0x189918(0x49f)]);break;}case _0x189918(0x4f5):{document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x3e8)])[_0x189918(0x393)][_0x189918(0x5ab)]('done'),_0xce10f3[_0x189918(0x578)](_0x13d25f);break;}}_0xce10f3[_0x189918(0x623)](_0x12abf4,_0xce10f3['_0x512641'])&&(document['querySelector'](_0xce10f3[_0x189918(0x277)])[_0x189918(0x66a)][_0x189918(0x5da)]=_0x189918(0x43c),document[_0x189918(0x5c7)](_0x189918(0x430))[_0x189918(0x66a)]['filter']=_0x189918(0x43c),document[_0x189918(0x5c7)](_0xce10f3[_0x189918(0x371)])[_0x189918(0x66a)]['filter']=_0xce10f3[_0x189918(0x33b)]);}function _0x131e54(){const _0x3192af=_0x3b1933,_0xf1017c={'_0x3039b2':function(_0x4b1a3b,_0x51a0a4){return _0x4b1a3b===_0x51a0a4;},'_0x3d8d91':function(_0x32af56,_0xb78d02,_0x464707){return _0x32af56(_0xb78d02,_0x464707);},'_0x5869eb':_0x3192af(0x349),'_0x4361d0':'line','_0x151fbb':'.page.exam\x20.first-card\x20.question','_0xee0efc':_0x3192af(0x467),'_0x1c38b6':function(_0x2f6f1e,_0xdd0b58){return _0x2f6f1e+_0xdd0b58;},'_0x510886':_0x3192af(0x3d8)};let _0x25d44c;if(_0xf1017c[_0x3192af(0x364)](_0x383cf8[_0x243a52]['type'],_0x3192af(0x52d))){_0x25d44c=_0x383cf8[_0x243a52]['_0x3f84e2'];if(_0x50a400[_0x243a52]===_0x25d44c){let _0x2d96aa=_0xf1017c[_0x3192af(0x4be)](El,_0xf1017c[_0x3192af(0x301)],{'attributes':{'src':_0x3192af(0x550)},'_0x64ec79':_0xf1017c[_0x3192af(0x691)]});document['querySelector'](_0x3192af(0x5d9))[_0x3192af(0x5a7)](_0x2d96aa);}else{let _0x110d6d=_0xf1017c['_0x3d8d91'](El,_0xf1017c[_0x3192af(0x301)],{'attributes':{'src':_0x3192af(0x52c)},'_0x64ec79':_0xf1017c[_0x3192af(0x691)]});document[_0x3192af(0x5c7)](_0xf1017c[_0x3192af(0x5c1)])[_0x3192af(0x5a7)](_0x110d6d);}}else _0x25d44c=_0x383cf8[_0x243a52]['_0x1405d4'],document[_0x3192af(0x5c7)]('#'+_0x25d44c+_0x3192af(0x4b2))[_0x3192af(0x66a)][_0x3192af(0x420)]=_0xf1017c[_0x3192af(0x5f4)],document[_0x3192af(0x5c7)]('#'+_0x25d44c+_0x3192af(0x4b2))['style']['paddingBottom']='2%',_0x3192af(0x4a6)+_0xf1017c['_0x1c38b6'](_0x50a400[_0x243a52],0x1)!==_0x25d44c&&(document[_0x3192af(0x5c7)]('#ans'+(_0x50a400[_0x243a52]+0x1)+'\x20>\x20.ans')[_0x3192af(0x66a)]['borderBottom']=_0xf1017c[_0x3192af(0x61d)],document[_0x3192af(0x5c7)](_0x3192af(0x410)+_0xf1017c[_0x3192af(0x4a0)](_0x50a400[_0x243a52],0x1)+_0x3192af(0x4b2))[_0x3192af(0x66a)]['paddingBottom']='2%');}function _0x23337f(){const _0x5a778c=_0x3b1933,_0x491924={'_0x34ee1c':function(_0x7b8542,_0x3f2b40){return _0x7b8542<_0x3f2b40;},'_0x4592d3':function(_0x596769,_0x42b2e0){return _0x596769===_0x42b2e0;},'_0x1ea1e1':function(_0x3be510,_0x4bcabf){return _0x3be510+_0x4bcabf;},'_0x26970f':function(_0x26c4ad,_0x2bc940,_0x2a173c){return _0x26c4ad(_0x2bc940,_0x2a173c);},'_0x1f80da':_0x5a778c(0x572),'_0x329145':_0x5a778c(0x217),'_0x22d3ac':_0x5a778c(0x577),'_0x4d369c':function(_0x34497d,_0x4e5c23){return _0x34497d+_0x4e5c23;},'_0x3b2d5b':function(_0x2e0454,_0x19ce77,_0x40fa1e){return _0x2e0454(_0x19ce77,_0x40fa1e);},'_0x4f6ae4':_0x5a778c(0x5bf),'_0x489c53':function(_0x3602af,_0x412782){return _0x3602af===_0x412782;},'_0x46743d':function(_0x2bde59,_0x2a9e6b){return _0x2bde59(_0x2a9e6b);},'_0x5cffab':function(_0xbfd0ca,_0x5e45b1){return _0xbfd0ca-_0x5e45b1;}};for(let _0x7edc10=0x0;_0x491924[_0x5a778c(0x4e2)](_0x7edc10,_0x383cf8[_0x5a778c(0x2bb)]);_0x7edc10++){if(_0x383cf8[_0x7edc10][_0x5a778c(0x2df)]!==undefined){if(_0x491924[_0x5a778c(0x5b7)](_0x50a400[_0x7edc10],_0x383cf8[_0x7edc10][_0x5a778c(0x2df)]))document[_0x5a778c(0x5c7)](_0x5a778c(0x684)+_0x491924[_0x5a778c(0x64e)](_0x7edc10,0x1))[_0x5a778c(0x39b)](_0x491924[_0x5a778c(0x4ab)](El,_0x491924[_0x5a778c(0x68e)],{'_0x23bb77':[_0x491924[_0x5a778c(0x594)],_0x491924['_0x22d3ac']]}));else document[_0x5a778c(0x5c7)](_0x5a778c(0x684)+_0x491924[_0x5a778c(0x551)](_0x7edc10,0x1))['append'](_0x491924['_0x3b2d5b'](El,_0x491924[_0x5a778c(0x68e)],{'_0x23bb77':[_0x491924[_0x5a778c(0x594)],_0x491924[_0x5a778c(0x2f4)]]}));}else{if(_0x491924[_0x5a778c(0x53f)](_0x50a400[_0x7edc10],_0x491924[_0x5a778c(0x5eb)](Number,_0x491924[_0x5a778c(0x252)](_0x383cf8[_0x7edc10][_0x5a778c(0x68d)]['slice'](-0x1),0x1))))document[_0x5a778c(0x5c7)](_0x5a778c(0x684)+_0x491924[_0x5a778c(0x551)](_0x7edc10,0x1))['append'](_0x491924['_0x3b2d5b'](El,_0x491924[_0x5a778c(0x68e)],{'_0x23bb77':[_0x5a778c(0x217),_0x491924[_0x5a778c(0x553)]]}));else document['querySelector'](_0x5a778c(0x684)+_0x491924[_0x5a778c(0x551)](_0x7edc10,0x1))[_0x5a778c(0x39b)](El(_0x491924[_0x5a778c(0x68e)],{'_0x23bb77':[_0x5a778c(0x217),_0x5a778c(0x5bf)]}));}}}function _0x10ad53(_0x1c25c8){const _0x350114=_0x3b1933,_0x348a48={'_0x40d4aa':_0x350114(0x43f),'_0x4401bb':_0x350114(0x22d),'_0x338973':function(_0x34af92,_0x348784,_0xa5dac0){return _0x34af92(_0x348784,_0xa5dac0);},'_0xcd7cd':_0x350114(0x572),'_0x54a87c':_0x350114(0x5f6),'_0x38849f':function(_0x2ff677,_0x51bbf2,_0x5bf1fc,_0x74401e){return _0x2ff677(_0x51bbf2,_0x5bf1fc,_0x74401e);},'_0x3a6b7d':'next','_0xe1e3d9':function(_0x66e8a2,_0x2f39f9){return _0x66e8a2===_0x2f39f9;},'_0x46ffa5':_0x350114(0x2cd),'_0x21fe8f':_0x350114(0x4c8),'_0x47bb4c':_0x350114(0x28b),'_0x2fff3b':function(_0x4c080e,_0x4ef096){return _0x4c080e(_0x4ef096);},'_0x5cda8e':_0x350114(0x4bc),'_0x399122':function(_0x1652b5,_0x300b33){return _0x1652b5>_0x300b33;},'_0x4deba1':function(_0x31e725,_0xfc5ed2,_0x12d8f4,_0x5d62ee,_0x1ed5ce){return _0x31e725(_0xfc5ed2,_0x12d8f4,_0x5d62ee,_0x1ed5ce);},'_0x28e307':'next-back-btn','_0x3828c0':function(_0x2e062a,_0x316bcb,_0x13435f){return _0x2e062a(_0x316bcb,_0x13435f);},'_0x10d4c5':_0x350114(0x349),'_0x5a1315':_0x350114(0x3fa),'_0x101956':'../assets/images/exam/back_btn.svg','_0x15779f':_0x350114(0x61f),'_0x181dc2':function(_0x51e034,_0x54b12a){return _0x51e034===_0x54b12a;},'_0x539313':_0x350114(0x693),'_0xebbfc':function(_0x5f4b17,_0x148564){return _0x5f4b17-_0x148564;},'_0x4267e2':function(_0x46046a,_0x4a72fc){return _0x46046a!==_0x4a72fc;},'_0x20a3b0':function(_0x14875d,_0x24f89f){return _0x14875d+_0x24f89f;},'_0x528388':_0x350114(0x2f9),'_0x4ec248':_0x350114(0x288),'_0x50af6c':_0x350114(0x200),'_0xbf8090':function(_0x427437,_0x3aee76,_0x4db40e){return _0x427437(_0x3aee76,_0x4db40e);},'_0x381699':function(_0x491a9b,_0x12c1bf){return _0x491a9b===_0x12c1bf;},'_0x2b0086':function(_0x5f4301,_0x141ec4){return _0x5f4301+_0x141ec4;},'_0x1c0dff':function(_0x4ab0d6,_0x4dbfc2,_0x1092e1){return _0x4ab0d6(_0x4dbfc2,_0x1092e1);},'_0x55304b':function(_0x119584,_0x2f4510){return _0x119584/_0x2f4510;},'_0x980a97':function(_0x20a5c9,_0x258478){return _0x20a5c9/_0x258478;},'_0x55a747':function(_0x1ec174,_0x5a8a52){return _0x1ec174+_0x5a8a52;},'_0x302985':function(_0x259734,_0x111472){return _0x259734<_0x111472;},'_0x5b633a':function(_0x1c7bc1,_0x3ce58d){return _0x1c7bc1-_0x3ce58d;},'_0x9273e2':function(_0x430880,_0x26df2b){return _0x430880!==_0x26df2b;},'_0x25208c':_0x350114(0x4a5),'_0x486e6f':function(_0x4afc67,_0xdb95b7,_0xc9f9e6,_0x544c86){return _0x4afc67(_0xdb95b7,_0xc9f9e6,_0x544c86);},'_0x5b3001':'height','_0xb3886f':_0x350114(0x3cd),'_0x538683':'.page.learning.content\x20.card-group','_0x495b82':_0x350114(0x411),'_0xcce86c':'block','_0x2857ce':function(_0x16a1a4,_0x1f0f5c){return _0x16a1a4!==_0x1f0f5c;},'_0x253a13':_0x350114(0x22e),'_0x19f6f6':_0x350114(0x46a),'_0x353ca1':_0x350114(0x3da),'_0x413c8d':'.page.learning.content\x20.title','_0x24f140':function(_0x28397d,_0x4e871c,_0x4f9657){return _0x28397d(_0x4e871c,_0x4f9657);},'_0x49e415':_0x350114(0x377),'_0x52aa17':_0x350114(0x5d3),'_0x1bd5d':function(_0x70e48d,_0x19a2af,_0x2fdb23,_0x4fe35d,..._0x1929a1){return _0x70e48d(_0x19a2af,_0x2fdb23,_0x4fe35d,..._0x1929a1);},'_0x2d9819':_0x350114(0x211),'_0x41d172':function(_0x4c0fb0,_0x3a9ab3,_0x60012a,_0x4a82ee,_0x5d7ec9){return _0x4c0fb0(_0x3a9ab3,_0x60012a,_0x4a82ee,_0x5d7ec9);},'_0x436abd':_0x350114(0x57b),'_0x344442':function(_0x3d5dba,_0x4e4053,_0x5b804f){return _0x3d5dba(_0x4e4053,_0x5b804f);},'_0x344359':_0x350114(0x67f),'_0x1da5e9':_0x350114(0x512),'_0x5deb97':_0x350114(0x3c7),'_0x1b9f9a':_0x350114(0x315),'_0x25a2ad':_0x350114(0x50a)};let _0x51d080=_0x348a48[_0x350114(0x55b)](El,_0x348a48['_0x10d4c5'],{'attributes':{'_0x5f83e8':_0x348a48['_0x19f6f6'],'src':_0x348a48[_0x350114(0x69a)]},'_0x1c39b5':{'click':function(){const _0x36988e=_0x350114;document['querySelector'](_0x348a48[_0x36988e(0x354)])[_0x36988e(0x393)][_0x36988e(0x5ab)]('active'),document[_0x36988e(0x5c7)](_0x348a48[_0x36988e(0x59a)])[_0x36988e(0x393)][_0x36988e(0x607)]('active'),_0x5bc712();}}});document['querySelector'](_0x348a48[_0x350114(0x59a)])[_0x350114(0x39b)](_0x51d080),document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x3e6)])[_0x350114(0x3f7)]=_0x1c25c8;let _0x4b1bf8=_0x348a48[_0x350114(0x47d)](El,_0x348a48[_0x350114(0x2a8)],{'_0x64ec79':_0x348a48[_0x350114(0x5b8)]});document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x3e6)])[_0x350114(0x5a7)](_0x4b1bf8);let _0x5d57cf=_0x348a48['_0x24f140'](El,_0x348a48[_0x350114(0x2a8)],{'_0x64ec79':_0x348a48[_0x350114(0x65a)]});document[_0x350114(0x5c7)](_0x350114(0x3c7))[_0x350114(0x39b)](_0x5d57cf);let _0x17a99c=Object[_0x350114(0x59c)](DATA[chosenSubject][_0x350114(0x257)][_0x1c25c8]['_0x158ef4']),_0x55cb7a=0x0;for(let _0xfee87c of _0x17a99c){let _0x20cd47=Object[_0x350114(0x59c)](DATA[chosenSubject][_0x350114(0x257)][_0x1c25c8][_0x350114(0x3a1)][_0xfee87c]),_0x279415=_0x348a48[_0x350114(0x37b)](El,_0x350114(0x572),{'_0x64ec79':_0x348a48[_0x350114(0x5cf)]},_0x348a48['_0x41d172'](El,_0x348a48[_0x350114(0x2a8)],{'_0x64ec79':_0x348a48[_0x350114(0x52f)]},_0x348a48[_0x350114(0x47e)](El,_0x348a48[_0x350114(0x209)],{'attributes':{'_0x5f83e8':_0x348a48[_0x350114(0x5fa)],'src':_0x348a48['_0x1da5e9']}}),_0x348a48[_0x350114(0x560)](El,_0x348a48[_0x350114(0x2a8)],{'_0x64ec79':'sub-title'},_0xfee87c)),..._0x20cd47[_0x350114(0x4ec)](_0x3b41b0=>El('div',{'attributes':{'_0x5f83e8':_0x350114(0x67b)},'_0x1c39b5':{'click':()=>{_0x5e9d63(_0x3b41b0);}}},_0x3b41b0)));_0x279415[_0x350114(0x4aa)]=_0x55cb7a;let _0x447ff1=document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x4ea)]);_0x447ff1[_0x350114(0x39b)](_0x279415);let _0x2ec230=_0x20cd47[_0x350114(0x4ec)](_0x3774ec=>{const _0x31311d=_0x350114;let _0x491ad8=DATA[chosenSubject][_0x31311d(0x257)][_0x1c25c8][_0x31311d(0x3a1)][_0xfee87c][_0x3774ec],_0x54ef64=_0x348a48['_0x338973'](El,_0x348a48[_0x31311d(0x2a8)],{'_0x23bb77':[_0x348a48[_0x31311d(0x418)],_0x31311d(0x474)+_0x55cb7a]});if(_0x491ad8[_0x31311d(0x2bb)]>0x1){let _0x59c439=_0x348a48[_0x31311d(0x60b)](_0xd6d3cc,_0x491ad8,_0x3774ec,0x1);_0x59c439[_0x31311d(0x393)][_0x31311d(0x5ab)](_0x348a48[_0x31311d(0x475)]),_0x54ef64[_0x31311d(0x39b)](_0x59c439);}let _0x3ab48a=_0xd6d3cc(_0x491ad8,_0x3774ec,0x0);return _0x54ef64[_0x31311d(0x39b)](_0x3ab48a),_0x54ef64;});document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x2b1)])[_0x350114(0x39b)](..._0x2ec230),_0x55cb7a++;}document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x4ea)])[_0x350114(0x6a7)]=document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x4ea)])[_0x350114(0x341)];function _0x5e9d63(_0xe69d48){const _0x4be62c=_0x350114;document[_0x4be62c(0x2d5)](_0x348a48[_0x4be62c(0x468)])[_0x4be62c(0x53b)](function(_0x37e69a){const _0x247cc8=_0x4be62c;_0x348a48[_0x247cc8(0x35a)](_0x37e69a[_0x247cc8(0x5c7)](_0x348a48[_0x247cc8(0x21a)])[_0x247cc8(0x6a1)],_0xe69d48)&&_0x37e69a[_0x247cc8(0x45e)]({'behavior':_0x348a48[_0x247cc8(0x523)],'block':_0x247cc8(0x303)});});}function _0xd6d3cc(_0xbf52e1,_0x281774,_0x349b18){const _0x3d3fed=_0x350114;console['log'](_0xbf52e1[_0x349b18]),console[_0x3d3fed(0x239)](_0x349b18),console[_0x3d3fed(0x239)](_0xbf52e1);let _0x11c3f2,_0x3de090,_0x25ecec;try{_0x11c3f2=document[_0x3d3fed(0x5c7)]('.page.learning.content\x20.templates\x20>\x20.'+_0x348a48[_0x3d3fed(0x5ba)](_0x1f6d56,_0xbf52e1[_0x349b18][_0x3d3fed(0x581)])),_0x25ecec=_0xbf52e1[_0x349b18][_0x3d3fed(0x581)],_0x3de090=_0xbf52e1[_0x349b18];}catch{for(var _0x381c93 in _0xbf52e1){var _0x13f596=_0xbf52e1[_0x381c93];console['log'](_0x13f596);}_0x11c3f2=document[_0x3d3fed(0x5c7)](_0x3d3fed(0x2cf)+_0x348a48[_0x3d3fed(0x5ba)](_0x1f6d56,_0x13f596[_0x349b18][_0x3d3fed(0x581)])),_0x25ecec=_0x13f596[_0x349b18][_0x3d3fed(0x581)],_0x3de090=_0x13f596[_0x349b18];}let _0x2e18b4=_0x348a48['_0x338973'](El,_0x348a48[_0x3d3fed(0x2a8)],{'_0x64ec79':_0x3d3fed(0x518)}),_0x9f3d08=_0x348a48[_0x3d3fed(0x60b)](El,_0x348a48[_0x3d3fed(0x2a8)],{'_0x23bb77':[_0x348a48[_0x3d3fed(0x375)],_0x348a48[_0x3d3fed(0x5ba)](_0x1f6d56,_0x25ecec)]},_0x2e18b4);_0x2e18b4['append'](_0x11c3f2[_0x3d3fed(0x56f)][_0x3d3fed(0x5cb)](!![]));let _0x39ccd5=CARD_TYPES[_0x25ecec];_0x39ccd5['init'](_0x9f3d08,_0x3de090),_0x9f3d08[_0x3d3fed(0x5c7)](_0x348a48[_0x3d3fed(0x21a)])[_0x3d3fed(0x3f7)]=_0x281774;if(_0x348a48[_0x3d3fed(0x58e)](_0xbf52e1['length'],0x1)){let _0x164360=_0x348a48['_0x4deba1'](El,_0x348a48['_0xcd7cd'],{'_0x64ec79':_0x348a48[_0x3d3fed(0x26e)]},_0x348a48['_0x3828c0'](El,_0x348a48[_0x3d3fed(0x209)],{'attributes':{'src':_0x348a48[_0x3d3fed(0x654)]},'_0x64ec79':_0x348a48[_0x3d3fed(0x475)],'_0x1c39b5':{'click':_0x67f0b7[_0x3d3fed(0x48e)](_0x9f3d08,_0x348a48[_0x3d3fed(0x475)],_0xbf52e1,_0x349b18)}}),_0x348a48[_0x3d3fed(0x345)](El,'img',{'attributes':{'src':_0x348a48[_0x3d3fed(0x232)]},'_0x64ec79':_0x3d3fed(0x61f),'_0x1c39b5':{'click':_0x67f0b7[_0x3d3fed(0x48e)](_0x9f3d08,_0x348a48[_0x3d3fed(0x549)],_0xbf52e1,_0x349b18)}}));if(_0x348a48['_0x181dc2'](_0x349b18,0x0))_0x164360[_0x3d3fed(0x393)][_0x3d3fed(0x5ab)](_0x348a48['_0x539313']);if(_0x348a48[_0x3d3fed(0x269)](_0x349b18,_0x348a48[_0x3d3fed(0x40f)](_0xbf52e1[_0x3d3fed(0x2bb)],0x1)))_0x164360[_0x3d3fed(0x393)][_0x3d3fed(0x5ab)](_0x3d3fed(0x25a));_0x9f3d08[_0x3d3fed(0x39b)](_0x164360);}return _0x9f3d08;}let _0x393d45=-0x1;function _0x67f0b7(_0x23811b,_0xd9e4f,_0x473a1e){const _0x37d47f=_0x350114;if(_0x348a48[_0x37d47f(0x519)](_0x393d45,-0x1))return;_0x393d45=setTimeout(()=>_0x393d45=-0x1,_0x348a48[_0x37d47f(0x2c7)](timeToTransition(this,_0x348a48[_0x37d47f(0x57e)]),0x64));if(_0x348a48[_0x37d47f(0x269)](_0x23811b,'back')){let _0x323bb9=this[_0x37d47f(0x5fc)][_0x37d47f(0x5c7)](_0x348a48[_0x37d47f(0x3e3)]),_0x169152=_0x348a48[_0x37d47f(0x60b)](_0xd6d3cc,_0xd9e4f,this[_0x37d47f(0x5c7)](_0x348a48[_0x37d47f(0x21a)])[_0x37d47f(0x3f7)],_0x348a48[_0x37d47f(0x40f)](_0x473a1e,0x1));_0x169152[_0x37d47f(0x393)]['add'](_0x348a48[_0x37d47f(0x33f)]),this[_0x37d47f(0x5fc)][_0x37d47f(0x39b)](_0x169152),void _0x169152[_0x37d47f(0x548)],_0x169152[_0x37d47f(0x393)][_0x37d47f(0x607)](_0x37d47f(0x200)),this[_0x37d47f(0x393)][_0x37d47f(0x5ab)](_0x348a48['_0x3a6b7d']);if(_0x323bb9)_0x348a48[_0x37d47f(0x5dc)](setTimeout,()=>_0x323bb9[_0x37d47f(0x607)](),_0x348a48[_0x37d47f(0x5dc)](timeToTransition,_0x323bb9,_0x348a48[_0x37d47f(0x57e)]));}else{if(_0x348a48[_0x37d47f(0x3c5)](_0x23811b,_0x348a48[_0x37d47f(0x475)])){this[_0x37d47f(0x393)][_0x37d47f(0x5ab)](_0x348a48[_0x37d47f(0x33f)]),this[_0x37d47f(0x5fc)][_0x37d47f(0x5c7)](_0x348a48[_0x37d47f(0x3e3)])[_0x37d47f(0x393)]['remove'](_0x348a48[_0x37d47f(0x475)]);if(_0xd9e4f['length']-0x2>_0x473a1e){let _0x225508=_0x348a48[_0x37d47f(0x60b)](_0xd6d3cc,_0xd9e4f,this[_0x37d47f(0x5c7)](_0x348a48[_0x37d47f(0x21a)])[_0x37d47f(0x3f7)],_0x348a48[_0x37d47f(0x2cb)](_0x473a1e,0x2));_0x225508[_0x37d47f(0x393)][_0x37d47f(0x5ab)](_0x348a48[_0x37d47f(0x475)]),this[_0x37d47f(0x5fc)][_0x37d47f(0x333)](_0x225508);}_0x348a48['_0xbf8090'](setTimeout,()=>this[_0x37d47f(0x607)](),_0x348a48[_0x37d47f(0x55b)](timeToTransition,this,_0x348a48[_0x37d47f(0x57e)]));}}}function _0x1f6d56(_0x1d8214){const _0x1f4d3a=_0x350114;return _0x1d8214[_0x1f4d3a(0x4f1)](/.[A-Z]/g,_0x50f5c6=>_0x50f5c6[_0x1f4d3a(0x6a5)](0x0,0x1)+'-'+_0x50f5c6[_0x1f4d3a(0x6a5)](0x1)[_0x1f4d3a(0x5b3)]());}document[_0x350114(0x5c7)](_0x348a48[_0x350114(0x4ea)])['addEventListener'](_0x348a48[_0x350114(0x525)],function(){const _0xa463cc=_0x350114;let _0x4f8bd0=_0x348a48['_0x55304b'](window[_0xa463cc(0x3b8)],0x2),_0x58efdf=0x3e8,_0x5aa771=0x0;for(let _0x99009a of this[_0xa463cc(0x5d6)]){let _0x11d20b=_0x99009a['getBoundingClientRect'](),_0x40de7f=_0x11d20b['x']?_0x11d20b['x']:0x46,_0x26f857=_0x348a48[_0xa463cc(0x3a9)](_0x348a48[_0xa463cc(0x31d)](_0x40de7f,_0x11d20b[_0xa463cc(0x2b9)]),0x2);if(_0x348a48['_0x302985'](Math[_0xa463cc(0x5e7)](_0x348a48[_0xa463cc(0x29e)](_0x4f8bd0,_0x26f857)),_0x58efdf)){let _0xf8664e=document[_0xa463cc(0x5c7)]('.sub-topics-container.open');_0xf8664e!==null&&_0x348a48[_0xa463cc(0x238)](_0xf8664e,this)&&(_0xf8664e[_0xa463cc(0x393)][_0xa463cc(0x607)](_0x348a48[_0xa463cc(0x4eb)]),_0x348a48[_0xa463cc(0x560)](animateDims,_0xf8664e,!![],_0x348a48['_0x5b3001'])),_0x58efdf=Math[_0xa463cc(0x5e7)](_0x4f8bd0-_0x26f857),_0x23cad9=_0x99009a,midElPlace=_0x5aa771;}_0x5aa771++,_0x99009a[_0xa463cc(0x66a)][_0xa463cc(0x3a5)]=_0x348a48[_0xa463cc(0x5c8)];}_0x23cad9[_0xa463cc(0x66a)][_0xa463cc(0x3a5)]='';let _0xe5aefb=document['querySelectorAll'](_0x348a48[_0xa463cc(0x689)]);if(midElPlace!==_0x182224){_0x182224=midElPlace,document[_0xa463cc(0x5c7)](_0x348a48[_0xa463cc(0x2b1)])[_0xa463cc(0x33d)]=0x0,document[_0xa463cc(0x2d5)](_0x348a48[_0xa463cc(0x689)])['forEach'](_0x56da62=>_0x56da62[_0xa463cc(0x66a)][_0xa463cc(0x2c5)]='');for(let _0x42aec8=0x0;_0x348a48[_0xa463cc(0x557)](_0x42aec8,_0xe5aefb[_0xa463cc(0x2bb)]);_0x42aec8++){if(_0xe5aefb[_0x42aec8][_0xa463cc(0x393)][_0xa463cc(0x515)]('block'))_0xe5aefb[_0x42aec8][_0xa463cc(0x393)][_0xa463cc(0x607)](_0x348a48['_0xcce86c']);}document[_0xa463cc(0x2d5)](_0xa463cc(0x2ea)+_0x23cad9['_0x3909b8'])[_0xa463cc(0x53b)](_0x18ce7a=>_0x18ce7a['classList'][_0xa463cc(0x5ab)](_0xa463cc(0x421)));}},{'passive':!![]}),document[_0x350114(0x2d5)](_0x348a48[_0x350114(0x634)])[_0x350114(0x53b)](_0x128d7c=>{const _0xa2daf3=_0x350114,_0x20979e={'_0x223a64':function(_0x129fb5,_0x2a1188){return _0x348a48['_0x2857ce'](_0x129fb5,_0x2a1188);},'_0xe6602e':function(_0x9610e9,_0x3a44b5){return _0x9610e9!==_0x3a44b5;},'_0x21254c':_0x348a48[_0xa2daf3(0x4eb)],'_0x1c9738':function(_0x311b06,_0x44b194,_0x2ed343,_0x3fad7d){return _0x311b06(_0x44b194,_0x2ed343,_0x3fad7d);},'_0x4e6325':_0x348a48[_0xa2daf3(0x388)]};_0x128d7c[_0xa2daf3(0x3fd)](_0x348a48[_0xa2daf3(0x3a2)],function(){const _0x2b27da=_0xa2daf3;let _0x39a4e3=document[_0x2b27da(0x5c7)](_0x2b27da(0x633));_0x20979e[_0x2b27da(0x3ab)](_0x39a4e3,null)&&_0x20979e[_0x2b27da(0x40b)](_0x39a4e3,this)&&(_0x39a4e3[_0x2b27da(0x393)]['remove'](_0x20979e[_0x2b27da(0x569)]),_0x20979e[_0x2b27da(0x32f)](animateDims,_0x39a4e3,!![],_0x20979e[_0x2b27da(0x29c)]));if(_0x20979e[_0x2b27da(0x40b)](_0x23cad9,this)){let _0x355519=this[_0x2b27da(0x5fc)];if(this[_0x2b27da(0x416)]>_0x23cad9[_0x2b27da(0x416)])_0x355519['scrollLeft']+=this[_0x2b27da(0x3ad)];else _0x355519[_0x2b27da(0x6a7)]-=this[_0x2b27da(0x3ad)];}else{let _0x324992=this[_0x2b27da(0x393)][_0x2b27da(0x54b)](_0x20979e[_0x2b27da(0x569)]);_0x20979e[_0x2b27da(0x32f)](animateDims,this,!_0x324992,_0x20979e[_0x2b27da(0x29c)]);}});});}function _0x5bc712(){const _0x1e5c9a=_0x3b1933,_0x47de23={'_0x3f812a':_0x1e5c9a(0x411),'_0x1632ce':_0x1e5c9a(0x3c7)};_0x182224=-0x1,document[_0x1e5c9a(0x5c7)](_0x47de23['_0x3f812a'])[_0x1e5c9a(0x3f7)]='',document[_0x1e5c9a(0x5c7)](_0x47de23[_0x1e5c9a(0x404)])[_0x1e5c9a(0x607)](),document[_0x1e5c9a(0x5c7)]('.page.learning.content\x20.back-btn')[_0x1e5c9a(0x607)]();}function _0x767212(_0x5d4f78){const _0x122f6b=_0x3b1933,_0x183f98={'_0x4a28bd':function(_0x439492,_0x6d6e3b){return _0x439492<_0x6d6e3b;},'_0x33b415':function(_0x240a74,_0xf85119){return _0x240a74===_0xf85119;}};for(let _0x23cb27=0x0;_0x183f98[_0x122f6b(0x34a)](_0x23cb27,_0x1b7458[_0x122f6b(0x2bb)]);_0x23cb27++){_0x53deb1[_0x23cb27]=![];}for(let _0x5ca836=0x0;_0x183f98['_0x4a28bd'](_0x5ca836,_0x1b7458['length']);_0x5ca836++){if(_0x183f98[_0x122f6b(0x41f)](_0x5d4f78,_0x1b7458[_0x5ca836])){_0x53deb1[_0x5ca836]=!![];return;}}}function _0x50a277(_0x1eb457){const _0x2ae8f1=_0x3b1933,_0x4a9bf8={'_0x2745c1':_0x2ae8f1(0x43c),'_0x329f21':function(_0xc8dc26,_0x16cc6b){return _0xc8dc26===_0x16cc6b;},'_0x2422c1':_0x2ae8f1(0x477),'_0x20f638':_0x2ae8f1(0x4d2),'_0x5e93a5':function(_0x16c830,_0x2ff04b){return _0x16c830(_0x2ff04b);},'_0x1bcdf8':function(_0x401e8f,_0x41fbbd){return _0x401e8f===_0x41fbbd;},'_0xf26645':_0x2ae8f1(0x329),'_0x2d2afe':function(_0x519599,_0x3faed8){return _0x519599(_0x3faed8);},'_0x54f38':_0x2ae8f1(0x430),'_0x5b7ae5':function(_0x458486){return _0x458486();},'_0x10150a':_0x2ae8f1(0x1ed),'_0x1d2bab':_0x2ae8f1(0x412),'_0x4e21a2':function(_0x1c7d70){return _0x1c7d70();},'_0x3df96b':function(_0x534466,_0x420e44){return _0x534466===_0x420e44;},'_0x5b805f':function(_0x36b52d,_0xbd032e,_0x1a1ecc,_0x37133b){return _0x36b52d(_0xbd032e,_0x1a1ecc,_0x37133b);},'_0x17ebd6':_0x2ae8f1(0x572),'_0x1a955a':_0x2ae8f1(0x2ef),'_0x35ffee':function(_0x15debe,_0x3cba5e,_0x43f8c4,_0x3550d1,_0x5dbb29,_0xdb49ce){return _0x15debe(_0x3cba5e,_0x43f8c4,_0x3550d1,_0x5dbb29,_0xdb49ce);},'_0x43389b':_0x2ae8f1(0x47c),'_0x33c8e0':function(_0x2c4e54,_0x119159,_0x758694,_0x8d65c4){return _0x2c4e54(_0x119159,_0x758694,_0x8d65c4);},'_0x41ffe3':function(_0x37ec32,_0x4550d4,_0xfac4f8,_0x268d58){return _0x37ec32(_0x4550d4,_0xfac4f8,_0x268d58);},'_0x2aa811':_0x2ae8f1(0x46d),'_0x3317da':_0x2ae8f1(0x349),'_0x213774':_0x2ae8f1(0x4e9),'_0x36c39e':function(_0x244985,_0x5b8ca9,_0x4190b3){return _0x244985(_0x5b8ca9,_0x4190b3);}};if(_0x1eb457===_0x2ae8f1(0x329))clearInterval(_0x7a8b3f),_0x4a9bf8[_0x2ae8f1(0x3c6)](_0x2daebf);else{clearInterval(_0x1834f5),document[_0x2ae8f1(0x5c7)]('.page.'+_0x1eb457+_0x2ae8f1(0x5a8))[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')',document['querySelector'](_0x2ae8f1(0x3d1)+_0x1eb457+_0x2ae8f1(0x32b))[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')';_0x4a9bf8[_0x2ae8f1(0x628)](_0x1eb457,_0x4a9bf8[_0x2ae8f1(0x340)])?(document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+_0x2ae8f1(0x219))[_0x2ae8f1(0x66a)]['filter']=_0x2ae8f1(0x423)+_0xda27a0+')',document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+'\x20.container-questions')[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')',document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+'\x20.buttons')[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')'):(document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+_0x2ae8f1(0x5b1))[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')',document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+_0x2ae8f1(0x2ba))[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')',document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457+_0x2ae8f1(0x359))[_0x2ae8f1(0x66a)][_0x2ae8f1(0x5da)]=_0x2ae8f1(0x423)+_0xda27a0+')');let _0x28588d=_0x4a9bf8[_0x2ae8f1(0x61c)](El,_0x4a9bf8[_0x2ae8f1(0x3de)],{'_0x64ec79':_0x4a9bf8[_0x2ae8f1(0x461)]},_0x4a9bf8[_0x2ae8f1(0x1f5)](El,_0x4a9bf8[_0x2ae8f1(0x3de)],{'_0x64ec79':_0x4a9bf8[_0x2ae8f1(0x284)]},_0x4a9bf8['_0x33c8e0'](El,_0x4a9bf8[_0x2ae8f1(0x3de)],{'_0x64ec79':_0x2ae8f1(0x4d8)},_0x2ae8f1(0x391)),_0x4a9bf8[_0x2ae8f1(0x4dd)](El,_0x2ae8f1(0x572),{'_0x64ec79':_0x2ae8f1(0x4e6)},_0x4a9bf8[_0x2ae8f1(0x39c)]),El('div',{'_0x64ec79':_0x2ae8f1(0x20c)},El(_0x4a9bf8['_0x3317da'],{'attributes':{'src':_0x2ae8f1(0x5aa),'_0x5f83e8':_0x4a9bf8[_0x2ae8f1(0x38f)]},'_0x1c39b5':{'click':function(){const _0x5b8e0a=_0x2ae8f1;document[_0x5b8e0a(0x5c7)](_0x5b8e0a(0x3d1)+_0x1eb457+_0x5b8e0a(0x5a8))['style'][_0x5b8e0a(0x5da)]=_0x4a9bf8[_0x5b8e0a(0x25d)],document['querySelector'](_0x5b8e0a(0x3d1)+_0x1eb457+_0x5b8e0a(0x32b))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]=_0x4a9bf8[_0x5b8e0a(0x25d)];_0x4a9bf8[_0x5b8e0a(0x294)](_0x1eb457,_0x5b8e0a(0x329))?(document['querySelector']('.page.'+_0x1eb457+_0x5b8e0a(0x219))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]=_0x4a9bf8[_0x5b8e0a(0x25d)],document[_0x5b8e0a(0x5c7)]('.page.'+_0x1eb457+_0x5b8e0a(0x3bc))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]='unset',document['querySelector']('.page.'+_0x1eb457+_0x5b8e0a(0x571))[_0x5b8e0a(0x66a)]['filter']=_0x4a9bf8[_0x5b8e0a(0x25d)]):(document[_0x5b8e0a(0x5c7)]('.page.'+_0x1eb457+_0x5b8e0a(0x5b1))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]=_0x4a9bf8[_0x5b8e0a(0x25d)],document['querySelector'](_0x5b8e0a(0x3d1)+_0x1eb457+_0x5b8e0a(0x2ba))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]=_0x5b8e0a(0x43c),document[_0x5b8e0a(0x5c7)](_0x5b8e0a(0x3d1)+_0x1eb457+_0x5b8e0a(0x359))[_0x5b8e0a(0x66a)][_0x5b8e0a(0x5da)]=_0x4a9bf8[_0x5b8e0a(0x25d)]);document['querySelector'](_0x4a9bf8[_0x5b8e0a(0x645)])[_0x5b8e0a(0x607)](),document[_0x5b8e0a(0x5c7)]('.page.'+_0x1eb457)[_0x5b8e0a(0x393)]['remove']('active'),document[_0x5b8e0a(0x5c7)](_0x5b8e0a(0x293))[_0x5b8e0a(0x393)][_0x5b8e0a(0x5ab)](_0x4a9bf8[_0x5b8e0a(0x658)]);if(_0x4a9bf8[_0x5b8e0a(0x294)](_0x1eb457,_0x5b8e0a(0x39a))){let _0x362c66=_0x5b8e0a(0x600);_0x4fc026(_0x362c66);}else _0x4a9bf8[_0x5b8e0a(0x38d)](_0x528547,![]);}}}),_0x4a9bf8['_0x36c39e'](El,_0x4a9bf8[_0x2ae8f1(0x606)],{'attributes':{'src':_0x2ae8f1(0x62c),'_0x5f83e8':_0x4a9bf8[_0x2ae8f1(0x38f)]},'_0x1c39b5':{'click':function(){const _0x5cbc98=_0x2ae8f1;document[_0x5cbc98(0x5c7)](_0x5cbc98(0x3d1)+_0x1eb457+_0x5cbc98(0x5a8))[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8['_0x2745c1'],document['querySelector']('.page.'+_0x1eb457+_0x5cbc98(0x32b))[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8[_0x5cbc98(0x25d)];_0x4a9bf8[_0x5cbc98(0x294)](_0x1eb457,'practice')?(document['querySelector'](_0x5cbc98(0x3d1)+_0x1eb457+'\x20.score')[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x5cbc98(0x43c),document['querySelector'](_0x5cbc98(0x3d1)+_0x1eb457+_0x5cbc98(0x3bc))[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8[_0x5cbc98(0x25d)],document[_0x5cbc98(0x5c7)](_0x5cbc98(0x3d1)+_0x1eb457+_0x5cbc98(0x571))[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8[_0x5cbc98(0x25d)]):(document[_0x5cbc98(0x5c7)](_0x5cbc98(0x3d1)+_0x1eb457+_0x5cbc98(0x5b1))['style'][_0x5cbc98(0x5da)]='unset',document[_0x5cbc98(0x5c7)](_0x5cbc98(0x3d1)+_0x1eb457+'\x20.questions-number')[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8[_0x5cbc98(0x25d)],document['querySelector']('.page.'+_0x1eb457+_0x5cbc98(0x359))[_0x5cbc98(0x66a)][_0x5cbc98(0x5da)]=_0x4a9bf8[_0x5cbc98(0x25d)]);document[_0x5cbc98(0x5c7)](_0x5cbc98(0x477))[_0x5cbc98(0x607)]();if(_0x4a9bf8[_0x5cbc98(0x2fc)](_0x1eb457,_0x4a9bf8[_0x5cbc98(0x340)]))_0x48e1ce=_0x4daad8,_0x4a9bf8['_0x2d2afe'](_0x528547,![]),_0x48d026();else{const _0x3c9cd0=_0x5cbc98(0x647)[_0x5cbc98(0x655)]('|');let _0x44e914=0x0;while(!![]){switch(_0x3c9cd0[_0x44e914++]){case'0':document[_0x5cbc98(0x5c7)](_0x4a9bf8[_0x5cbc98(0x3ea)])[_0x5cbc98(0x3f7)]='';continue;case'1':_0x4a9bf8[_0x5cbc98(0x53d)](_0xa5c643);continue;case'2':document[_0x5cbc98(0x5c7)](_0x4a9bf8[_0x5cbc98(0x255)])[_0x5cbc98(0x607)]();continue;case'3':document['querySelector'](_0x4a9bf8[_0x5cbc98(0x656)])[_0x5cbc98(0x3f7)]='';continue;case'4':_0x243a52=0x0;continue;}break;}}}}}))));document[_0x2ae8f1(0x5c7)](_0x2ae8f1(0x3d1)+_0x1eb457)[_0x2ae8f1(0x39b)](_0x28588d);}}function _0x56c290(_0x1ff583){const _0x321596=_0x3b1933,_0x1e963d={'_0x21361f':function(_0x4b0e1d,_0x59ee51){return _0x4b0e1d<_0x59ee51;},'_0x4fdbcf':function(_0x4da81c,_0x5a9539){return _0x4da81c*_0x5a9539;},'_0x31fc8e':function(_0xabc22b,_0x3d95b3){return _0xabc22b+_0x3d95b3;}};var _0x2d0152=_0x1ff583[_0x321596(0x653)]();for(var _0x5b6c5e=0x0;_0x1e963d[_0x321596(0x516)](_0x5b6c5e,_0x1ff583['length']);_0x5b6c5e++){var _0x40258e=Math[_0x321596(0x5fd)](_0x1e963d[_0x321596(0x679)](Math[_0x321596(0x2fb)](),_0x2d0152['length']));_0x1ff583[_0x5b6c5e]=_0x2d0152[_0x40258e],_0x2d0152=_0x2d0152[_0x321596(0x653)](0x0,_0x40258e)[_0x321596(0x3c0)](_0x2d0152['slice'](_0x1e963d[_0x321596(0x6bf)](_0x40258e,0x1)));}return _0x1ff583;}
+// כללי
+var SUBJECTS_TITLES;
+const AMOUNT_OF_TOTAL_QUESTIONS = 30;
+var blurAmount = "10px";
+//
+var selectedSubjects = [];
+var firstName;
+var lastName;
+
+// עמוד התרגול
+const CARD_NUMS = ["first", "second", "third"];
+const AMOUNT_OF_TIME_TO_QUESTION = 60;
+var count = 0;
+var currentQuestion = 0;
+var practiceSeconds = AMOUNT_OF_TIME_TO_QUESTION;
+var points = 0;
+var timer;
+var isComplete = false;
+var avgTimeForQusetion = 0;
+var sumTimeForQeustions = 0;
+var isPressedHalfHalf = false;
+var QUESTIONS = [];
+var currCardCount;
+
+// עמוד מבחן
+var EXAM_SECONDS;
+var EXAM_MINUTS;
+var currentQuestionExam = 0;
+var timerExam;
+var examSeconds;
+var examMinutes;
+var totalTimeExam;
+var answeredQuestions = 0;
+
+// עמוד למידה
+var currentCard = 0;
+var currSubjCount = -1;
+ // התת נושא שבמרכז העמוד
+var midElement;
+const PASSWORD = 6666;
+
+
+/** @type {(boolean|number)[]} */
+var examAnswers = [];
+
+// פונקציית הטעינה של כל הלומדה
+window.addEventListener("load", function () {
+    SUBJECTS_TITLES = Object.keys(DATA);
+
+    // כותרת ראשית ללומדה
+    addTitle();
+    // כותרת נושא הלומדה
+    function addTitle() {
+        document.querySelector(".page.opening .title").innerHTML = TITLE;
+        document.querySelector(".page.learning .title").innerHTML = TITLE;
+    }
+
+    
+    let fullScreen = El("div", {cls: "full-screen"});
+    document.querySelector(".page.opening").before(fullScreen);
+    fullScreen.addEventListener("click", homePage);
+    
+    let popupPassword = 
+    El("div", {cls: "full-screen-password"},
+        El("div", {cls: "popup-password"},
+            El("div", {cls: "text"}, "הכניסו סיסמה"),
+            El("input", {attributes: {class: "input-password", type: "password"}}),
+            El("div", {attributes: {class: "check-password-btn"},
+            listeners: {
+                click: () => {
+                    let pass = document.querySelector(".input-password").value;
+                    if (Number(pass) === PASSWORD) {
+                        document.querySelector(".input-password").classList.add("correct-animation");
+                        document.querySelector(".expand").style.flex = "1";
+                        this.setTimeout(() => {
+                            document.querySelector(".full-screen-password").remove();
+                            document.querySelector(".page.opening .instruction-text").style.visibility = "visible";
+                        },1000)
+                    }
+                    else {
+                        document.querySelector(".input-password").classList.add("wrong-animation");
+                        this.setTimeout(() => {
+                            document.querySelector(".input-password").value = "";
+                            document.querySelector(".input-password").classList.remove("wrong-animation");
+                        },1000)
+                    }
+
+                }
+            }},"בדיקה")
+        )
+    );
+    document.querySelector(".full-screen").before(popupPassword);
+
+    
+    // מעבר בין עמוד הבית לעמוד הלמידה
+    let scrollingIcon = El("img", {attributes: {class:"scrolling_icon", src: "../assets/images/opening/scrolling_icon.svg"}});
+    document.querySelector(".page.opening .container-scrolling_icon").append(scrollingIcon); 
+    // הפעלה של האנימציה בלחיצה
+    document.querySelector(".page.opening  .expand").style.transition = "all 1s ease";
+
+});
+
+// מעבר לדף הבית
+/**
+ * 
+ * @param {Event} event 
+ */
+function homePage(event) {
+    document.querySelector(".page.home").classList.add("active");
+    document.querySelector(".full-screen").remove();
+    document.querySelector(".main").removeEventListener("scroll", homePage, false);
+    
+    document.querySelector(".main").style.overflow = "hidden";
+    document.querySelector(".page.home .books").style.display = "block";
+    document.querySelector(".page.home .textArea").style.display = "block";
+    document.querySelector(".page.opening").classList.add("scrolled");
+    
+    document.querySelector(".page.home .about").style.display = "block";
+    document.querySelector(".page.home .about").addEventListener("click", aboutPage);
+    
+    let fullScreen = El("div", {cls: "full-screen"});
+    document.querySelector(".page.opening").before(fullScreen);
+    // מעבר לדף הבית
+    setTimeout(function () {
+        document.querySelector(".full-screen").addEventListener("click", ()=> {
+            document.querySelector(".full-screen").remove();
+            document.querySelector(".page.opening").classList.remove("active");
+            document.querySelector(".page.home").classList.remove("active");
+            document.querySelector(".page.learning.subjects").classList.add("active");
+            learningSubjectsPage();
+        });
+    }, 1000);
+}
+
+
+// מעבר לאודות
+function aboutPage(event) {
+    document.querySelector(".full-screen").style.visibility = "hidden";
+    document.querySelector(".page.opening").classList.remove("active");
+    document.querySelector(".page.home").classList.remove("active");
+    document.querySelector(".page.about").classList.add("active");
+    // מעבר לדף הבית
+    document.querySelector(".page.about .back-btn").addEventListener("click", () => {
+        document.querySelector(".full-screen").style.visibility = "visible";
+        document.querySelector(".page.opening").classList.add("active");
+        document.querySelector(".page.home").classList.add("active");
+        document.querySelector(".page.about").classList.remove("active");
+    });
+}
+
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// אתחול עמוד הנושאים ללמידה
+function learningSubjectsPage() {
+    document.querySelector(".page.opening").classList.remove("active");
+    document.querySelector(".page.home").classList.remove("active");
+    document.querySelector(".page.learning.subjects").classList.add("active"); 
+    //  הוספת כפתור חזרה למסך נושאי הלמידה
+    let backBtn =
+    El("img", {
+        attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+        listeners: {
+            click: function () {
+                document.querySelector(".page.learning.subjects  .cards-container").innerHTML = "";
+                document.querySelector(".page.learning.subjects").classList.remove("active");
+                document.querySelector(".page.learning.subjects .back-btn").remove();
+                document.querySelector(".page.opening").classList.add("active");
+                document.querySelector(".page.home").classList.add("active");
+                let fullScreen = El("div", {cls: "full-screen"});
+                document.querySelector(".page.opening").before(fullScreen);
+                // מעבר לדף הבית
+                document.querySelector(".full-screen").addEventListener("click", ()=> {
+                    document.querySelector(".full-screen").remove();
+                    document.querySelector(".page.opening").classList.remove("active");
+                    document.querySelector(".page.home").classList.remove("active");
+                    document.querySelector(".page.learning.subjects").classList.add("active");
+                    learningSubjectsPage();
+                });
+            }
+        }
+    });
+    document.querySelector(".page.learning.subjects").append(backBtn);
+
+
+    // יוצר את הכרטיסיות של נושאי הלימוד
+    for (let subject of SUBJECTS_TITLES) {
+        createStudyCards(subject);
+    }
+
+    document.querySelector(".page.learning.subjects .practice-btn").addEventListener("click", beforePractice);
+
+    document.querySelector(".page.learning.subjects .exam-btn").addEventListener("click", beforeExam);
+
+}
+
+// יצירת קלפים ללמידה
+function createStudyCards(currentSubject) {
+    let card =
+        El("div", { cls: "learningCard" },
+            El("img", { attributes: { src: DATA[currentSubject].icon, class: "icon" } },
+                // El("img", { attributes: { src: DATA[currentSubject].icon } })
+            ),
+            El("div", { cls: "subject" }, currentSubject)
+        );
+    document.querySelector(".page.learning.subjects .cards-container").append(card);
+    card.addEventListener("click", () => {
+        document.querySelector(".page.learning.subjects").classList.remove("active");
+        document.querySelector(".page.learning.subjects .cards-container").innerHTML = "";
+        document.querySelector(".page.learning.lessons").classList.add("active");
+        document.querySelector(".page.learning.subjects .back-btn").remove();
+        lessonsPage(currentSubject);
+
+        //זה מה שהיה במקור אמור להיות:
+        // document.querySelector(".page.learning.content").classList.add("active");
+        // subjectLearningPage(currentSubject);
+    });
+}
+
+function beforePractice() {
+    document.querySelector(".page.learning.subjects .title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .sub-title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .cards-container").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .back-btn").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .buttons").style.filter = `blur(${blurAmount})`;
+
+    let popup =
+        El("div", { cls: "dark" },
+            El("div", { cls: "beforePractice-popup" },
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/close_btn.svg", class: "close-btn"
+                    }
+                }),
+                // כותרת
+                El("div", { cls: "title-popup" }, "בחר נושאי תרגול"),
+                El("div", { cls: "select-everything" },
+                    El("img", { attributes: { class: "checkPlace-big", src: "../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg" } }),
+                    El("div", { cls: "" }, "בחר הכל")
+                ),
+                El("div", { cls: "subjects-container" },
+                    El("div", { cls: "group-line" }),
+                    El("div", { cls: "subjects" })
+                ),
+                El("div", { cls: "beforePractice-instruction-container" },
+                    El("div", {},
+                        El("img", { attributes: { class: "icon2", src: "../assets/images/practice/beforePractice_popup/timer_icon.svg" } }),
+                        El("div", { cls: "text" },
+                            El("b", {}, "דקה"),
+                            El("br", {}),
+                            "לשאלה"
+                        ),
+                    ),
+                    El("div", {},
+                        El("img", { attributes: { class: "icon1", src: "../assets/images/practice/beforePractice_popup/slide_icon.svg" } }),
+                        El("div", { cls: "text" },
+                            El("b", { cls: "" }, " להגדלת התמונה"),
+                            El("br", {}),
+                            "לחצו עליה"
+                        ),
+                    ),
+                    El("div", {},
+                        El("img", { attributes: { class: "icon1", src: "../assets/images/practice/beforePractice_popup/blow_icon.svg" } }),
+                        El("div", { cls: "text" },
+                            El("b", {}, "תרגעו"),
+                            El("br", {}),
+                            "תנשמו"
+                        ),
+
+                    ),
+                ),
+                El("img", { attributes: { class: "practiceBTN-popup", src: "../assets/images/learning/choosePractice_popup/choosePractice_btn.svg" } })
+            )
+        );
+    document.querySelector(".page.learning.subjects").append(popup);
+
+    // מערך שבו רשום המיקום של הנושא לפי סדר ההופעה שלו בג'ייסון
+    selectedSubjects = [];
+    // איפוס המערך של הנושאים הנבחרים
+    for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+        selectedSubjects[i] = false;
+    }
+    let selectAll = document.querySelector(".page.learning.subjects .select-everything");
+    // מאזין לחיצה לכפתור בחירת כל הנושאים
+    selectAll.addEventListener("click", (e) => {
+        // אם הכפתור היה לחוץ 
+        if (selectAll.classList.contains("checked")) {
+            document.querySelectorAll(".page.learning.subjects .subject-popup, .page.learning.subjects .select-everything").forEach((checkBox, i) => {
+                checkBox.querySelector("img").src = "../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg";
+                checkBox.classList.remove("checked-subjects");
+            });
+            selectAll.classList.remove("checked");
+            for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+                selectedSubjects[i] = false;
+            }
+
+        }
+        // הכפתור לא היה לחוץ, ולכן כל נושאי הלמידה יסומנו כעת
+        else {
+            document.querySelectorAll(".page.learning.subjects .subject-popup, .page.learning.subjects .select-everything").forEach((checkBox, i) => {
+                checkBox.querySelector("img").src = "../assets/images/learning/choosePractice_popup/selectedSMALL.svg";
+                checkBox.classList.add("checked-subjects");
+            });
+            selectAll.classList.add("checked");
+            for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+                selectedSubjects[i] = true;
+            }
+        }
+        // במידה והמחלקה קיימת ויש ערך מסומן להתחלת התרגול - הכפתור תרגול יהיה לחיץ
+        let isChecked = document.querySelector(".page.learning.subjects .beforePractice-popup .checked-subjects");
+        document.querySelector(".page.learning.subjects .practiceBTN-popup").classList.toggle("avalible", isChecked);
+
+    });
+
+    // הוספת כל נושאי הלמידה האפשריים לתרגול
+    for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+        // לעבור על הנושאים במערך הנושאים ולהביא את הכותרת של כל נושא
+        let subject =
+            El("div", { cls: "subject-popup" },
+                El("img", { attributes: { class: "checkPlace", src: "../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg" } }),
+                El("div", { attributes: {} }, SUBJECTS_TITLES[i])
+            );
+        document.querySelector(".page.learning.subjects .subjects").append(subject);
+
+        // מאזין לחיצה לנושא אחד
+        subject.addEventListener("click", () => {
+            // אם הנושא הנלחץ כבר היה לחוץ
+            if (subject.classList.contains("checked-subjects")) {
+                subject.querySelector("img").src = "../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg";
+                subject.classList.remove("checked-subjects");
+                selectedSubjects[i] = false;
+                selectAll.querySelector("img").src = "../assets/images/learning/choosePractice_popup/nonSelectSMALL.svg";
+                selectAll.classList.remove("checked-subjects");
+                selectAll.classList.remove("checked");
+            }
+            // הנושא הנבחר לא היה לחוץ ולכן עכשיו יסומן
+            else {
+                selectedSubjects[i] = true;
+                subject.querySelector("img").src = "../assets/images/learning/choosePractice_popup/selectedSMALL.svg";
+                subject.classList.add("checked-subjects");
+                let isNotChecked = document.querySelector(".page.learning.subjects .subject-popup:not(.checked-subjects)");
+                selectAll.classList.toggle("checked-subjects", !isNotChecked);
+                selectAll.classList.toggle("checked", !isNotChecked);
+                if (!isNotChecked)
+                    selectAll.querySelector("img").src = "../assets/images/learning/choosePractice_popup/selectedSMALL.svg";
+
+            }
+            // במידה והמחלקה קיימת ויש ערך מסומן להתחלת התרגול - הכפתור תרגול יהיה לחיץ
+            let isChecked = document.querySelector(".page.learning.subjects .beforePractice-popup .checked-subjects");
+            document.querySelector(".page.learning.subjects .practiceBTN-popup").classList.toggle("avalible", isChecked);
+        });
+    }
+
+    // כפתור סגירה של הפופאפ
+    document.querySelector(".page .beforePractice-popup .close-btn").addEventListener("click", () => {
+        document.querySelector(".page.learning.subjects .title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .dark").remove();
+    });
+
+    // כפתור מעבר לתרגול מהפופאפ
+    document.querySelector(".page .practiceBTN-popup").addEventListener("click", () => {
+        document.querySelector(".page.learning.subjects .title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .cards-container").innerHTML="";
+        document.querySelector(".page.learning.subjects .dark").remove();
+        document.querySelector(".page.learning.subjects").classList.remove("active");
+        document.querySelector(".page.practice").classList.add("active");
+        practicePage();
+    });
+
+}
+
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+
+function questionsToPractice() {
+    let selectedQuestions = [];
+
+    let subjects = SUBJECTS_TITLES.filter((_, i) => selectedSubjects[i]);
+
+    // מקסימום כמות השאלות לכל נושא
+    let maxQuestionAmountForTopic = AMOUNT_OF_TOTAL_QUESTIONS / subjects.length;
+    // בוחר את השאלות מכל נושא
+    for (let subject of subjects) {
+        let subjectData = DATA[subject];
+        // מספר השאלות לנושא
+        let subjectQuestions = subjectData.questions.length;
+        // let subjectQuestions = subjectData.questionsPractice.length;
+        // בוחר את מספר השאלות
+        let questionCount = Math.min(subjectQuestions, Math.max(Math.floor(maxQuestionAmountForTopic), 1));
+        // מסדר באופן רנדומלי את השאלות ממערך הנתונים
+        let shuffledQuestions = shuffle(subjectData.questions.slice());
+        // let shuffledQuestions = shuffle(subjectData.questionsPractice.slice());
+        // בוחר את האיקס שאלות הראשונות
+        selectedQuestions.push(...shuffledQuestions.slice(0, questionCount));
+        if (selectedQuestions.length === AMOUNT_OF_TOTAL_QUESTIONS) break;
+    }
+    return selectedQuestions;
+}
+
+// מעבר לדף התרגול ואתחולו
+function practicePage(event) {
+    // מערך השאלות הרלוונטיות לנושאים הנבחרו בכמות המקסימלית האפשרית
+    QUESTIONS = questionsToPractice();
+
+    shuffle(QUESTIONS);
+
+    // איפוס מיקום השאלה הנוכחית
+    currentQuestion = 0;
+    currCardCount = 1;
+
+    // איפוס ניקוד
+    points = 0;
+
+    // איפוס הבר הכחול למעלה
+    document.querySelector(".page.practice .right-answers > .points").innerHTML = 0;
+    document.querySelector(".page.practice .sum-answers > .points").innerHTML = QUESTIONS.length;
+
+    // אתחול 2 הכרטיסים הראשונים על המסך
+    for (let i = 0; i < 2; i++) {
+        // השאלה היא שאלת נכון לא נכון
+        if (QUESTIONS[i].type === "binary") {
+            createBinaryCard(i);
+            // מוסיף לכל התשובות מאזין לחיצה
+            if (i === 0) {
+                document.querySelector(".page.practice .first-question .right-ans").addEventListener("click", e => checkAnswerBinary("right", e));
+                document.querySelector(".page.practice .first-question .wrong-ans").addEventListener("click", e => checkAnswerBinary("wrong", e));
+            }
+
+        }
+        // השאלה היא שאלה אמריקאית
+        else {
+            createMultipleCard(i);
+
+            if (i === 0) {
+                // מוסיף לכל התשובות מאזין לחיצה
+                let selectedAns = document.querySelectorAll(".page.practice .first-question .answer-container");
+                for (let countAns = 0; countAns < 4; countAns++) {
+                    selectedAns[countAns].addEventListener("click", checkAnswerMultiple);
+                }
+            }
+        }
+
+    }
+    
+    // מוסיף לכרטיסייה הראשונה את מספר הכרטיסייה הנוכחית
+    document.querySelector(".page.practice .first-question .curr-question > .curr-ques-text").innerHTML = currCardCount;
+
+    // התחלת הספירה לאחור
+    timer = setInterval(startTimer, 1000);
+
+    // מאזין לחיצה לכפתור חצי חצי
+    document.querySelector(".page.practice .half-half").addEventListener("click", activateHalfHalfBTN);
+    // בודק האם להפעיל את כפתור החצי חצי
+    halfHalfBTN_mode();
+
+    // מאזין לחיצה לכפתור גלה לי
+    document.querySelector(".page.practice .show-answer").addEventListener("click", showAnswer);
+
+
+    //  הוספת כפתור חזרה למסך הבית
+    let backBtn =
+        El("img", {
+            attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+            listeners: {
+                click: function () {
+                    document.querySelector(".page.practice").classList.remove("active");
+                    document.querySelector(".page.learning.subjects").classList.add("active");
+                    resetPrecticePage();
+                    addSubjectLearningPage();
+                }
+            }
+        });
+    document.querySelector(".page.practice").append(backBtn);
+}
+
+function halfHalfBTN_mode() {
+
+    // האם זו לא הכרטסייה האחרונה
+    if (currentQuestion >= QUESTIONS.length) {
+        return;
+    }
+
+    // האם זה נכון לא נכון
+    if (QUESTIONS[currentQuestion].type === "binary") {
+        document.querySelector(".page.practice .half-half").style.opacity = "0.5";
+        document.querySelector(".page.practice .half-half").style.pointerEvents = "none";
+    }
+    // אמריקאי
+    else {
+        document.querySelector(".page.practice .half-half").style.pointerEvents = "all";
+        document.querySelector(".page.practice .half-half").style.opacity = "1";
+        isPressedHalfHalf = false;
+    }
+}
+
+// הפונקציה יוצרת קלף של שאלות אמריקאיות
+function createMultipleCard(i = 2) {
+    let card =
+        El("div", { classes: [`${CARD_NUMS[i]}-question`, "card", "multiple"] }, //אבא
+            El("div", { cls: "timer" },                  // ילד
+                El("div", { cls: "timeLeft" },           //ילד של ילד
+                    "1:00"
+                )
+            ),
+            // תמונה של הקלף
+            El("img", { attributes: { src: "../assets/images/exam/exam2.svg" } }),
+
+            El("div", { cls: "question-text" },
+                // השאלה
+                El("div", { cls: "question" }, QUESTIONS[currentQuestion + i].question),
+                // התשובות
+                El("div", { classes: ["answer-container", "ans1"] },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestion + i].ans1)
+                ),
+                El("div", { classes: ["answer-container", "ans2"] },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestion + i].ans2)
+                ),
+                El("div", { classes: ["answer-container", "ans3"] },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestion + i].ans3)
+                ),
+                El("div", { classes: ["answer-container", "ans4"] },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestion + i].ans4)
+                )
+            ),
+            El("div", { cls: "next-btn" },
+                El("img", { attributes: { src: "../assets/images/practice/nextQuestion_btn.svg" } }),
+                El("div", {cls: "curr-question"},
+                    El("div", {cls:"curr-ques-text"}), 
+                    "/",
+                    El("div", {}, QUESTIONS.length),
+                )
+            )
+        );
+    document.querySelector(".container-questions").append(card);
+    
+    // להוסיף תמונה במידה ויש
+    addImage();
+    
+    function addImage() {
+        if (QUESTIONS[currentQuestion + i].img !== undefined) {
+            let imgUrl = QUESTIONS[currentQuestion + i].img;
+            let img = El("img", { attributes: { class: "img-questions", src: imgUrl}, 
+            listeners: {
+                click: function () {
+                    document.querySelector(".container-full-img").style.display = "flex"; 
+                    document.getElementById("full-img").src = imgUrl; 
+                }
+            }});
+            // בודק האם זו הפעם הראשונה שיש כרטיסייה
+            if(i === 0)
+            document.querySelector(".first-question .question-text").prepend(img);
+            // בודק האם זו הפעם השנייה שיש כרטיסייה
+            else if (i === 1)  
+            document.querySelector(".second-question .question-text").prepend(img);
+            // זו הפעם השלישית ומעלה שיש כרטיסיית שאלה
+            else
+                document.querySelector(".third-question .question-text").prepend(img);
+
+        }
+        
+        let fullImg = 
+        El("div", {attributes: { class: "container-full-img"},
+            listeners : {
+                click: function() {
+                    document.querySelector(".container-full-img").style.display= 'none';
+                }
+            } },
+            El("img", {attributes: { id: "full-img", class: "full-img"}, 
+                listeners : {
+                    click: function() {
+                        document.querySelector(".container-full-img").style.display= 'none';
+                    }
+                } 
+            })    
+        );
+        
+        document.querySelector(".page.practice").append(fullImg);
+    }
+}
+
+// יוצרת קלף של שאלות נכון לא נכון
+function createBinaryCard(i = 2) {
+    let card =
+        El("div", { classes: [`${CARD_NUMS[i]}-question`, "card", "binary"] }, //אבא
+            El("div", { cls: "timer" },                  // ילד
+                El("div", { cls: "timeLeft" },           //ילד של ילד
+                    "1:00"
+                )
+            ),
+            // תמונה של הקלף
+            El("img", { attributes: { src: "../assets/images/exam/exam2.svg" } }),
+            // השאלה
+            El("div", { cls: "question-text" },
+                El("div", { cls: "question" }, QUESTIONS[currentQuestion + i].sentence),
+                // התשובות
+                El("div", { cls: "ans-container" },
+                    El("img", { attributes: { src: "../assets/images/general/wrong_btn.svg" }, cls: "wrong-ans" }), // לברר עם פלג אם ככה כותבים את הקלאס בנוסף לקישור תמונה
+                    El("img", { attributes: { src: "../assets/images/general/right_btn.svg" }, cls: "right-ans" }),
+                ),
+            ),
+            El("div", { cls: "next-btn" },
+                El("img", { attributes: { src: "../assets/images/practice/nextQuestion_btn.svg" } }),
+                El("div", {cls: "curr-question"},
+                    El("div", {cls:"curr-ques-text"}), 
+                    "/",
+                    El("div", {}, QUESTIONS.length),
+                )
+            )
+        );
+    document.querySelector(".container-questions").append(card);
+}
+
+// טיימר שסופר דקה לכל שאלה
+function startTimer() {
+    // כדי שהשעון יראה קודם 1:00 ולא 60
+    if (practiceSeconds < AMOUNT_OF_TIME_TO_QUESTION) {
+        document.querySelector(".page.practice .first-question .timeLeft").innerHTML = practiceSeconds;
+    }
+
+    // ספירה לאחור
+    if (practiceSeconds > 0) {
+        practiceSeconds--;
+    }
+    // הזמן נגמר!
+    else {
+        clearInterval(startTimer);
+        timeOver("practice");
+    }
+}
+
+// (אמריקאי) הפונקציה בודקת אם התשובה שנבחרה אכן נכונה
+function checkAnswerMultiple(event) {
+    if (isComplete) return;
+    document.querySelector(".page.practice .first-question .next-btn > img").addEventListener("click", nextQuestionPractice);
+    document.querySelector(".page.practice .first-question .next-btn > img").style.opacity = "1";
+    clearInterval(timer);
+
+    event.target.querySelector("img").src = "../assets/images/general/choosenQuestion.svg";
+    let correctAns = QUESTIONS[currentQuestion].correctAns;
+
+    // האם התשובה הנלחצת היא התשובה הנכונה
+    if (event.target.classList.contains(`${correctAns}`)) {
+        document.querySelector(".page.practice .answer-container." + correctAns + "> .ans").style.borderBottom = "2px solid rgb(44, 191, 55)"; //green
+        document.querySelector(".page.practice .answer-container." + correctAns + "> .ans").style.paddingBottom = "2%"; //
+        points++;
+        document.querySelector(".points").innerHTML = points;
+    }
+    // התשובה הנלחצת אינה נכונה
+    else {
+        document.querySelector(".page.practice .answer-container." + correctAns + "> .ans").style.borderBottom = "2px solid rgb(44, 191, 55)"; //green
+        document.querySelector(".page.practice .answer-container." + correctAns + "> .ans").style.paddingBottom = "2%"; //
+        event.target.querySelector(".ans").style.borderBottom = "2px solid rgb(277, 58, 78)"; //red
+        event.target.querySelector(".ans").style.paddingBottom = "2%"; //
+
+    }
+    isComplete = true;
+}
+
+// הפונקציה בודקת אם התשובה שנבחרה אכן נכונה (נכון לא נכון)
+function checkAnswerBinary(selectedAnswer, event) {
+    if (isComplete) return;
+    document.querySelector(".page.practice .first-question .next-btn > img").addEventListener("click", nextQuestionPractice);
+    document.querySelector(".page.practice .first-question .next-btn > img").style.opacity = "1";
+    clearInterval(timer);
+
+    // משנה את התמונה לתמונה שנבחרה
+    if (selectedAnswer === "right") {
+        event.target.src = "../assets/images/general/rightSelected_btn.svg";
+    }
+    else {
+        event.target.src = "../assets/images/general/wrongSelected_btn.svg";
+    }
+    // בודק אם התשובה נכונה
+    if (QUESTIONS[currentQuestion].trueOrFalse && selectedAnswer === "right" ||
+       !QUESTIONS[currentQuestion].trueOrFalse && selectedAnswer === "wrong") {
+    // if (){ 
+    //     // green line
+        let greenLine = El("img", { attributes: { src: "../assets/images/general/rightAnswer.svg" }, cls: "line" });/////////////
+        document.querySelector(".question").after(greenLine);
+        points++;
+        document.querySelector(".points").innerHTML = points;
+    }
+    else {
+        // red line
+        
+        let redLine = El("img", { attributes: { src: "../assets/images/general/wrongAnswer.svg" }, cls: "line" });/////////////
+        document.querySelector(".question").after(redLine);
+    }
+    isComplete = true;
+}
+
+// הפונקציה מעבירה לשאלה הבאה
+function nextQuestionPractice() {
+    // 
+    currCardCount++;
+
+    // סוכם את כל השניות לכל שאלה
+    sumTimeForQeustions = sumTimeForQeustions + (AMOUNT_OF_TIME_TO_QUESTION - practiceSeconds);
+
+    clearInterval(timer);
+    // למקרה שזה לא 2 הכרטיסיות האחרונות
+    if (currentQuestion + 2 < QUESTIONS.length) {
+        if (QUESTIONS[currentQuestion + 2].type === "binary") {
+            createBinaryCard();
+        }
+        else {
+            createMultipleCard();
+        }
+
+        // מוסיף לכרטיסייה האחורית את מספר הכרטיסייה הנוכחית
+        document.querySelector(".page.practice .second-question .curr-question > .curr-ques-text").innerHTML = currCardCount;
+
+        document.querySelector(".page.practice .first-question").classList.add("transition");
+        let firstCard = document.querySelector(".page.practice .transition");
+        firstCard.style.transform = "translateX(108vw)";
+        firstCard.style.transition = "transform 0.7s ease";
+        firstCard.style.position = "absolute";
+
+        setTimeout(function () {
+            firstCard.remove();
+            firstCard.style.transition = "unset";
+            firstCard.style.transform = "unset";
+            firstCard.style.position = "unset";
+            addEventListenersPractice();
+        }, 700);
+
+        document.querySelector(".page.practice .second-question").classList.add("first-question");
+        document.querySelector(".page.practice .second-question").style.transition = "transform 0.7s ease";
+        document.querySelector(".page.practice .second-question").classList.remove("second-question");
+
+        document.querySelector(".page.practice .third-question").classList.add("second-question");
+        document.querySelector(".page.practice .second-question").classList.remove("third-question");
+
+        practiceSeconds = AMOUNT_OF_TIME_TO_QUESTION;
+        timer = setInterval(startTimer, 1000);
+        isComplete = false;
+    }
+    // 2 הכרטיסיות האחרונות
+    else if (currentQuestion + 2 === QUESTIONS.length) {
+        // מוסיף לכרטיסייה האחורית את מספר הכרטיסייה הנוכחית
+        document.querySelector(".page.practice .second-question .curr-question > .curr-ques-text").innerHTML = currCardCount;
+
+        document.querySelector(".page.practice .first-question").style.transform = "translateX(108vw)";
+        document.querySelector(".page.practice .first-question").style.transition = "all 0.7s ease";
+        document.querySelector(".page.practice .first-question").style.position = "absolute";
+        setTimeout(function () {
+            document.querySelector(".page.practice .first-question").remove();
+            document.querySelector(".page.practice .first-question").style.transform = "unset";
+            document.querySelector(".page.practice .first-question").style.transition = "unset";
+            document.querySelector(".page.practice .first-question").style.position = "unset";
+            addEventListenersPractice();
+        }, 700);
+
+        document.querySelector(".page.practice .second-question").style.transition = "all 0.7s ease";
+        document.querySelector(".page.practice .second-question").classList.add("first-question");
+        document.querySelector(".page.practice .second-question").classList.remove("second-question");
+
+        practiceSeconds = AMOUNT_OF_TIME_TO_QUESTION;
+        timer = setInterval(startTimer, 1000);
+        isComplete = false;
+
+    }
+    // הכרטיסייה האחרונה
+    else if (currentQuestion + 1 === QUESTIONS.length) {
+        document.querySelector(".page.practice .container-questions").style.display = "none";
+        document.querySelector(".page.practice .buttons").style.display = "none";
+        endPractice();
+    }
+    currentQuestion++;
+    
+    // בודק האם להפעיל את כפתור החצי חצי
+    halfHalfBTN_mode();
+    document.querySelector(".page.practice .first-question .next-btn > img").removeEventListener("click", nextQuestionPractice);
+}
+
+// הפונקציה מוסיפה מאזיני לחיצה לתשובות
+function addEventListenersPractice() {
+    // נכון לא נכון
+    if (QUESTIONS[currentQuestion].type === "binary") {
+        document.querySelector(".page.practice .first-question .right-ans").addEventListener("click", e => checkAnswerBinary("right", e));
+        document.querySelector(".page.practice .first-question .wrong-ans").addEventListener("click", e => checkAnswerBinary("wrong", e));
+    }
+    // אמריקאי
+    else {
+        // מוסיף לכל התשובות מאזין לחיצה
+        let selectedAns = document.querySelectorAll(".page.practice .first-question .answer-container");
+        for (let countAns = 0; countAns < 4; countAns++) {
+            selectedAns[countAns].addEventListener("click", checkAnswerMultiple);
+        }
+    }
+}
+
+// מוסיף פופאפ סיום עם סיכום התוצאות
+function endPractice() {
+    document.querySelector(".page.practice .title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.practice .score").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.practice .back-btn").style.filter = `blur(${blurAmount})`;
+
+    avgTimeForQusetion = sumTimeForQeustions / QUESTIONS.length;
+    avgTimeForQusetion = avgTimeForQusetion.toFixed(2);
+
+    let img, isPassTitle, isPassSubTitle;
+    // האם כמות התשובות הנכונות גדולה מחצי מהשאלות
+    if (points > QUESTIONS.length / 2) {
+        isPassTitle = "כל הכבוד!";
+        isPassSubTitle = "עברת את התרגול בהצלחה";
+        img = "../assets/images/general/finish_popup/check_icon.svg"
+    }
+    else {
+        isPassTitle = "אוי... לא נורא";
+        isPassSubTitle = "בהצלחה בפעם הבאה...";
+        img = "../assets/images/general/finish_popup/x_icon.svg"
+    }
+
+    let finishPopup =
+        El("div", { cls: "dark" },
+            // כל הקלף
+            El("div", { cls: "end-practice" },
+                El("img", { attributes: { src: "../assets/images/general/close_btn.svg", class: "close-btn" } }),
+                // כותרות
+                El("div", { cls: "title-popup" }, isPassTitle),
+                El("div", { cls: "popup-sub-titles" },
+                    El("div", { cls: "text1-popup" }, isPassSubTitle),
+                    El("div", { cls: "text2-popup" }, "הנה כמה נתונים שיעזרו לך"),
+                ),
+                // בלוק 1
+                El("div", { cls: "grey-line" }),
+                El("div", { cls: "container-resultes" },
+                    El("div", { cls: "summery-titles" },
+                        El("div", { cls: "titleAndIcon-container" },
+                            El("div", {},
+                                points + " " + "תשובות נכונות"
+                            ),
+                            El("img", { attributes: { src: img, class: "checkIcon-btn" } }),
+                        ),
+                        "מתוך " + QUESTIONS.length + " שאלות",
+                    ),
+                    El("div", { cls: "progress-bar-container" },
+                        El("div", { cls: "progress-bar-right-answers" })
+                    ),
+                ),
+                // בלוק 2 
+                El("div", { cls: "grey-line" }),
+                El("div", { cls: "container-resultes" },
+                    El("div", { cls: "summery-titles" },
+                        El("div", { cls: "titleAndIcon-container" },
+                            El("div", {},
+                                avgTimeForQusetion + " שניות"
+                            ),
+                            El("img", { attributes: { src: "../assets/images/general/finish_popup/timer_icon.svg", class: "timeIcon-btn" } }),
+                        ),
+                        "ממוצע לשאלה",
+                    ),
+                    El("div", { cls: "progress-bar-container" },
+                        El("div", { cls: "progress-bar-time" })
+                    ),
+                ),
+
+                El("div", { cls: "grey-line" }),
+                El("img", { attributes: { src: "../assets/images/general/finish_popup/home_btn.svg", class: "backToHome-btn" } })
+            )
+        );
+
+    document.querySelector(".page.practice").append(finishPopup);
+    document.querySelector(".page.practice .progress-bar-right-answers").style.width = points / QUESTIONS.length * 100 + "%";
+    document.querySelector(".page.practice .progress-bar-time").style.width = avgTimeForQusetion / AMOUNT_OF_TIME_TO_QUESTION * 100 + "%";
+
+    // מעבר לדף הבית בלחיצה על הכפתור
+    document.querySelector(".page.practice .backToHome-btn").addEventListener("click", () => {
+        document.querySelector(".page.practice").classList.remove("active");
+        document.querySelector(".page.learning.subjects").classList.add("active");
+        resetPrecticePage(true);
+        addSubjectLearningPage()
+    });
+    // מעבר לדף הבית בלחיצה על הכפתור
+    document.querySelector(".page.practice .close-btn").addEventListener("click", () => {
+        document.querySelector(".page.practice").classList.remove("active");
+        document.querySelector(".page.learning.subjects").classList.add("active");
+        resetPrecticePage(true);
+        addSubjectLearningPage();
+    });
+}
+//
+//
+//
+//
+//
+//
+//
+function addSubjectLearningPage() {
+    let backBtn =
+    El("img", {
+        attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+        listeners: {
+            click: function () {
+                document.querySelector(".page.learning.subjects  .cards-container").innerHTML = "";
+                document.querySelector(".page.learning.subjects").classList.remove("active");
+                document.querySelector(".page.learning.subjects .back-btn").remove();
+                document.querySelector(".page.opening").classList.add("active");
+                document.querySelector(".page.home").classList.add("active");
+                let fullScreen = El("div", {cls: "full-screen"});
+                document.querySelector(".page.opening").before(fullScreen);
+                // מעבר לדף הבית
+                document.querySelector(".full-screen").addEventListener("click", ()=> {
+                    document.querySelector(".full-screen").remove();
+                    document.querySelector(".page.opening").classList.remove("active");
+                    document.querySelector(".page.home").classList.remove("active");
+                    document.querySelector(".page.learning.subjects").classList.add("active");
+                    learningSubjectsPage();
+                });
+            }
+        }
+    });
+    document.querySelector(".page.learning.subjects").append(backBtn);
+
+
+    // יוצר את הכרטיסיות של נושאי הלימוד
+    for (let subject of SUBJECTS_TITLES) {
+        createStudyCards(subject);
+    }
+
+    document.querySelector(".page.learning.subjects .practice-btn").addEventListener("click", beforePractice);
+
+    document.querySelector(".page.learning.subjects .exam-btn").addEventListener("click", beforeExam);
+
+}
+
+// הפונקציה מאתחלת את מסך התרגול ומקבלת ערך "אמת" אם התרגול נערך עד הסוף ובמידה ולא תקבל את הערך "שקר".
+function resetPrecticePage(finishPractice = false) {
+    practiceSeconds = AMOUNT_OF_TIME_TO_QUESTION;
+    // האם התרגול לא נגמר
+    if (!finishPractice) {
+        clearInterval(timer);
+        document.querySelector(".page.practice .container-questions").innerHTML = "";
+    }
+    else {
+        document.querySelector(".page.practice .container-questions").style.display = "none";
+        document.querySelector(".page.practice .container-questions").innerHTML = "";
+        document.querySelector(".page.practice .buttons").style.display = "none";
+
+        document.querySelector(".page.practice .container-questions").style.display = "flex";
+        document.querySelector(".page.practice .buttons").style.display = "flex";
+        document.querySelector(".page.practice .title").style.filter = "unset";
+        document.querySelector(".page.practice .score").style.filter = "unset";
+        document.querySelector(".page.practice .container-questions").style.filter = "unset";
+        document.querySelector(".page.practice .back-btn").style.filter = "unset";
+        document.querySelector(".page.practice .buttons").style.filter = "unset";
+        document.querySelector(".page.practice .dark").remove();
+    }
+    document.querySelector(".page.practice .back-btn").remove(); //
+    isComplete = false;
+}
+
+// הפעלת כפתור חצי חצי
+function activateHalfHalfBTN() {
+    if (isPressedHalfHalf) {
+        return;
+    }
+
+    let num1 = null, num2 = null;
+
+    while (num1 === null || num2 === null) {
+        // מגריל מספר אקראי בין 1 ל 4
+        let randomNumber = Math.floor(Math.random() * 4) + 1;
+
+        if (randomNumber != QUESTIONS[currentQuestion].correctAns.slice(-1)) {
+            if (num1 === null) {
+                num1 = randomNumber;
+            }
+            else if (num2 === null && num1 !== randomNumber) {
+                num2 = randomNumber;
+            }
+        }
+    }
+    document.querySelector(`.page.practice .first-question .ans${num1}`).style.opacity = "0.3";
+    document.querySelector(`.page.practice .first-question .ans${num2}`).style.opacity = "0.3";
+    document.querySelector(`.page.practice .first-question .ans${num1}`).style.pointerEvents = "none";
+    document.querySelector(`.page.practice .first-question .ans${num2}`).style.pointerEvents = "none";
+
+    isPressedHalfHalf = true;
+
+}
+
+// הפעלת כפתור גלה לי 
+function showAnswer() {
+    if (isComplete) return;
+    clearInterval(timer);
+    document.querySelector(".page.practice .first-question .next-btn > img").addEventListener("click", nextQuestionPractice);
+    document.querySelector(".page.practice .first-question .next-btn > img").style.opacity = "1";
+
+    let rightAnswer;
+    if (QUESTIONS[currentQuestion].type === "binary") {
+        rightAnswer = QUESTIONS[currentQuestion].trueOrFalse;
+        if (rightAnswer) {
+            document.querySelector(".page.practice .first-question .right-ans").src = "../assets/images/general/rightSelected_btn.svg";
+        }
+        else {
+            document.querySelector(".page.practice .first-question .wrong-ans").src = "../assets/images/general/wrongSelected_btn.svg";
+        }
+
+        // green line
+        let greenLine = El("img", { attributes: { src: "../assets/images/general/rightAnswer.svg" }, cls: "line" });/////////////
+        document.querySelector(".question").after(greenLine);
+    }
+    else {
+        rightAnswer = QUESTIONS[currentQuestion].correctAns;
+        document.querySelector(".page.practice .answer-container." + rightAnswer + "> .ans").style.borderBottom = "2px solid rgb(44, 191, 55)"; //green
+        document.querySelector(".page.practice .answer-container." + rightAnswer + "> .ans").style.paddingBottom = "2%";
+    }
+
+    isComplete = true;
+}
+
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+
+// פופאפ לפני המבחן
+function beforeExam() {
+    document.querySelector(".page.learning.subjects .title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .sub-title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .cards-container").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .back-btn").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.subjects .buttons").style.filter = `blur(${blurAmount})`;
+
+    examTime();
+
+    let popup =
+        El("div", { cls: "dark" },
+            // כל הקלף
+            El("div", { cls: "exam-popup" },
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/close_btn.svg", class: "close-btn"
+                    }, listeners: {
+                        // // כפתור סגירה של הפופאפ
+                        click: function () {
+                            document.querySelector(".page.learning.subjects .title").style.filter = "unset";
+                            document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
+                            document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
+                            document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
+                            document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
+                            document.querySelector(".page.learning.subjects .dark").remove();
+                        }
+                    }
+                }),
+                // כותרת
+                El("div", { cls: "title-popup" }, "לפני שמתחילים"),
+                // טקסט של הוראות לפני המבחן
+                El("div", { cls: "instructions" },
+                    // בלוק 1
+                    El("div", { cls: "instruction" },
+                        El("div", { cls: "text" },
+                            "אנא וודאו כי ברשותכם",
+                            El("br", {}),
+                            El("b", {}, "קליטה סבירה")
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/cellular_icon.svg", class: "icon1" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 2
+                    El("div", { cls: "instruction" },
+                        El("div", { cls: "text" },
+                            "שימו לב שזמן המבחן",
+                            El("br", {}),
+                            "מוגבל לכ-",
+                            El("b", {}, `${EXAM_MINUTS} דקות`)
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/timer_icon.svg", class: "icon2" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 3
+                    El("div", { cls: "instruction" },
+                        El("div", { cls: "text" },
+                            "אם אתם מרגישים",
+                            El("br", {}),
+                            "לא מוכנים",
+                            El("b", {}, " תרגלו עוד")
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/practice_icon.svg", class: "icon3" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 4
+                    El("div", { cls: "instruction" },
+                        El("div", { cls: "text" },
+                            "הקליקו על הכפתור",
+                            El("br", {}),
+                            "למעבר בין שאלות"
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/slide_icon.svg", class: "icon4" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 5
+                    El("div", { cls: "instruction" },
+                        El("div", { cls: "text" },
+                            "תוכלו",
+                            El("b", {}, " לדלג על שאלה"),
+                            El("br", {}),
+                            "בכל עת ולחזור אליה"
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/skip_icon.svg", class: "icon5" } }),
+                    ),
+                ),
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/ok_btn.svg", class: "start-btn"
+                    }, listeners: {
+                        click: insertFullName_popup
+                    }
+                })
+            )
+        );
+
+    document.querySelector(".page.learning.subjects").append(popup);
+}
+
+function examTime(){
+    // איפוס זמן המבחן לפי בחירת מומחה התוכן
+    EXAM_SECONDS = TIME_FOR_EXAM.slice(-2);
+    if (EXAM_SECONDS ===  "00")  {
+        EXAM_SECONDS = 0;
+        if (TIME_FOR_EXAM.length > 4) 
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.slice(0,2));
+        else
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.charAt(0));
+        examMinutes = EXAM_MINUTS - 1;
+        examSeconds = 59;
+    }
+    else if (EXAM_SECONDS.charAt(0) === "0") {
+        EXAM_SECONDS = Number(TIME_FOR_EXAM.slice(-1));
+        if (TIME_FOR_EXAM.length > 4) 
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.slice(0,2));
+        else
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.charAt(0));
+        examMinutes = EXAM_MINUTS;
+        examSeconds = EXAM_SECONDS;
+    }
+    else {
+        EXAM_SECONDS = Number(TIME_FOR_EXAM.slice(-2));
+        if (TIME_FOR_EXAM.length > 4) 
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.slice(0,2));
+        else
+            EXAM_MINUTS = Number(TIME_FOR_EXAM.charAt(0));
+        examMinutes = EXAM_MINUTS;
+        examSeconds = EXAM_SECONDS;
+    }
+}
+
+function insertFullName_popup() {
+    let countValFirstName = 0;
+    let countValLastName = 0;
+
+    // מחיקת התוכן מהפופאפ
+    document.querySelector(".page.learning.subjects .instructions").innerHTML = "";
+    
+    // הוספת שינוי צורה לפופאפ
+    document.querySelector(".page.learning.subjects .exam-popup").classList.add("exam-popup-insert-name");
+
+    // הורדת מאזין לחיצה מהכפתור
+    document.querySelector(".page.learning.subjects .start-btn").removeEventListener("click", insertFullName_popup); 
+    
+    // הוספת כותרת פעולה למשתמש
+    let firstNameFillText = El("div", {cls: "text-fill-name"},"הכניסו שם פרטי");
+    document.querySelector(".page.learning.subjects .instructions").append(firstNameFillText);
+    
+    // הוספת מקום מילוי הטקסט
+    let inputSpaceFirst = El("input", {  
+        attributes: {
+            type: "text", class: "input-text", placeholder: "ישראל" 
+        }, listeners : {
+            input: () => {
+                countValFirstName = document.querySelector(".page .instructions :nth-child(2)").value.length;
+                 // רק במידה ומלאו את שדות המילוי יהיה ניתן לעבור למבחן
+                if (countValLastName > 1 && countValFirstName > 1) {
+                    firstName = document.querySelector(".page .instructions :nth-child(2)").value;
+                    lastName = document.querySelector(".page .instructions :nth-child(4)").value;
+                    document.querySelector(".page.learning.subjects .start-btn").classList.add("done"); 
+                    // console.log( `${firstName} ${lastName}`);
+                }
+            }
+        }
+    });
+    document.querySelector(".page.learning.subjects .instructions").append(inputSpaceFirst);
+    
+    // הוספת כותרת פעולה למשתמש
+    let lastNameFillText = El("div", {cls: "text-fill-name"},"הכניסו שם משפחה");
+    document.querySelector(".page.learning.subjects .instructions").append(lastNameFillText);
+    // הוספת מקום מילוי הטקסט
+    let inputSpaceLast = El("input", {  
+        attributes: {
+            type: "text", class: "input-text", placeholder: "ישראלי" 
+        }, listeners : {
+            input: () => {
+                countValLastName = document.querySelector(".page .instructions :nth-child(4)").value.length;
+                // רק במידה ומלאו את שדות המילוי יהיה ניתן לעבור למבחן
+                if (countValLastName > 1 && countValFirstName > 1) {
+                    firstName = document.querySelector(".page .instructions :nth-child(2)").value;
+                    lastName = document.querySelector(".page .instructions :nth-child(4)").value;
+                    document.querySelector(".page.learning.subjects .start-btn").classList.add("done"); 
+                }
+            }
+        }
+    });
+    document.querySelector(".page.learning.subjects .instructions").append(inputSpaceLast);
+
+    // מוסיף עיצוב  לפופאפ הפנימי
+    document.querySelector(".page.learning.subjects .instructions").classList.add("insert-name");
+    
+    document.querySelector(".page.learning.subjects .start-btn").classList.add("insert-name");
+    document.querySelector(".page.learning.subjects .start-btn").src = "../assets/images/general/toTheExam.svg";
+    document.querySelector(".page.learning.subjects .start-btn").addEventListener("click", () => {
+         // כפתור מעבר למבחן מהפופאפ
+        document.querySelector(".page.learning.subjects .title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
+        document.querySelector(".page.learning.subjects .dark").remove();
+        document.querySelector(".page.learning.subjects").classList.remove("active");
+        document.querySelector(".page.exam").classList.add("active");
+        examPage();
+    })
+}
+
+// הפונקציה מקבלת את העמוד הנוכחי ויוצאת מ
+function exit(page) {
+    document.querySelector(`.page.${page} .title`).style.filter = `blur(${blurAmount})`;
+    document.querySelector(`.page.${page} .sub-titles`).style.filter = `blur(${blurAmount})`;
+    document.querySelector(`.page.${page} .questions-container`).style.filter = `blur(${blurAmount})`;
+    document.querySelector(`.page.${page} .back-btn`).style.filter = `blur(${blurAmount})`;
+    document.querySelector(`.page.${page} .questions-number`).style.filter = `blur(${blurAmount})`;
+
+    let popup =
+        El("div", { cls: "dark" },
+            El("div", { cls: "exit-popup", },
+                El("div", { cls: "title-popup" }, "רוצים לוותר?"),
+                El("div", { cls: "sub-title-popup" }, "לא תרצו להמשיך לנסות?"),
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/close_btn.svg", class: "close-btn"
+                    }, listeners: {
+                        // // כפתור סגירה של הפופאפ
+                        click: function () {
+                            // חזרה למבחן או לתרגול
+                            document.querySelector(`.page.${page} .title`).style.filter = "unset";
+                            document.querySelector(`.page.${page} .sub-titles`).style.filter = "unset";
+                            document.querySelector(`.page.${page} .questions-container`).style.filter = "unset";
+                            document.querySelector(`.page.${page} .back-btn`).style.filter = "unset";
+                            document.querySelector(`.page.${page} .questions-number`).style.filter = "unset";
+                            document.querySelector(".page .dark").remove();
+                        }
+                    }
+                }),
+                El("div", { cls: "buttons-exit-popup" },
+                    El("img", {
+
+                        attributes: {
+                            src: "../assets/images/general/leavePracticeOrExam_popup/back.svg", class: "button-popup",
+                        }, listeners: {
+                            click: function () {
+                                // כפתור יציאה מהתרגול או מהמבחן למסך הבית
+                                document.querySelector(`.page.${page} .title`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .sub-titles`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .questions-container`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .back-btn`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .questions-number`).style.filter = "unset";
+                                document.querySelector(".page .dark").remove();
+                                // document.querySelector(`.page.${page}`).classList.remove("active");
+                                document.querySelector(`.page.learning.subjects`).classList.add("active");
+                                let examStatus = "quit";
+                                resetExamPage(examStatus);
+                            }
+                        }
+                    }),
+                    El("img", {
+                        attributes: {
+                            src: "../assets/images/general/leavePracticeOrExam_popup/exit.svg", class: "button-popup"
+                        }, listeners: {
+                            click: function () {
+                                // חזרה למבחן או לתרגול
+                                document.querySelector(`.page.${page} .title`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .sub-titles`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .questions-container`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .back-btn`).style.filter = "unset";
+                                document.querySelector(`.page.${page} .questions-number`).style.filter = "unset";
+                                document.querySelector(".page .dark").remove();
+                            }
+                        }
+                    })
+                )
+            )
+
+        )
+    document.querySelector(`.page.${page}`).append(popup);
+}
+
+function donePopup() {
+    let popup =
+        El("div", { cls: "dark" },
+            El("div", { cls: "done-exam-popup", },
+                El("div", { cls: "title-popup" }, "בטוח שתרצו להגיש?"),
+                El("div", { cls: "sub-title-popup" }, "לא ניתן לחזור אחורה"),
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/close_btn.svg", class: "close-btn"
+                    }, listeners: {
+                        // // כפתור סגירה של הפופאפ
+                        click: function () {
+                            // חזרה למבחן או לתרגול
+                            document.querySelector(`.page.exam .title`).style.filter = "unset";
+                            document.querySelector(`.page.exam .sub-titles`).style.filter = "unset";
+                            document.querySelector(`.page.exam .questions-container`).style.filter = "unset";
+                            document.querySelector(`.page.exam .back-btn`).style.filter = "unset";
+                            document.querySelector(`.page.exam .questions-number`).style.filter = "unset";
+                            document.querySelector(".page.exam .dark").remove();
+                        }
+                    }
+                }),
+                El("div", { cls: "buttons-exit-popup" },
+                    El("img", {
+                        attributes: {
+                            src: "../assets/images/exam/toHand_btn.svg", class: "button-popup",
+                        }, listeners: {
+                            click: function () {
+                                // כפתור הגשה
+                                document.querySelector(`.page.exam .title`).style.filter = "unset";
+                                document.querySelector(`.page.exam .sub-titles`).style.filter = "unset";
+                                document.querySelector(`.page.exam .questions-container`).style.filter = "unset";
+                                document.querySelector(`.page.exam .back-btn`).style.filter = "unset";
+                                document.querySelector(`.page.exam .questions-number`).style.filter = "unset";
+                                document.querySelector(".page.exam .dark").remove();
+                                checkAnswer();
+                            }
+                        }
+                    }),
+                    El("img", {
+                        attributes: {
+                            src: "../assets/images/exam/backToExam_btn.svg", class: "button-popup"
+                        }, listeners: {
+                            click: function () {
+                                // חזרה למבחן
+                                document.querySelector(`.page.exam .title`).style.filter = "unset";
+                                document.querySelector(`.page.exam .sub-titles`).style.filter = "unset";
+                                document.querySelector(`.page.exam .questions-container`).style.filter = "unset";
+                                document.querySelector(`.page.exam .back-btn`).style.filter = "unset";
+                                document.querySelector(`.page.exam .questions-number`).style.filter = "unset";
+                                document.querySelector(".page.exam .dark").remove();
+                            }
+                        }
+                    })
+                )
+            )
+
+        )
+    document.querySelector(`.page.exam`).append(popup);
+}
+
+
+// פונציה שמחזירה את השאלות הרצויות למבחן
+function questionsToExam() {
+    // מערך השאלות הסופי שישלח בסוף הפונקציה
+    let selectedQuestions = [];
+
+    // בוחר את השאלות מכל נושא
+    for (let subject of SUBJECTS_TITLES) {
+        let subjectData = DATA[subject];
+        // מספר השאלות לנושא
+        let subjectQuestions = subjectData.questions.length;
+        // let subjectQuestions = subjectData.questionsExam.length;
+        // בוחר את מספר השאלות
+        let questionCount = Math.min(subjectQuestions, subjectData.amountOfQuestions);
+        // מסדר באופן רנדומלי את השאלות ממערך הנתונים
+        let shuffledQuestions = shuffle(subjectData.questions.slice());
+        // let shuffledQuestions = shuffle(subjectData.questionsExam.slice());
+        // בוחר את האיקס שאלות הראשונות
+        selectedQuestions.push(...shuffledQuestions.slice(0, questionCount));
+        if (selectedQuestions.length === AMOUNT_OF_TOTAL_QUESTIONS) break;
+    }
+    return selectedQuestions;
+}
+
+// עמוד המבחן
+function examPage() {
+    // מערך השאלות למבחן
+    QUESTIONS = questionsToExam();
+
+    shuffle(QUESTIONS);
+
+    // איפוס צובר כמות השאלות שנענו
+    answeredQuestions = 0;
+
+    // הוספת כפתור חזרה למסך הבית
+    let backBtn =
+        El("img", {
+            attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+            listeners: {
+                click: function () {
+                    if (!document.querySelector(".page.exam .back-btn").parentElement.classList.contains("done"))
+                        exit("exam");
+                    else {
+                            let examStatus = "quit";
+                            resetExamPage(examStatus);
+                        }
+                }
+            }
+        });
+    document.querySelector(".page.exam").append(backBtn);
+
+    document.querySelector(".page.exam .timer-text").innerHTML = TIME_FOR_EXAM;
+    document.querySelector(".page.exam .questionNumber-text").innerHTML = "0" + "/" + QUESTIONS.length;
+    timerExam = setInterval(startTimerExam, 1000);
+
+    // איפוס המערך של התשובות
+    for (let i = 0; i < QUESTIONS.length; i++) {
+        examAnswers[i] = null;
+    }
+
+    // מוסיף מספרי שאלות בתחתית המסך
+    for (let i = 0; i < QUESTIONS.length; i++) {
+        let number =
+            El("div", {
+                attributes: { class: "number-container", id: ("num" + Number(i + 1)) }, listeners: {
+                    click: () => {
+                        let previousQuestion = currentQuestionExam;
+                        currentQuestionExam = i;
+                        if (previousQuestion < i) {
+                            moveForward();
+                        }
+                        else if (previousQuestion > i) {
+                            moveBack();
+                        }
+                    }
+                }
+            },
+                El("img", { attributes: { src: "../assets/images/exam/questionMap_btn.svg", class: "number-img" } }),
+                El("div", { cls: "number-text" }, i + 1)
+            );
+        document.querySelector(".page.exam .questions-number").append(number);
+    }
+
+    // יצירת השאלה הראשונה וכרטיסייה ריקה
+    emptyCard();
+    createQuestionExam();
+    addEvantListenersNextBackBTN();
+    addEventListenersAnswersEXAM();
+}
+
+function emptyCard() {
+    let emptyCard =
+        El("div", { classes: ["card", "empty-card"] },
+            // תמונה של הקלף
+            El("img", { attributes: { src: "../assets/images/exam/exam2.svg" } })
+        );
+    document.querySelector(".page.exam .questions-container").append(emptyCard);
+}
+
+// הפונקציה יוצרת תוכן לכרטיסייה ומכניסה אותו לכרטיסייה
+function createQuestionExam() {
+    let cardContent;
+    // האם השאלה היא נכון לא נכון
+    if (QUESTIONS[currentQuestionExam].type === "binary") {
+        cardContent =
+            // השאלה
+            El("div", { cls: "question-text" },
+                El("div", { cls: "question" }, QUESTIONS[currentQuestionExam].sentence),
+                // התשובות
+                El("div", { cls: "ans-container" },
+                    El("img", { attributes: { src: "../assets/images/general/wrong_btn.svg" }, cls: "wrong-ans" }),
+                    El("img", { attributes: { src: "../assets/images/general/right_btn.svg" }, cls: "right-ans" }),
+                ),
+            );
+    }
+    // השאלה היא אמריקאית
+    else {
+        cardContent =
+            El("div", { cls: "question-text" },
+                // השאלה
+                El("div", { cls: "question" }, QUESTIONS[currentQuestionExam].question),
+                // התשובות
+                El("div", { attributes: { class: "answer-container", id: "ans1" } },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestionExam].ans1)
+                ),
+                El("div", { attributes: { class: "answer-container", id: "ans2" } },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestionExam].ans2)
+                ),
+                El("div", { attributes: { class: "answer-container", id: "ans3" } },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestionExam].ans3)
+                ),
+                El("div", { attributes: { class: "answer-container", id: "ans4" } },
+                    El("img", { attributes: { src: "../assets/images/general/chooseQuestion_btn.svg" } }),
+                    El("div", { cls: "ans" }, QUESTIONS[currentQuestionExam].ans4)
+                )
+            );
+    }
+    // הוספת כפתורי קדימה אחורה
+    let buttons =
+        El("div", { cls: "next-back-btn" },
+            El("div", {cls:"arrows"},
+                El("img", { attributes: { src: "../assets/images/exam/next_btn.svg" }, cls: "next" }),
+                El("img", { attributes: { src: "../assets/images/exam/back_btn.svg" }, cls: "back" })
+            )
+        );
+    if (currentQuestionExam === QUESTIONS.length - 1)
+        buttons.classList.add("last");
+    else
+        buttons.classList.add(`num${currentQuestionExam + 1}`);
+       
+    document.querySelector(".page.exam .empty-card").append(cardContent);
+    document.querySelector(".page.exam .empty-card").append(buttons);
+
+    addImage();
+
+    function addImage() {
+        if (QUESTIONS[currentQuestionExam].img !== undefined) {
+            let imgUrl = QUESTIONS[currentQuestionExam].img;
+            let img = El("img", { attributes: { class: "img-questions", src: imgUrl}, 
+            listeners: {
+                click: function () {
+                    document.querySelector(".container-full-img").style.display = "flex"; 
+                    document.getElementById("full-img").src = imgUrl; 
+                }
+            }});
+            
+            // // בודק האם זו הפעם הראשונה שיש כרטיסייה
+            // if(i === 0)
+            // document.querySelector(".first-question .question").after(img);
+            // // בודק האם זו הפעם השנייה שיש כרטיסייה
+            // else if (i === 1)  
+            // document.querySelector(".second-question .question").after(img);
+            // // זו הפעם השלישית ומעלה שיש כרטיסיית שאלה
+            // else
+            //     document.querySelector(".third-question .question").after(img);
+            document.querySelector(".page.exam .empty-card .question-text").prepend(img);
+
+        }
+        
+        let fullImg = 
+        El("div", {attributes: { class: "container-full-img"},
+            listeners : {
+                click: function() {
+                    document.querySelector(".container-full-img").style.display= 'none';
+                }
+            } },
+            El("img", {attributes: { id: "full-img", class: "full-img"}, 
+                listeners : {
+                    click: function() {
+                        document.querySelector(".container-full-img").style.display= 'none';
+                    }
+                } 
+            })    
+        );
+        
+        document.querySelector(".page.exam").append(fullImg);
+    }
+ 
+    // הופך את הכרטיסייה שמאחורה לכרטיסייה העליונה
+    document.querySelector(".page.exam .empty-card").classList.add("first-card");
+    document.querySelector(".page.exam .empty-card").style.transform = "unset";
+    document.querySelector(".page.exam .empty-card").classList.remove("empty-card");
+
+    // מוריד בהתאמה את כפתורי הבא וחזור (לשאלה ראשונה או אחרונה)
+    if (currentQuestionExam === 0) {
+        document.querySelector(".page.exam .back").style.visibility = "hidden";
+    }
+    else if (currentQuestionExam === QUESTIONS.length - 1) {
+        document.querySelector(".page.exam .next").style.visibility = "hidden";
+    }
+
+    // מציג באיזה שאלה אתה כרגע לפי המספר המודגש למטה
+    document.querySelector(`.page.exam #num${currentQuestionExam + 1}`).classList.add("active");
+
+    // הוספה של כרטיסייה ריקה מאחורה
+    emptyCard();
+}
+
+// בודק האם השאלה שהגענו אליה כבר נענתה
+function ifAnswer() {
+    // בודק אם השאלה כבר נענתה
+    if (examAnswers[currentQuestionExam] !== null) {
+        // שאלת נכון לא נכון
+        if (QUESTIONS[currentQuestionExam].type === "binary") {
+            if (examAnswers[currentQuestionExam]) {
+                document.querySelector(".page.exam .card:not(.transition) .right-ans").src = "../assets/images/general/rightSelected_btn.svg";
+            } else {
+                document.querySelector(".page.exam .card:not(.transition) .wrong-ans").src = "../assets/images/general/wrongSelected_btn.svg";
+            }
+        }
+        // שאלה אמריקאית
+        else {
+            // מסמן את הכפתור המבוקש
+            document.querySelector(`.page.exam .card:not(.transition) #ans${examAnswers[currentQuestionExam] + 1} img`).src = "../assets/images/general/choosenQuestion.svg";
+        }
+    }
+}
+
+// מוסיף מאזיני לחיצה לתשובות השאלה בכרטיסייה העליונה
+function addEventListenersAnswersEXAM() {
+    // נכון לא נכון
+    if (QUESTIONS[currentQuestionExam].type === "binary") {
+        if (!document.querySelector(".page.exam.done")) {
+            document.querySelector(".page.exam .first-card .right-ans").addEventListener("click", selectAns);
+            document.querySelector(".page.exam .first-card .wrong-ans").addEventListener("click", selectAns);
+        }
+    }
+    // אמריקאי
+    else {
+        // מוסיף לכל התשובות מאזין לחיצה
+        let selectedAns = document.querySelectorAll(".page.exam .first-card .answer-container");
+        for (let countAns = 0; countAns < 4; countAns++) {
+            if (!document.querySelector(".page.exam.done")) {
+                selectedAns[countAns].addEventListener("click", selectAns);
+            }
+        }
+    }
+}
+
+// הפונקציה המסמנת רק תשובה אחת מתוך האופציות ומעדכנת את מספר השאלות שנענו
+function selectAns(event) {
+
+    // עדכון מספר השאלות שנענו
+    if (examAnswers[currentQuestionExam] === null) {
+        answeredQuestions++;
+        document.querySelector(".page.exam .questionNumber-text").innerHTML = answeredQuestions + "/" + QUESTIONS.length;
+    }
+
+    finalAnswer = true;
+    // נכון לא נכון
+    if (QUESTIONS[currentQuestionExam].type === "binary") {
+        // מחזיר את כל הכפתורים למצבם ההתחלתי
+        document.querySelector(".page.exam .first-card .right-ans").src = "../assets/images/general/right_btn.svg";
+        document.querySelector(".page.exam .first-card .wrong-ans").src = "../assets/images/general/wrong_btn.svg";
+
+        // מסמן את הכפתור המבוקש
+        if (event.target.classList.contains("wrong-ans")) {
+            event.target.src = "../assets/images/general/wrongSelected_btn.svg";
+            finalAnswer = false;
+        }
+        else {
+            event.target.src = "../assets/images/general/rightSelected_btn.svg";
+            finalAnswer = true;
+        }
+
+    }
+    // אמריקאי
+    else {
+        // מחזיר את כל הכפתורים למצבם ההתחלתי
+        let selectedAns = document.querySelectorAll(".page.exam .first-card .answer-container");
+        for (let countImg = 0; countImg < 4; countImg++) {
+            selectedAns[countImg].querySelector("img").src = "../assets/images/general/chooseQuestion_btn.svg";
+        }
+        // מסמן את הכפתור המבוקש
+        event.target.querySelector("img").src = "../assets/images/general/choosenQuestion.svg";
+
+        finalAnswer = Number(event.target.id.charAt(3)) - 1;
+    }
+
+    // קונטיינר למספר שאלה לאחר בחירה 
+    document.querySelector(`#num${currentQuestionExam + 1}`).style.opacity = 1;
+    // מספר שאלה לאחר שנענתה
+    examAnswers[currentQuestionExam] = finalAnswer;
+
+    ifComplete();
+
+}
+
+// פונקציה המוסיפה את כפתור ההגשה של המבחן במידה והחניך סיים לענות על כל השאלות
+function ifComplete() {
+    let isCompleteAnswers = true;
+    // לולאה העוברת על כל השאלות במבחן
+    for (let i = 0; i < examAnswers.length; i++) {
+        if (examAnswers[i] === null) {
+            isCompleteAnswers = false;
+            return;
+        }
+    }
+
+    // האם כל השאלות נענו וגם העמוד 
+    if (isCompleteAnswers && !document.querySelector(".page.exam.done") && document.querySelector('.page .next-back-btn > img') === null) {
+        let finishBtn = El("img", {
+            attributes: {
+                class: "done-btn", src: "../assets/images/exam/Done_btn.svg",
+            },
+            listeners: {
+                click: () => {
+                    donePopup();
+                }
+            }
+        })
+        document.querySelector(".page.exam .next-back-btn").append(finishBtn);
+        document.querySelector(".page.exam .next-back-btn").style.justifyContent = "space-between";
+    }
+}
+
+function addEvantListenersNextBackBTN() {
+    document.querySelector(".page.exam .first-card .next").addEventListener("click", (event) => {
+        currentQuestionExam++;
+        moveForward();
+    });
+    document.querySelector(".page.exam .first-card .back").addEventListener("click", (event) => {
+        currentQuestionExam--;
+        moveBack();
+    });
+}
+
+function moveForward() {
+    nextQuestionExam();
+    document.querySelector(".page.exam .first-card").style.transform = "translateX(108vw)";
+}
+
+function moveBack() {
+    let nextCard = document.querySelector(".page.exam .empty-card");
+
+    nextQuestionExam();
+    let firstCard = document.querySelector(".page.exam .first-card");
+
+    firstCard.classList.remove("transition");
+    nextCard.classList.add("transition");
+    nextCard.style.transition = "none";
+    nextCard.style.transform = "translateX(108vw)";
+    void nextCard.clientWidth;
+    nextCard.style.transition = "";
+    nextCard.style.transform = "";
+}
+
+function nextQuestionExam() {
+    document.querySelector(".page.exam .number-container.active").classList.remove("active");
+    document.querySelector(".page.exam .first-card").classList.add("transition");
+    createQuestionExam();
+
+    // היעלמות הכרטיסייה העליונה
+    setTimeout(function () {
+        document.querySelector(".page.exam .first-card").remove();
+        addEvantListenersNextBackBTN();
+        addEventListenersAnswersEXAM();
+        document.querySelector(".page.exam .first-card").classList.remove("transition");
+
+        // בודק האם כל השאלות נענו, ובהתאם משאיר את כפתור ההגש
+        ifComplete();
+        if (document.querySelector(".page.exam.done"))
+            showAnswersExam();
+    }, 1000);
+
+    // בודק האם השאלה שהגענו אליה כבר נענתה
+    ifAnswer();
+}
+
+// פונקציה שסופרת לאחור את הסמן לסוף המבחן
+function startTimerExam() {
+
+    // האם השניות הגיעו ל0
+    if (examSeconds < 0) {
+        // בודק האם הגיע לסוף הזמן
+        if (examMinutes === 0) {
+            clearInterval(timerExam);
+            timeOver("exam");
+            return;
+        }
+        // עברה דקה
+        else {
+            examSeconds = 59;
+            examMinutes--;
+        }
+    }
+    if (examMinutes === 1 && examSeconds === 0) {
+        document.querySelector(".page.exam .timer-text").classList.add("timeFocus");
+        setTimeout(function () {
+            document.querySelector(".page.exam .timer-text").classList.remove("timeFocus");
+        }, 1000);
+    }
+    // מדפיס את הספרה 0 לפני חד ספרות 
+    if (examSeconds < 10) {
+        document.querySelector(".page.exam .timer-text").innerHTML = examMinutes + ":0" + examSeconds;
+    }
+    // להדפיס את השניות והדקות
+    else if (examSeconds < AMOUNT_OF_TIME_TO_QUESTION) {
+        document.querySelector(".page.exam .timer-text").innerHTML = examMinutes + ":" + examSeconds;
+    }
+    examSeconds--;
+}
+
+// הפונקציה בודקת האם התשובות שסימן החניך נכונות
+function checkAnswer() {
+    let amountOfCorrectAnswers = 0;
+
+    for (let i = 0; i < examAnswers.length; i++) {
+        //נכון לא נכון
+        if (QUESTIONS[i].type === "binary") {
+            correctAns = QUESTIONS[i].trueOrFalse;
+            // האם התשובה הנלחצת היא התשובה הנכונה
+            if (examAnswers[i] === correctAns) {
+                amountOfCorrectAnswers++;
+            }
+        }
+        // אמריקאי
+        else {
+            correctAns = QUESTIONS[i].correctAns;
+            if (`ans${examAnswers[i] + 1}` === correctAns) {
+                amountOfCorrectAnswers++;
+            }
+        }
+    }
+
+    endExam(amountOfCorrectAnswers);
+}
+
+// מוסיף פופאפ סיום עם סיכום התוצאות
+function endExam(amountOfCorrectAnswers) {
+    clearInterval(timerExam);
+
+    document.querySelector(".page.exam .header").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.exam .questions-number").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.exam .questions-container").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.exam .back-btn").style.filter = `blur(${blurAmount})`;
+
+    // חישוב כמה דקות היה המבחן
+    let minutes = EXAM_MINUTS - examMinutes;
+    let seconds = Number(59 - examSeconds);
+    // בודק האם השניות הגיעו לדקה
+    if (seconds === "60") {
+        seconds = 0;
+        textSec = "00"; // ...בגלל שאי אפשר לכתוב כערך מספרי פעמיים אפס
+        minutes++;
+    } else if (seconds < 10) {
+        textSec = "0" + seconds;
+    }
+    else {
+        textSec = seconds;
+    }
+    totalTimeExam = minutes + ":" + textSec; // להצגה במסך
+    let UserTotalTimeSec = Number(minutes * 60 + seconds); // לחישוב בבר
+    let examTotalTimeInSec = EXAM_MINUTS * 60 + 60; // לחישוב בבר
+
+    // הטקסט לכותרות לפי ההצלחה של המשתמש
+    let name;
+    let img;
+    let date;
+    let grade;
+    let pass;
+
+    name = `${firstName} ${lastName}`;
+    date = new Date();
+    let todayDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`
+    let currTime = date.getHours() + ":" + date.getMinutes();
+    grade = amountOfCorrectAnswers / QUESTIONS.length * 100;
+    if (grade % 1 !== 0) 
+        grade = grade.toFixed(2); 
+
+    // האם כמות התשובות הנכונות גדולה מחצי מהשאלות
+    if (amountOfCorrectAnswers > QUESTIONS.length / 2) 
+        img = "../assets/images/general/finish_popup/check_icon.svg"
+    else 
+        img = "../assets/images/general/finish_popup/x_icon.svg"                  
+    if (amountOfCorrectAnswers >= 26) {
+        pass = "כל הכבוד! עברת את המבחן."
+    }
+    else 
+        pass = "נכשלת, יש לך יותר מ-4 טעויות."
+    let finishPopup =
+        El("div", { cls: "dark" },
+            // כל הקלף
+            El("div", { cls: "end-exam" },
+                El("img", { attributes: { src: "../assets/images/general/close_btn.svg", class: "close-btn" } }),
+                // כותרות
+                El("div", { cls: "title-popup" }, name),
+                El("div", { cls: "popup-sub-titles" },
+                El("div", { cls: "text1-popup" }, pass),
+                El("div", { cls: "text2-popup" }, `${currTime} | ${todayDate}`)),
+
+                
+                
+                El("div", { cls: "instructions-practice" },
+                    // בלוק 1
+                    El("div", { cls: "grey-line" }),
+                    El("div", { cls: "container-resultes" },
+                        El("div", { cls: "summery-titles" },
+                            El("div", { cls: "titleAndIcon-container" },
+                                El("div", {},
+                                    amountOfCorrectAnswers + " " + "תשובות נכונות"
+                                ),
+                                El("img", { attributes: { src: img, class: "checkIcon-btn" } }),
+                            ),
+                            "מתוך " + QUESTIONS.length + " שאלות",
+                        ),
+                        El("div", { cls: "progress-bar-container" },
+                            El("div", { cls: "progress-bar-right-answers" })
+                        ),
+                    ),
+                    // בלוק 2 
+                    El("div", { cls: "grey-line" }),
+                    El("div", { cls: "container-resultes" },
+                        El("div", { cls: "summery-titles" },
+                            El("div", { cls: "titleAndIcon-container" },
+                                El("div", {},
+                                    totalTimeExam + " דקות"
+                                ),
+                                El("img", { attributes: { src: "../assets/images/general/finish_popup/timer_icon.svg", class: "timeIcon-btn" } }),
+                            ),
+                            "משך זמן המבחן",
+                        ),
+                        El("div", { cls: "progress-bar-container" },
+                            El("div", { cls: "progress-bar-time" })
+                        ),
+                    ),
+
+                    El("div", { cls: "grey-line" }),
+                ),
+
+                El("div", { cls: "buttons-popup" },
+                    El("img", { attributes: { src: "../assets/images/general/finish_popup/showExam_btn.svg", class: "backToExam-btn" } }), // להוסיף אפשרות של בדיקת התשובות 
+                    El("img", { attributes: { src: "../assets/images/general/finish_popup/tohome_btn.svg", class: "backToHome-btn" } })
+                )
+            )
+        );
+
+    document.querySelector(".page.exam").append(finishPopup);
+    document.querySelector(".page.exam .progress-bar-right-answers").style.width = amountOfCorrectAnswers / QUESTIONS.length * 100 + "%";
+    document.querySelector(".page.exam .progress-bar-time").style.width = 100 - (UserTotalTimeSec * 100 / examTotalTimeInSec) + "%";
+
+    // מעבר לדף הבית בלחיצה על הכפתור
+    document.querySelector(".page.exam .backToHome-btn").addEventListener("click", () => {
+        let examStatus = "end";
+        resetExamPage(examStatus);
+    });
+
+    // מעבר לבדיקת המבחן בלחיצה על הכפתור
+    document.querySelector(".page.exam .backToExam-btn").addEventListener("click", () => {
+        document.querySelector(".page.exam").classList.add("done");
+        let examStatus = "view";
+        resetExamPage(examStatus);
+
+        document.querySelector(".page.exam .header").style.filter = "unset";
+        document.querySelector(".page.exam .questions-number").style.filter = "unset";
+        document.querySelector(".page.exam .questions-container").style.filter = "unset";
+        document.querySelector(".page.exam .back-btn").style.filter = "unset";
+        document.querySelector(".page.exam .end-exam").remove();
+        document.querySelector(".page.exam .dark").remove();
+
+        // יצירת השאלה הראשונה וכרטיסייה ריקה
+        document.querySelector(".page.exam .questions-container").innerHTML = "";
+        emptyCard();
+        createQuestionExam();
+        addEvantListenersNextBackBTN();
+        addEventListenersAnswersEXAM();
+        document.querySelector(".page.exam .back-btn").src = "../assets/images/exam/toHome_btn.svg";
+        document.querySelector(".page.exam .back-btn").classList.add("backHome-btn");
+
+        // גילוי תשובות נכונות וטעויות על הכרטסיות
+        showAnswersExam();
+        //גילוי עיגול אדום או ירוק לפי התשובה על הניווט התחתון עם המספרים
+        document.querySelector(".page.exam .questions-number").scrollLeft = document.querySelector(".page.exam .questions-number").offsetWidth;
+        // console.log(document.querySelector(".page.exam .questions-number").offsetWidth);
+        showQuestionsValidity();
+        //
+        ifAnswer();
+    });
+
+    // מעבר לדף הבית בלחיצה על הכפתור
+    document.querySelector(".page.exam .close-btn").addEventListener("click", () => {
+        let examStatus = "end";
+        resetExamPage(examStatus);
+    });
+}
+
+// מאתחלת את מצב המבחן לפי ההכפתור עליו לחץ החניך
+function resetExamPage(examStatus) {
+    document.querySelector(`.page.exam #num${currentQuestionExam + 1}`).classList.remove("active");
+    // איפוס השאלה הנוכחית 
+    currentQuestionExam = 0;
+
+    // כפתור המצב הרצוי של החניך
+    switch (examStatus) {
+        // החניך סיים את המבחן
+        case "end": {
+            document.querySelector(".page.exam .back-btn").remove();
+            document.querySelector(".page.exam").classList.remove("active");
+            document.querySelector(".page.learning.subjects").classList.add("active");
+            document.querySelector(".page.exam .end-exam").remove();
+            document.querySelector(".page.exam .dark").remove();
+            clearInterval(timer);
+            document.querySelector(".page.exam .questions-container").innerHTML = "";
+            document.querySelector(".page.exam .questions-number").innerHTML = "";
+            break;
+        }
+        // החניך יצא באמצע המבחן
+        case "quit": {
+            // איפוס הזמן
+            clearInterval(timerExam);
+
+            document.querySelector(".page.exam .back-btn").remove();
+
+            document.querySelector(".page.exam").classList.remove("active");
+            document.querySelector(".page.learning.subjects").classList.add("active");
+            document.querySelector(".page.exam .questions-container").innerHTML = "";
+            document.querySelector(".page.exam .questions-number").innerHTML = "";
+            if (document.querySelector(".page.exam.done"))
+                document.querySelector(".page.exam.done").classList.remove("done");
+            break;
+        }
+        // החניך בחר לראות את תוצאות המבחן
+        case "view": {
+            document.querySelector(".page.exam").classList.add("done");
+            ifComplete();
+            break;
+        }
+    }
+    if (examStatus != "quit") {
+        // הורדת הטשטוש של הרקע
+        document.querySelector(".page.exam .header").style.filter = "unset";
+        document.querySelector(".page.exam .questions-number").style.filter = "unset";
+        document.querySelector(".page.exam .questions-container").style.filter = "unset";
+    }
+}
+
+// הפונקציה מופעלת לאחר לחיצה על כפתור עיון במבחן ומוסיפה לכל שאלה את התשובה שלה
+function showAnswersExam() {
+    let correctAns;
+    // בודק האם השאלה הנוכחית היא בינרית
+    if (QUESTIONS[currentQuestionExam].type === "binary") {
+        correctAns = QUESTIONS[currentQuestionExam].trueOrFalse;
+        // האם התשובה הנלחצת היא התשובה הנכונה
+        if (examAnswers[currentQuestionExam] === correctAns) {
+            // green line
+            let greenLine = El("img", { attributes: { src: "../assets/images/general/rightAnswer.svg" }, cls: "line" });/////////////
+            document.querySelector(".page.exam .first-card .question").after(greenLine);
+        }
+        // התשובה לא נכונה
+        else {
+            // red line
+            let redLine = El("img", { attributes: { src: "../assets/images/general/wrongAnswer.svg" }, cls: "line" });/////////////
+            document.querySelector(".page.exam .first-card .question").after(redLine);
+        }
+    }
+    // אמריקאי
+    else {
+        correctAns = QUESTIONS[currentQuestionExam].correctAns;
+        document.querySelector(`#${correctAns} > .ans`).style.borderBottom = "2px solid rgb(44, 191, 55)"; //green
+        document.querySelector(`#${correctAns} > .ans`).style.paddingBottom = "2%";
+
+        // האם התשובה הנלחצת היא לא התשובה הנכונה
+        if (`ans${examAnswers[currentQuestionExam] + 1}` !== correctAns) {
+            document.querySelector(`#ans${examAnswers[currentQuestionExam] + 1} > .ans`).style.borderBottom = "2px solid rgb(277, 58, 78)"; //red
+            document.querySelector(`#ans${examAnswers[currentQuestionExam] + 1} > .ans`).style.paddingBottom = "2%";
+        }
+    }
+}
+
+// למספרי השאלות בתחתית העמוד יתווסף נקודה אדומה במידה והחניך טעה בשאלה, ונקודה ירוקה במידה וצדק בה 
+function showQuestionsValidity() {
+    for (let i = 0; i < QUESTIONS.length; i++) {
+        // השאלה הנוכחית היא מסוג נכון לא נכון
+        if (QUESTIONS[i].trueOrFalse !== undefined) {
+            if (examAnswers[i] === QUESTIONS[i].trueOrFalse)
+                document.querySelector(`#num${i + 1}`).append(El("div", { classes: ["circle", "correct"] }));
+            else
+                document.querySelector(`#num${i + 1}`).append(El("div", { classes: ["circle", "wrong"] }));
+        }
+        // השאלה הנוכחית היא שאלה מסוג אמריקאית
+        else {
+            if (examAnswers[i] === Number(QUESTIONS[i].correctAns.slice(-1) - 1))
+                document.querySelector(`#num${i + 1}`).append(El("div", { classes: ["circle", "correct"] }));
+            else
+                document.querySelector(`#num${i + 1}`).append(El("div", { classes: ["circle", "wrong"] }));
+
+        }
+    }
+}
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+
+// עמוד הלמידה
+function subjectLearningPage(chosenLesson) {
+    // הוספת כפתור חזרה למסך הבית
+    let backBtn =
+        El("img", {
+            attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+            listeners: {
+                click: function () {
+                    document.querySelector(".page.learning.lessons").classList.add("active");
+                    document.querySelector(".page.learning.content").classList.remove("active");
+                    resetLearningPage();
+                }
+            }
+        });
+    document.querySelector(".page.learning.content").append(backBtn);
+
+    // הוספת כותרת
+    document.querySelector(".page.learning.content .title").innerHTML = chosenLesson;
+    // הוספת תתי נושאים לשיעור הנוכחי
+    let subjects = El("div", { cls: "container-subjects" });
+    document.querySelector(".page.learning.content .title").after(subjects);
+    
+    // הופסת דיב ראשוני לבר הניווט כדי שהתת נושא הראשון יהיה במרכז
+    let beforeSpace = El("div", {cls: "space"});
+    document.querySelector(".page.learning.content .container-subjects").append(beforeSpace);
+
+
+
+    let arrLessonSubjects =  Object.keys(DATA[chosenSubject].lessons[chosenLesson].learningContent);
+
+    let id = 0;
+    // לכל תת נושא 
+    for (let sub of arrLessonSubjects) {
+        // זה משתנה שמכיל את כל תתי תתי הנושאים לאותו תת נושא 
+        let subSubTopics = Object.keys(DATA[chosenSubject].lessons[chosenLesson].learningContent[sub]);
+
+        // יוצר תת נושא ואת כל תת תת הנושאים
+        let subTopic =
+            El("div", { cls: "sub-topics-container" },
+                El("div", { cls: "sub-topic" },
+                    El("img", { attributes: { class: "arrow", src: "../assets/images/learning/openArrow_icon.svg" } }),
+                    El("div", { cls: "sub-title" }, sub),
+                ),
+                // יוצר מערך של אלמנטים ומעביר כל אלמנט בנפרד מחוץ למערך (...=)
+                ...subSubTopics.map(
+                    subSubTopic => El("div", {
+                        attributes: { class: "sub-sub-topic" },
+                        listeners: { click: () => { relevantCard(subSubTopic) } }
+                    }, subSubTopic
+                    )
+                )
+            );
+        subTopic.typeIndex = id;
+
+        // מוסיפים את התת נושא לתפריט ניווט
+        let menu = document.querySelector(".page.learning.content .container-subjects");
+        menu.append(subTopic);
+        
+        // מוסיף את כל הכרטיסיות של התת נושא
+        let arrCards = subSubTopics.map(subSubTopic => {
+            // גייסון של כל תתי תתי הנושא
+            let json = DATA[chosenSubject].lessons[chosenLesson].learningContent[sub][subSubTopic];
+
+            let group = El("div", { classes: ["card-group", `sub-${id}`] });
+            if (json.length > 1) {
+                let next = generateCard(json, subSubTopic, 1);
+                next.classList.add("next");
+                group.append(next);
+            }
+            let card = generateCard(json, subSubTopic, 0);
+            group.append(card);
+            return group;
+        });
+        document.querySelector(".page.learning.content .cards-container").append(...arrCards);
+        id++;
+    }
+    document.querySelector(".page.learning.content .container-subjects").scrollLeft = document.querySelector(".page.learning.content .container-subjects").scrollWidth;
+    // הפונקציה גוללת אל הכרטיסייה הנלחצת על ידי החניך 
+    function relevantCard(cardTitle) {
+        document.querySelectorAll(".page.learning.content .card-group.block").forEach(function (card) {
+            if (card.querySelector(".title").textContent === cardTitle) {
+                card.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+        })
+    }
+
+    // יוצר כרטיסייה חדשה
+    function generateCard(json, title, index) {
+        // משכפל את הטמפלייט של הכרטיסייה
+        console.log(json[index]);
+        console.log(index);
+        console.log(json);
+        let template;
+        let jsonNoCard; //json obj without card parameter
+        let jsonObj; //json card parameter
+        //if(typeof(json[index].cardType) !== "undefined")
+       // {
+           try
+           {
+            template = document.querySelector(`.page.learning.content .templates > .${getType(json[index].cardType)}`);
+            jsonObj  = json[index].cardType;
+            jsonNoCard = json[index];
+           }
+       // }
+      //  else
+      //  {
+          catch
+          {
+              //interate over json
+            for(var key in json)
+            {
+                //get value from json
+                var value = json[key];
+                console.log(value);
+            }
+            template = document.querySelector(`.page.learning.content .templates > .${getType(value[index].cardType)}`);
+            jsonObj  = value[index].cardType;
+            jsonNoCard = value[index];
+          }
+      //  }
+        // יוצר אלמנט של קונטיינר לתוכן (כדי שתהיה גלילה יפה בתוך הכרטיסייה)
+        let container = El("div", { cls: "content-container" });
+        let card = El("div", { classes: ["card", getType(jsonObj)] }, container);
+        container.append(template.content.cloneNode(true));
+
+        let cardType = CARD_TYPES[jsonObj];
+        cardType.init(card, jsonNoCard);
+        card.querySelector(".title").innerHTML = title;
+        if (json.length > 1) {
+            let buttons =
+                El("div", { cls: "next-back-btn" },
+                    El("img", { attributes: { src: "../assets/images/exam/next_btn.svg" }, cls: "next", listeners: { click: changeCard.bind(card, "next", json, index) } }),
+                    El("img", { attributes: { src: "../assets/images/exam/back_btn.svg" }, cls: "back", listeners: { click: changeCard.bind(card, "back", json, index) } })
+                );
+            if (index === 0)
+                buttons.classList.add("first");
+            if (index === json.length - 1)
+                buttons.classList.add("last");
+            card.append(buttons);
+        }
+        return card;
+    }
+    let coolDown = -1;
+
+    // הפונקציה מעבירה לפי הכפתור שנלחץ לכרטיסייה המתאימה בתת תת נושא
+    function changeCard(direction, json, index) {
+        if (coolDown !== -1) return;
+        coolDown = setTimeout(() => coolDown = -1, timeToTransition(this, "transform") + 100);
+        if (direction === "back") {
+            let next = this.parentElement.querySelector(".card.next");
+            let card = generateCard(json, this.querySelector(".title").innerHTML, index - 1);
+            card.classList.add("prev");
+            this.parentElement.append(card);
+            void card.clientWidth;
+            card.classList.remove("prev");
+            this.classList.add("next");
+            if (next) setTimeout(() => next.remove(), timeToTransition(next, "transform"));
+        }
+        else if (direction === "next") {
+            this.classList.add("prev");
+            this.parentElement.querySelector(".card.next").classList.remove("next");
+            if (json.length - 2 > index) {
+                let card = generateCard(json, this.querySelector(".title").innerHTML, index + 2);
+                card.classList.add("next");
+                this.parentElement.prepend(card);
+            }
+            setTimeout(() => this.remove(), timeToTransition(this, "transform"));
+        }
+    }
+
+    // פונקציה שהופכת את כל מה שנמצא עם אות גדולה להפרדה בין מילים עם מקפים
+    function getType(type) {
+        return type.replace(/.[A-Z]/g, (str) => `${str.substr(0, 1)}-${str.substr(1).toLowerCase()}`);
+    }
+
+    // מאזין לגלילה של התתי נושאים, הופך את הנושאים שלא ממורכזים לבעלי שקיפות
+    document.querySelector(".page.learning.content .container-subjects").addEventListener("scroll", function () {
+        let midPage = window.innerWidth / 2;
+        let smallestDifference = 1000;
+        let count = 0;
+
+        for (let sub of this.children) {
+            let pos = sub.getBoundingClientRect();
+            let _positonX = pos.x ? pos.x : 70;
+            let positionX = (_positonX + pos.right) / 2;
+            // בדיקה מה האלמנט שנמצא כרגע במרכז המסך
+            if (Math.abs(midPage - positionX) < smallestDifference) {
+                let el = document.querySelector(".sub-topics-container.open");
+
+                if (el !== null && el !== this) {
+                    el.classList.remove("open");
+                    animateDims(el, true, "height");
+                }
+                smallestDifference = Math.abs(midPage - positionX);
+                midElement = sub;
+                midElPlace = count;
+            }
+            count++;
+            sub.style.opacity = "0.6";
+        }
+        midElement.style.opacity = "";
+
+        let cardGroup = document.querySelectorAll(".page.learning.content .card-group");
+
+        // האם התת נושא שנמצא כרגע באמצע המסך לא שווה לנושא שאמור להיות כרגע באמצע
+        // אז התנאי יוסיף את כרטיסיות הלימוד הרלוונטיות
+        if (midElPlace !== currSubjCount) {
+            currSubjCount = midElPlace;
+            document.querySelector(".page.learning.content .cards-container").scrollTop = 0;
+            document.querySelectorAll(".page.learning.content .card-group").forEach(el => el.style.display = "");
+
+            // הורדת הבלוק על כל הכרטיסיות בכל התת נושאים
+            for (let i = 0; i < cardGroup.length; i++) {
+                if (cardGroup[i].classList.contains("block"))
+                    cardGroup[i].classList.remove("block");
+            }
+            // הוספת הבלוק לכרטיסיות הרלוונטיות לפי תת הנושא
+            document.querySelectorAll(`.page.learning.content .card-group.sub-${midElement.typeIndex}`).forEach(el => el.classList.add("block"));
+        }
+    }, { passive: true });
+
+    
+    // הוספת מאזין לחיצה בעבור כל תת נושא, ובלחיצה על נושא שאינו במרכז, הפונקציה תעבור אליו בצורה חלקה ויפהה
+    document.querySelectorAll(".page.learning.content .sub-topics-container").forEach(el => {
+        el.addEventListener("click",
+            /**
+             * @this {HTMLElement}
+            */
+            function () {
+                // בודק אם התת נושא הקודם כבר היה לחוץ
+                let el = document.querySelector(".sub-topics-container.open");
+                if (el !== null && el !== this) {
+                    el.classList.remove("open");
+                    animateDims(el, true, "height");
+                }
+
+                // האם האלמנט הנוכחי שנלחץ הוא לא במרכז
+                if (midElement !== this) {
+                    // מעבר אל האלמנט הנלחץ שיהיה במרכז המסך
+                    let parent = this.parentElement;
+                    
+                    // זה עובד טוב כשרואים על המחשב
+                    // let scroll = (parent.scrollWidth - parent.offsetWidth) + this.offsetLeft - (parent.offsetWidth - this.offsetWidth) / 2;
+                    // parent.scrollLeft = scroll;
+
+                    // האם מיקום האלמנט הנלחץ גדול ממיקום האלמנט המרכזי 
+                    if(this.offsetLeft > midElement.offsetLeft)
+                        parent.scrollLeft += this.offsetWidth;
+                    else
+                        parent.scrollLeft -= this.offsetWidth;
+
+                    // האלמנט שנלחץ הוא כבר במרכז המסך
+                } else {
+                    let opened = this.classList.toggle("open"); 
+                    animateDims(this, !opened, "height");
+                }
+            })
+    });
+}
+
+// ניקוי עמוד הלמידה לאחר יציאה ממנו
+function resetLearningPage() {
+    currSubjCount = -1;
+    document.querySelector(".page.learning.content .cards-container").innerHTML = "";
+    document.querySelector(".page.learning.content .container-subjects").remove();
+    document.querySelector(".page.learning.content .back-btn").remove();
+}
+
+//
+
+function theChosenSub(subject) {
+    for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+        selectedSubjects[i] = false;
+    }
+    for (let i = 0; i < SUBJECTS_TITLES.length; i++) {
+        if (subject === SUBJECTS_TITLES[i]) {
+            selectedSubjects[i] = true;
+            return;
+        }
+    }
+}
+
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+
+// הפונקצייה מוסיפה 
+function timeOver(page) {
+    // עצירת הטיימר
+    if (page === "practice") {
+        clearInterval(timer);
+        showAnswer();
+    }
+    // החניך היה באמצע מבחן
+    else {
+        // איפוס הזמן
+        clearInterval(timerExam);
+
+        // הוספה לרקע טשטוש
+        document.querySelector(`.page.${page} .title`).style.filter = `blur(${blurAmount})`;
+        document.querySelector(`.page.${page} .back-btn`).style.filter = `blur(${blurAmount})`;
+        if (page === "practice") {
+            document.querySelector(`.page.${page} .score`).style.filter = `blur(${blurAmount})`;
+            document.querySelector(`.page.${page} .container-questions`).style.filter = `blur(${blurAmount})`;
+            document.querySelector(`.page.${page} .buttons`).style.filter = `blur(${blurAmount})`;
+        }
+        else {
+            document.querySelector(`.page.${page} .questions-container`).style.filter = `blur(${blurAmount})`;
+            document.querySelector(`.page.${page} .questions-number`).style.filter = `blur(${blurAmount})`;
+            document.querySelector(`.page.${page} .sub-titles`).style.filter = `blur(${blurAmount})`;
+        }
+        // הוספת פופאפ
+        let popup =
+            El("div", { cls: "dark" },
+                El("div", { cls: "exit-popup", },
+                    El("div", { cls: "title-popup" }, "נגמר הזמן..."),
+                    El("div", { cls: "sub-title-popup" }, "פעם הבאה ענו קצת יותר מהר:)"),
+                    El("div", { cls: "buttons-exit-popup" },
+                        // כפתור חזרה למסך הבית
+                        El("img", {
+                            attributes: {
+                                src: "../assets/images/general/leavePracticeOrExam_popup/back.svg", class: "button-popup",
+                            }, listeners: {
+                                click: function () {
+                                    // כפתור יציאה מהתרגול או מהמבחן למסך הבית
+                                    document.querySelector(`.page.${page} .title`).style.filter = "unset";
+                                    document.querySelector(`.page.${page} .back-btn`).style.filter = "unset";
+                                    if (page === "practice") {
+                                        document.querySelector(`.page.${page} .score`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .container-questions`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .buttons`).style.filter = "unset";
+                                    }
+                                    else {
+                                        document.querySelector(`.page.${page} .questions-container`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .questions-number`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .sub-titles`).style.filter = "unset";
+                                    }
+                                    document.querySelector(".page .dark").remove();
+                                    document.querySelector(`.page.${page}`).classList.remove("active");
+                                    document.querySelector(`.page.learning.subjects`).classList.add("active");
+
+                                    if (page === "exam") {
+                                        let examStatus = "quit";
+                                        resetExamPage(examStatus);
+                                    }
+                                    else {
+                                        resetPrecticePage(false);
+                                    }
+                                }
+                            }
+                        }),
+                        // כפתור חזרה לניסיון נוסף לתרגול או המבחן
+                        El("img", {
+                            attributes: {
+                                src: "../assets/images/general/tryAgainBtn.svg", class: "button-popup"
+                            }, listeners: {
+                                click: function () {
+                                    // חזרה על המבחן או התרגול
+                                    document.querySelector(`.page.${page} .title`).style.filter = "unset";
+                                    document.querySelector(`.page.${page} .back-btn`).style.filter = "unset";
+                                    if (page === "practice") {
+                                        document.querySelector(`.page.${page} .score`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .container-questions`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .buttons`).style.filter = "unset";
+                                    }
+                                    else {
+                                        document.querySelector(`.page.${page} .questions-container`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .questions-number`).style.filter = "unset";
+                                        document.querySelector(`.page.${page} .sub-titles`).style.filter = "unset";
+                                    }
+                                    document.querySelector(".page .dark").remove();
+                                    // החניך היה באמצע תרגול
+                                    if (page === "practice") {
+                                        practiceSeconds = AMOUNT_OF_TIME_TO_QUESTION;
+                                        resetPrecticePage(false);
+                                        practicePage();
+                                    }
+                                    // החניך היה באמצע מבחן
+                                    else {
+                                        // איפוס השאלה הנוכחית 
+                                        currentQuestionExam = 0;
+                                        document.querySelector(".page.exam .questions-container").innerHTML = "";
+                                        document.querySelector(".page.exam .questions-number").innerHTML = "";
+                                        document.querySelector(".page.exam .back-btn").remove();
+                                        examPage();
+                                    }
+                                }
+                            }
+                        })
+                    )
+                )
+
+            )
+        document.querySelector(`.page.${page}`).append(popup);
+    }
+}
+
+
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
+
+/*
+             shuffle
+            =========
+Description: take orgnaiz array and shffel it
+Parameters: array.
+------------------------------------------------
+Programer: Gal
+------------------------------------------------
+*/
+function shuffle(arr) {
+    var tmp = arr.slice();
+    for (var i = 0; i < arr.length; i++) {
+        var index = Math.floor(Math.random() * tmp.length);
+        arr[i] = tmp[index];
+        tmp = tmp.slice(0, index).concat(tmp.slice(index + 1));
+    }
+    return arr;
+}
+
+
