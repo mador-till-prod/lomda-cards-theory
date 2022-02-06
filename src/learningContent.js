@@ -19,6 +19,7 @@ const AMOUNT_EXAM_QUESTIONS = 30;
 
 const TIME_FOR_EXAM = "30:00";
 
+
 const DATA = { 
 
     "חוק ותמרורים": {
