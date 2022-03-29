@@ -39,7 +39,6 @@ var currSubjCount = -1;
 var midElement;
 const PASSWORD = 6666;
 
-
 /** @type {(boolean|number)[]} */
 var examAnswers = [];
 
@@ -2185,9 +2184,9 @@ function subjectLearningPage(chosenLesson) {
     // יוצר כרטיסייה חדשה
     function generateCard(json, title, index) {
         // משכפל את הטמפלייט של הכרטיסייה
-        console.log(json[index]);
-        console.log(index);
-        console.log(json);
+        // console.log(json[index]);
+        // console.log(index);
+        // console.log(json);
         let template;
         let jsonNoCard; //json obj without card parameter
         let jsonObj; //json card parameter

@@ -1,1 +1,159 @@
-var _0xb61b=["\x69\x6D\x67","\x62\x61\x63\x6B\x2D\x62\x74\x6E","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x67\x65\x6E\x65\x72\x61\x6C\x2F\x62\x61\x63\x6B\x5F\x62\x74\x6E\x2E\x73\x76\x67","\x61\x63\x74\x69\x76\x65","\x61\x64\x64","\x63\x6C\x61\x73\x73\x4C\x69\x73\x74","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x73\x75\x62\x6A\x65\x63\x74\x73","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x72\x65\x6D\x6F\x76\x65","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73","\x61\x70\x70\x65\x6E\x64","\x70\x72\x61\x63\x74\x69\x63\x65\x2D\x62\x74\x6E","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x67\x65\x6E\x65\x72\x61\x6C\x2F\x70\x72\x61\x63\x74\x69\x63\x65\x5F\x62\x74\x6E\x2E\x73\x76\x67","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x74\x69\x74\x6C\x65","\x6C\x65\x73\x73\x6F\x6E\x73","\x6B\x65\x79\x73","\x6C\x6F\x67","\x64\x69\x76","\x6C\x65\x73\x73\x6F\x6E\x43\x61\x72\x64","\x73\x75\x62\x6A\x65\x63\x74","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x63\x61\x72\x64\x73\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x63\x6C\x69\x63\x6B","\x74\x72\x69\x6D","\x69\x6E\x6E\x65\x72\x54\x65\x78\x74","\x63\x75\x72\x72\x65\x6E\x74\x54\x61\x72\x67\x65\x74","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x63\x6F\x6E\x74\x65\x6E\x74","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x62\x61\x63\x6B\x2D\x62\x74\x6E","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x70\x72\x61\x63\x74\x69\x63\x65\x2D\x62\x74\x6E","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x20\x2E\x63\x61\x72\x64\x73\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","","\x66\x69\x6C\x74\x65\x72","\x73\x74\x79\x6C\x65","\x62\x6C\x75\x72\x28","\x29","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x73\x75\x62\x2D\x74\x69\x74\x6C\x65","\x64\x61\x72\x6B","\x62\x65\x66\x6F\x72\x65\x2D\x70\x72\x61\x63\x74\x69\x63\x65\x2D\x6F\x6E\x65\x2D\x73\x75\x62","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x67\x65\x6E\x65\x72\x61\x6C\x2F\x63\x6C\x6F\x73\x65\x5F\x62\x74\x6E\x2E\x73\x76\x67","\x63\x6C\x6F\x73\x65\x2D\x62\x74\x6E","\x75\x6E\x73\x65\x74","\x2E\x70\x61\x67\x65\x2E\x6C\x65\x61\x72\x6E\x69\x6E\x67\x2E\x6C\x65\x73\x73\x6F\x6E\x73\x20\x2E\x64\x61\x72\x6B","\x74\x69\x74\x6C\x65\x2D\x70\x6F\x70\x75\x70","\u05DC\u05E4\u05E0\u05D9\x20\u05E9\u05DE\u05EA\u05D7\u05D9\u05DC\u05D9\u05DD","\x69\x6E\x73\x74\x72\x75\x63\x74\x69\x6F\x6E\x73\x2D\x70\x72\x61\x63\x74\x69\x63\x65","\x69\x6E\x73\x74\x72\x75\x63\x74\x69\x6F\x6E\x2D\x70\x72\x61\x63\x74\x69\x63\x65","\x74\x65\x78\x74","\x62","\u05D3\u05E7\u05D4","\x20\u05DC\u05DB\u05DC\x20\u05E9\u05D0\u05DC\u05D4","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x65\x78\x61\x6D\x2F\x62\x65\x66\x6F\x72\x65\x45\x78\x61\x6D\x5F\x70\x6F\x70\x75\x70\x2F\x74\x69\x6D\x65\x72\x5F\x69\x63\x6F\x6E\x2E\x73\x76\x67","\x69\x63\x6F\x6E\x32","\x67\x72\x65\x79\x2D\x6C\x69\x6E\x65","\u05D6\u05D4\x20\u05E8\u05E7","\x20\u05EA\u05E8\u05D2\u05D5\u05DC","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x70\x72\x61\x63\x74\x69\x63\x65\x2F\x62\x65\x66\x6F\x72\x65\x50\x72\x61\x63\x74\x69\x63\x65\x5F\x70\x6F\x70\x75\x70\x2F\x62\x6C\x6F\x77\x5F\x69\x63\x6F\x6E\x2E\x73\x76\x67","\x20\u05D4\u05E7\u05DC\u05D9\u05E7\u05D5","\x20\u05DC\u05DE\u05E2\u05D1\u05E8\x20\u05D1\u05D9\u05DF\x20\u05D4\u05E9\u05D0\u05DC\u05D5\u05EA","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x70\x72\x61\x63\x74\x69\x63\x65\x2F\x62\x65\x66\x6F\x72\x65\x50\x72\x61\x63\x74\x69\x63\x65\x5F\x70\x6F\x70\x75\x70\x2F\x73\x6C\x69\x64\x65\x5F\x69\x63\x6F\x6E\x2E\x73\x76\x67","\x69\x63\x6F\x6E\x34","\x2E\x2E\x2F\x61\x73\x73\x65\x74\x73\x2F\x69\x6D\x61\x67\x65\x73\x2F\x67\x65\x6E\x65\x72\x61\x6C\x2F\x6F\x6B\x5F\x62\x74\x6E\x2E\x73\x76\x67","\x73\x74\x61\x72\x74\x2D\x62\x74\x6E","\x2E\x70\x61\x67\x65\x2E\x70\x72\x61\x63\x74\x69\x63\x65"];var lessonsNames=[];var chosenSubject;function lessonsPage(_0xbc4cx4){chosenSubject= _0xbc4cx4;let _0xbc4cx5=El(_0xb61b[0],{attributes:{class:_0xb61b[1],src:_0xb61b[2]},listeners:{click:function(){document[_0xb61b[7]](_0xb61b[6])[_0xb61b[5]][_0xb61b[4]](_0xb61b[3]);document[_0xb61b[7]](_0xb61b[9])[_0xb61b[5]][_0xb61b[8]](_0xb61b[3]);resetLessonsPage();learningSubjectsPage()}}});document[_0xb61b[7]](_0xb61b[9])[_0xb61b[10]](_0xbc4cx5);let _0xbc4cx6=El(_0xb61b[0],{attributes:{class:_0xb61b[11],src:_0xb61b[12]},listeners:{click:function(){practicePopup(chosenSubject)}}});document[_0xb61b[7]](_0xb61b[9])[_0xb61b[10]](_0xbc4cx6);document[_0xb61b[7]](_0xb61b[14])[_0xb61b[13]]= chosenSubject;lessons()}function lessons(){lessonsNames= Object[_0xb61b[16]](DATA[chosenSubject][_0xb61b[15]]);console[_0xb61b[17]](lessonsNames);for(let _0xbc4cx8 of lessonsNames){createLessonsCards(_0xbc4cx8)}}function createLessonsCards(_0xbc4cx8){let _0xbc4cxa=El(_0xb61b[18],{cls:_0xb61b[19]},El(_0xb61b[18],{cls:_0xb61b[20]},_0xbc4cx8));document[_0xb61b[7]](_0xb61b[21])[_0xb61b[10]](_0xbc4cxa);_0xbc4cxa[_0xb61b[27]](_0xb61b[22],(_0xbc4cxb)=>{let _0xbc4cxc=_0xbc4cxb[_0xb61b[25]][_0xb61b[24]][_0xb61b[23]]();console[_0xb61b[17]](_0xbc4cxb[_0xb61b[25]][_0xb61b[24]]);document[_0xb61b[7]](_0xb61b[9])[_0xb61b[5]][_0xb61b[8]](_0xb61b[3]);document[_0xb61b[7]](_0xb61b[26])[_0xb61b[5]][_0xb61b[4]](_0xb61b[3]);subjectLearningPage(_0xbc4cxc)})}function resetLessonsPage(){document[_0xb61b[7]](_0xb61b[28])[_0xb61b[8]]();document[_0xb61b[7]](_0xb61b[29])[_0xb61b[8]]();document[_0xb61b[7]](_0xb61b[30])[_0xb61b[13]]= _0xb61b[31]}function practicePopup(_0xbc4cx4){document[_0xb61b[7]](_0xb61b[14])[_0xb61b[33]][_0xb61b[32]]= `${_0xb61b[34]}${blurAmount}${_0xb61b[35]}`;document[_0xb61b[7]](_0xb61b[29])[_0xb61b[33]][_0xb61b[32]]= `${_0xb61b[34]}${blurAmount}${_0xb61b[35]}`;document[_0xb61b[7]](_0xb61b[28])[_0xb61b[33]][_0xb61b[32]]= `${_0xb61b[34]}${blurAmount}${_0xb61b[35]}`;document[_0xb61b[7]](_0xb61b[21])[_0xb61b[33]][_0xb61b[32]]= `${_0xb61b[34]}${blurAmount}${_0xb61b[35]}`;document[_0xb61b[7]](_0xb61b[36])[_0xb61b[33]][_0xb61b[32]]= `${_0xb61b[34]}${blurAmount}${_0xb61b[35]}`;let _0xbc4cxf=El(_0xb61b[18],{cls:_0xb61b[37]},El(_0xb61b[18],{cls:_0xb61b[38]},El(_0xb61b[0],{attributes:{src:_0xb61b[39],class:_0xb61b[40]},listeners:{click:function(){document[_0xb61b[7]](_0xb61b[14])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[29])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[28])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[21])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[36])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[42])[_0xb61b[8]]()}}}),El(_0xb61b[18],{cls:_0xb61b[43]},_0xb61b[44]),El(_0xb61b[18],{cls:_0xb61b[45]},El(_0xb61b[18],{cls:_0xb61b[46]},El(_0xb61b[18],{cls:_0xb61b[47]},El(_0xb61b[48],{},_0xb61b[49]),_0xb61b[50]),El(_0xb61b[0],{attributes:{src:_0xb61b[51],class:_0xb61b[52]}})),El(_0xb61b[18],{cls:_0xb61b[53]}),El(_0xb61b[18],{cls:_0xb61b[46]},El(_0xb61b[18],{cls:_0xb61b[47]},_0xb61b[54],El(_0xb61b[48],{},_0xb61b[55])),El(_0xb61b[0],{attributes:{src:_0xb61b[56],class:_0xb61b[52]}})),El(_0xb61b[18],{cls:_0xb61b[53]}),El(_0xb61b[18],{cls:_0xb61b[46]},El(_0xb61b[18],{cls:_0xb61b[47]},El(_0xb61b[48],{},_0xb61b[57]),_0xb61b[58]),El(_0xb61b[0],{attributes:{src:_0xb61b[59],class:_0xb61b[60]}})),El(_0xb61b[18],{cls:_0xb61b[53]})),El(_0xb61b[0],{attributes:{src:_0xb61b[61],class:_0xb61b[62]},listeners:{click:function(){document[_0xb61b[7]](_0xb61b[14])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[29])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[28])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[21])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[36])[_0xb61b[33]][_0xb61b[32]]= _0xb61b[41];document[_0xb61b[7]](_0xb61b[42])[_0xb61b[8]]();document[_0xb61b[7]](_0xb61b[9])[_0xb61b[5]][_0xb61b[8]](_0xb61b[3]);document[_0xb61b[7]](_0xb61b[63])[_0xb61b[5]][_0xb61b[4]](_0xb61b[3]);theChosenSub(_0xbc4cx4);resetLessonsPage();practicePage()}}})));document[_0xb61b[7]](_0xb61b[9])[_0xb61b[10]](_0xbc4cxf)}
+var lessonsNames = [];
+var chosenSubject;
+
+function lessonsPage(subject) {
+    chosenSubject = subject;
+
+    // הוספת כפתור חזרה למסך הבית
+    let backBtn =
+    El("img", {
+        attributes: { class: "back-btn", src: "../assets/images/general/back_btn.svg" },
+        listeners: {
+            click: function () {
+                document.querySelector(".page.learning.subjects").classList.add("active");
+                document.querySelector(".page.learning.lessons").classList.remove("active");
+                resetLessonsPage();
+                learningSubjectsPage();
+            }
+        }
+    });
+    document.querySelector(".page.learning.lessons").append(backBtn);
+
+    // הוספת כפתור חזרה למסך הבית
+    let practiceBtn =
+    El("img", {
+        attributes: { class: "practice-btn", src: "../assets/images/general/practice_btn.svg" },
+        listeners: {
+            click: function () {
+                practicePopup(chosenSubject);
+            }
+        }
+    });
+    document.querySelector(".page.learning.lessons").append(practiceBtn);
+
+    document.querySelector(".page.learning.lessons .title").innerHTML = chosenSubject;
+
+    lessons();
+
+}
+
+// הפונקציה תיצור מערך המכיל את שמות השיעורים של הנושא הנבחר
+function lessons() {
+    lessonsNames = Object.keys(DATA[chosenSubject].lessons);
+
+    // יוצר את הכרטיסיות של השיעורים לפי הנושא הנבחר
+    for (let lesson of lessonsNames) {
+        // console.log(lesson);
+        createLessonsCards(lesson);
+    }
+}
+
+// יצירת קלפים ללמידה
+function createLessonsCards(lesson) {
+    let lessonCard =
+        El("div", { cls: "lessonCard" },
+            // El("img", { attributes: { src: DATA[lesson].icon, class: "icon" } }),   // אם רוצים להוסיף אייקון גם לשיעורים
+            El("div", { cls: "subject" }, lesson)
+        );
+    document.querySelector(".page.learning.lessons .cards-container").append(lessonCard);
+    lessonCard.addEventListener("click", (event) => {
+        let chosenLesson = event.currentTarget.innerText.trim();
+        console.log(event.currentTarget.innerText);
+        document.querySelector(".page.learning.lessons").classList.remove("active");
+        document.querySelector(".page.learning.content").classList.add("active");
+        subjectLearningPage(chosenLesson);
+       
+        //זה מה שהיה במקור אמור להיות:
+        // document.querySelector(".page.learning.content").classList.add("active");
+        // subjectLearningPage(currentSubject);
+    });
+}
+
+// פונקציה המאפסת את מסך השיעורים ברגע שיוצאים ממנו
+function resetLessonsPage() {
+    document.querySelector(".page.learning.lessons .back-btn").remove();
+    document.querySelector(".page.learning.lessons .practice-btn").remove();
+    document.querySelector(".page.learning.lessons  .cards-container").innerHTML = "";
+}
+
+function practicePopup(subject) {
+    document.querySelector(".page.learning.lessons .title").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.lessons .practice-btn").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.lessons .back-btn").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.lessons .cards-container").style.filter = `blur(${blurAmount})`;
+    document.querySelector(".page.learning.lessons .sub-title").style.filter = `blur(${blurAmount})`;
+    let popup =
+        El("div", { cls: "dark" },
+            // כל הקלף
+            El("div", { cls: "before-practice-one-sub" },
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/close_btn.svg", class: "close-btn"
+                    }, listeners: {
+                        // // כפתור סגירה של הפופאפ
+                        click: function () {
+                            document.querySelector(".page.learning.lessons .title").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .practice-btn").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .back-btn").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .cards-container").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .sub-title").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .dark").remove();
+                        }
+                    }
+                }),
+                // כותרת
+                El("div", { cls: "title-popup" }, "לפני שמתחילים"),
+                El("div", { cls: "instructions-practice" },
+                    // בלוק 1
+                    El("div", { cls: "instruction-practice" },
+                        El("div", { cls: "text" },
+                            El("b", {}, "דקה"),
+                            " לכל שאלה",
+                        ),
+                        El("img", { attributes: { src: "../assets/images/exam/beforeExam_popup/timer_icon.svg", class: "icon2" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 2
+                    El("div", { cls: "instruction-practice" },
+                        El("div", { cls: "text" },
+                            "זה רק",
+                            El("b", {}, " תרגול")
+                        ),
+                        El("img", { attributes: { src: "../assets/images/practice/beforePractice_popup/blow_icon.svg", class: "icon2" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                    // בלוק 3
+                    El("div", { cls: "instruction-practice" },
+                        El("div", { cls: "text" },
+                        El("b", {}, " הקליקו") ,
+                            " למעבר בין השאלות",
+                        ),
+                        El("img", { attributes: { src: "../assets/images/practice/beforePractice_popup/slide_icon.svg", class: "icon4" } }),
+                    ),
+                    El("div", { cls: "grey-line" }),
+                ),
+                El("img", {
+                    attributes: {
+                        src: "../assets/images/general/ok_btn.svg", class: "start-btn"
+                    }, listeners: {
+                        click: function () {
+                            // כפתור מעבר למבחן מהפופאפ
+                            document.querySelector(".page.learning.lessons .title").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .practice-btn").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .back-btn").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .cards-container").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .sub-title").style.filter = "unset";
+                            document.querySelector(".page.learning.lessons .dark").remove();
+                            document.querySelector(".page.learning.lessons").classList.remove("active");
+                            document.querySelector(".page.practice").classList.add("active");
+                            theChosenSub(subject);
+                            resetLessonsPage();
+                            practicePage();
+                        }
+                    }
+                })
+            )
+        );
+
+    document.querySelector(".page.learning.lessons").append(popup);
+}
